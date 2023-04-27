@@ -1,0 +1,1777 @@
+integration_method,homology_method,species_dir,adj_rand_score,pct_cell_type_kept,from_species,to_species,task_name,type
+scANVI,O2O,sscrofa to hsapiens,0.994984575109913,0.9090909090909092,sscrofa,hsapiens,Hippocampus_hs_mu_ss,scANVI O2O
+scANVI,HE,sscrofa to hsapiens,0.9949007324045572,0.9090909090909092,sscrofa,hsapiens,Hippocampus_hs_mu_ss,scANVI HE
+scANVI,SH,sscrofa to hsapiens,0.994349421229015,0.9090909090909092,sscrofa,hsapiens,Hippocampus_hs_mu_ss,scANVI SH
+scANVI,SH,mmulatta to hsapiens,0.9942025574933114,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,scANVI SH
+scANVI,HE,mmulatta to hsapiens,0.9933227307989042,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,scANVI HE
+scANVI,O2O,mmulatta to hsapiens,0.9932496964905964,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,scANVI O2O
+fastMNN,HE,sscrofa to hsapiens,0.9930862321198024,0.8181818181818182,sscrofa,hsapiens,Hippocampus_hs_mu_ss,fastMNN HE
+scANVI,HE,hsapiens to mmusculus,0.9929946533940488,1,hsapiens,mmusculus,Pancreas_hs_mm,scANVI HE
+fastMNN,SH,sscrofa to hsapiens,0.9927879721947188,0.8181818181818182,sscrofa,hsapiens,Hippocampus_hs_mu_ss,fastMNN SH
+fastMNN,O2O,sscrofa to hsapiens,0.9926961187686346,0.8181818181818182,sscrofa,hsapiens,Hippocampus_hs_mu_ss,fastMNN O2O
+scANVI,SH,drerio to mfascicularis,0.9926416156690546,1,drerio,mfascicularis,Heart_mf_dr,scANVI SH
+scANVI,HE,drerio to mfascicularis,0.99155479257239,1,drerio,mfascicularis,Heart_mf_dr,scANVI HE
+fastMNN,HE,mmulatta to hsapiens,0.9909270159191056,0.9166666666666666,mmulatta,hsapiens,Hippocampus_hs_mu_ss,fastMNN HE
+scANVI,SH,hsapiens to mmusculus,0.990907066445592,1,hsapiens,mmusculus,Pancreas_hs_mm,scANVI SH
+fastMNN,SH,mmulatta to hsapiens,0.9908990963860608,0.9166666666666666,mmulatta,hsapiens,Hippocampus_hs_mu_ss,fastMNN SH
+fastMNN,O2O,mmulatta to hsapiens,0.9908018557211066,0.9166666666666666,mmulatta,hsapiens,Hippocampus_hs_mu_ss,fastMNN O2O
+scANVI,SH,drerio to hsapiens,0.9902405787704628,1,drerio,hsapiens,Heart_hs_dr,scANVI SH
+scANVI,O2O,drerio to hsapiens,0.9897623871420154,1,drerio,hsapiens,Heart_hs_dr,scANVI O2O
+scVI,SH,sscrofa to hsapiens,0.9889490683320532,0.9090909090909092,sscrofa,hsapiens,Hippocampus_hs_mu_ss,scVI SH
+scANVI,SH,mfascicularis to mmusculus,0.988863138613626,1,mfascicularis,mmusculus,Heart_mf_mm,scANVI SH
+scVI,O2O,sscrofa to hsapiens,0.988708594615144,0.9090909090909092,sscrofa,hsapiens,Hippocampus_hs_mu_ss,scVI O2O
+SeuratV4 CCA,HE,mmulatta to hsapiens,0.9885872710022324,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 CCA HE
+scANVI,O2O,mfascicularis to mmusculus,0.9885015241277276,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scVI,O2O,mmulatta to hsapiens,0.987834316542707,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,scVI O2O
+scANVI,SH,mfascicularis to mmusculus,0.9877270608773712,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,scANVI SH
+SeuratV4 RPCA,HE,sscrofa to hsapiens,0.987593773323101,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 RPCA HE
+scANVI,SH,drerio to mfascicularis,0.9875741922568956,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI SH
+scANVI,HE,mfascicularis to mmusculus,0.987392357245366,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,scANVI HE
+scVI,HE,sscrofa to hsapiens,0.9873517346206128,0.9090909090909092,sscrofa,hsapiens,Hippocampus_hs_mu_ss,scVI HE
+scVI,HE,mmulatta to hsapiens,0.9872043787971524,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,scVI HE
+scANVI,O2O,mfascicularis to mmusculus,0.9871279976360182,1,mfascicularis,mmusculus,Heart_mf_mm,scANVI O2O
+scVI,SH,mmulatta to hsapiens,0.987064029733966,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,scVI SH
+scANVI,O2O,drerio to hsapiens,0.986912706664382,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI O2O
+SeuratV4 CCA,O2O,mmulatta to hsapiens,0.9866715799678164,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 CCA O2O
+SeuratV4 CCA,SH,mmulatta to hsapiens,0.986545187887258,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 CCA SH
+fastMNN,HE,drerio to hsapiens,0.9865121226392825,1,drerio,hsapiens,Heart_hs_dr,fastMNN HE
+scANVI,HE,drerio to mfascicularis,0.9864503598715376,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI HE
+scANVI,SH,mfascicularis to mmusculus,0.9861842683578348,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI SH
+SeuratV4 RPCA,O2O,sscrofa to hsapiens,0.9860853069997292,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 RPCA O2O
+SeuratV4 RPCA,O2O,mmulatta to hsapiens,0.9859196031034152,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 RPCA O2O
+fastMNN,SH,xtropicalis to hsapiens,0.985833643700253,1,xtropicalis,hsapiens,Heart_hs_xl,fastMNN SH
+scANVI,HE,mfascicularis to mmusculus,0.9854318938867964,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI HE
+scANVI,O2O,mfascicularis to mmusculus,0.985232209932652,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,scANVI O2O
+fastMNN,HE,xtropicalis to hsapiens,0.9850914573271574,1,xtropicalis,hsapiens,Heart_hs_xl,fastMNN HE
+scANVI,SH,mfascicularis to mmusculus,0.9846105046726452,1,mfascicularis,mmusculus,Heart_hs_mf_mm,scANVI SH
+scANVI,SH,mfascicularis to drerio,0.984571857587156,1,mfascicularis,drerio,Heart_mf_dr,scANVI SH
+SeuratV4 CCA,HE,mfascicularis to mmusculus,0.9842834721196156,1,mfascicularis,mmusculus,Heart_mf_mm,SeuratV4 CCA HE
+scANVI,HE,mfascicularis to mmusculus,0.9842638636639344,1,mfascicularis,mmusculus,Heart_mf_mm,scANVI HE
+scANVI,HE,drerio to hsapiens,0.984031548764321,1,drerio,hsapiens,Heart_hs_dr,scANVI HE
+fastMNN,SH,xtropicalis to hsapiens,0.9835391992933468,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,fastMNN SH
+scANVI,O2O,mfascicularis to mmusculus,0.983279242933178,1,mfascicularis,mmusculus,Heart_hs_mf_mm,scANVI O2O
+fastMNN,HE,xtropicalis to hsapiens,0.9827785958103756,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,fastMNN HE
+SeuratV4 CCA,O2O,mfascicularis to mmusculus,0.9827039948332554,1,mfascicularis,mmusculus,Heart_mf_mm,SeuratV4 CCA O2O
+scANVI,HE,drerio to mmusculus,0.9826567736640628,1,drerio,mmusculus,Heart_mm_dr,scANVI HE
+scANVI,HE,mfascicularis to mmusculus,0.9826429043192992,1,mfascicularis,mmusculus,Heart_hs_mf_mm,scANVI HE
+scANVI,HE,xtropicalis to hsapiens,0.982576250234944,1,xtropicalis,hsapiens,Heart_hs_xl,scANVI HE
+scANVI,O2O,hsapiens to mmusculus,0.9825020347610884,1,hsapiens,mmusculus,Pancreas_hs_mm,scANVI O2O
+SeuratV4 RPCA,HE,mmulatta to hsapiens,0.982413047126002,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 RPCA HE
+fastMNN,O2O,xtropicalis to hsapiens,0.9823665190903248,1,xtropicalis,hsapiens,Heart_hs_xl,fastMNN O2O
+SeuratV4 CCA,SH,mfascicularis to mmusculus,0.9821293938503778,1,mfascicularis,mmusculus,Heart_mf_mm,SeuratV4 CCA SH
+LIGER UINMF,O2O,sscrofa to hsapiens,0.9821277388039475,0.8181818181818182,sscrofa,hsapiens,Hippocampus_hs_mu_ss,LIGER UINMF O2O
+scANVI,SH,mmusculus to hsapiens,0.982023860119214,1,mmusculus,hsapiens,Pancreas_hs_mm,scANVI SH
+fastMNN,O2O,xtropicalis to hsapiens,0.9817335770897164,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,fastMNN O2O
+scANVI,SH,xtropicalis to mmusculus,0.9811092165456088,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,scANVI SH
+SeuratV4 RPCA,SH,sscrofa to hsapiens,0.980217139266452,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 RPCA SH
+SeuratV4 CCA,SH,mfascicularis to mmusculus,0.9796135739410996,1,mfascicularis,mmusculus,Heart_hs_mf_mm,SeuratV4 CCA SH
+fastMNN,SH,xtropicalis to mmusculus,0.9795987881973008,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,fastMNN SH
+scANVI,HE,hsapiens to mmusculus,0.9795419985254438,1,hsapiens,mmusculus,Heart_hs_mf_mm,scANVI HE
+scANVI,HE,hsapiens to mmusculus,0.9793912360797804,1,hsapiens,mmusculus,Heart_hs_mm,scANVI HE
+scANVI,O2O,drerio to mfascicularis,0.9790554521775714,1,drerio,mfascicularis,Heart_mf_dr,scANVI O2O
+scANVI,SH,xtropicalis to hsapiens,0.9789411912717828,1,xtropicalis,hsapiens,Heart_hs_xl,scANVI SH
+fastMNN,O2O,xtropicalis to mmusculus,0.9789003527670458,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,fastMNN O2O
+scANVI,O2O,drerio to mfascicularis,0.9787567454949292,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scANVI,HE,hsapiens to mfascicularis,0.9784951343356468,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,scANVI HE
+fastMNN,HE,xtropicalis to mmusculus,0.9783268342941212,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,fastMNN HE
+scANVI,O2O,mmusculus to hsapiens,0.978090172628358,1,mmusculus,hsapiens,Pancreas_hs_mm,scANVI O2O
+SeuratV4 CCA,HE,mfascicularis to mmusculus,0.9778905278434592,1,mfascicularis,mmusculus,Heart_hs_mf_mm,SeuratV4 CCA HE
+SeuratV4 RPCA,SH,mmulatta to hsapiens,0.977718720038873,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 RPCA SH
+scANVI,O2O,hsapiens to mmusculus,0.9776717627135476,1,hsapiens,mmusculus,Heart_hs_mf_mm,scANVI O2O
+scANVI,SH,hsapiens to mmusculus,0.977484141688587,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,scANVI SH
+scANVI,HE,xtropicalis to mmusculus,0.9774217782586736,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,scANVI HE
+scANVI,SH,drerio to hsapiens,0.9770227386657888,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI SH
+scANVI,SH,mmusculus to mfascicularis,0.9767883176011638,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI SH
+SeuratV4 CCA,O2O,mfascicularis to mmusculus,0.976656047794295,1,mfascicularis,mmusculus,Heart_hs_mf_mm,SeuratV4 CCA O2O
+scANVI,HE,mmusculus to hsapiens,0.976435940037152,1,mmusculus,hsapiens,Pancreas_hs_mm,scANVI HE
+Harmony,SH,hsapiens to mmusculus,0.9764013523223674,0.9090909090909092,hsapiens,mmusculus,Heart_hs_mf_mm,Harmony SH
+scANVI,O2O,mfascicularis to drerio,0.9760561012985702,1,mfascicularis,drerio,Heart_mf_dr,scANVI O2O
+scANVI,HE,hsapiens to mmusculus,0.9756838559687288,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI HE
+fastMNN,SH,mfascicularis to mmusculus,0.975633578249207,1,mfascicularis,mmusculus,Heart_hs_mf_mm,fastMNN SH
+scANVI,O2O,mmusculus to mfascicularis,0.9749068098352824,1,mmusculus,mfascicularis,Heart_mf_mm,scANVI O2O
+fastMNN,HE,mfascicularis to mmusculus,0.974801839717924,1,mfascicularis,mmusculus,Heart_hs_mf_mm,fastMNN HE
+scANVI,HE,xtropicalis to hsapiens,0.974796097119823,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,scANVI HE
+Harmony,HE,hsapiens to mmusculus,0.9747733502057792,1,hsapiens,mmusculus,Heart_hs_mf_mm,Harmony HE
+scANVI,O2O,hsapiens to mmulatta,0.9746042705697862,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,scANVI O2O
+fastMNN,O2O,mfascicularis to mmusculus,0.9744210554481432,1,mfascicularis,mmusculus,Heart_hs_mf_mm,fastMNN O2O
+scANVI,O2O,xtropicalis to hsapiens,0.9742657188884088,1,xtropicalis,hsapiens,Heart_hs_xl,scANVI O2O
+Harmony,O2O,mfascicularis to mmusculus,0.9742093680778936,1,mfascicularis,mmusculus,Heart_hs_mf_mm,Harmony O2O
+Harmony,SH,xtropicalis to hsapiens,0.9740722593465192,1,xtropicalis,hsapiens,Heart_hs_xl,Harmony SH
+SeuratV4 CCA,O2O,xtropicalis to hsapiens,0.9737946224663836,1,xtropicalis,hsapiens,Heart_hs_xl,SeuratV4 CCA O2O
+scANVI,HE,drerio to hsapiens,0.9737784921298858,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI HE
+scANVI,O2O,hsapiens to mmusculus,0.9737528971838552,0.9090909090909092,hsapiens,mmusculus,Heart_hs_mf_mm_xl,scANVI O2O
+scANVI,SH,hsapiens to mmulatta,0.9734607837945976,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,scANVI SH
+scANVI,SH,hsapiens to mmusculus,0.9731155532516432,1,hsapiens,mmusculus,Heart_hs_mf_mm,scANVI SH
+scANVI,HE,mfascicularis to drerio,0.9724506257473052,1,mfascicularis,drerio,Heart_mf_dr,scANVI HE
+Harmony,SH,mmulatta to hsapiens,0.9724091972335972,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,Harmony SH
+scANVI,O2O,xtropicalis to hsapiens,0.9723318440517564,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI O2O
+Harmony,SH,sscrofa to hsapiens,0.971598160426422,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,Harmony SH
+scVI,O2O,hsapiens to mmulatta,0.971588796329236,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,scVI O2O
+scANVI,O2O,hsapiens to mmusculus,0.9715693450840228,0.9090909090909092,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scANVI,HE,hsapiens to mmusculus,0.9715341983202844,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,scANVI HE
+scANVI,SH,mmusculus to mfascicularis,0.9714832241711456,1,mmusculus,mfascicularis,Heart_mf_mm,scANVI SH
+scANVI,HE,mmusculus to mfascicularis,0.9713318572645908,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,scANVI HE
+scANVI,O2O,hsapiens to mmusculus,0.9712112970893017,1,hsapiens,mmusculus,Heart_hs_mm,scANVI O2O
+scANVI,SH,hsapiens to mfascicularis,0.97110701451111,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI SH
+SeuratV4 CCA,SH,xtropicalis to hsapiens,0.9710575540748988,1,xtropicalis,hsapiens,Heart_hs_xl,SeuratV4 CCA SH
+fastMNN,HE,xtropicalis to mmusculus,0.9708031296836852,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN HE
+Scanorama,O2O,mmulatta to hsapiens,0.9706754585272694,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,Scanorama O2O
+SeuratV4 CCA,HE,xtropicalis to hsapiens,0.9706386552437072,1,xtropicalis,hsapiens,Heart_hs_xl,SeuratV4 CCA HE
+Harmony,O2O,sscrofa to hsapiens,0.9705634213115406,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,Harmony O2O
+scANVI,O2O,hsapiens to mfascicularis,0.9705617586864096,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+Harmony,HE,xtropicalis to hsapiens,0.9705186819197684,1,xtropicalis,hsapiens,Heart_hs_xl,Harmony HE
+scANVI,O2O,mmusculus to mfascicularis,0.9705053301333548,1,mmusculus,mfascicularis,Heart_hs_mf_mm,scANVI O2O
+fastMNN,SH,xtropicalis to mmusculus,0.9704463062731612,0.8571428571428571,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN SH
+scANVI,SH,hsapiens to mfascicularis,0.9700894738031918,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,scANVI SH
+scANVI,O2O,drerio to mmusculus,0.9700036103952088,1,drerio,mmusculus,Heart_mm_dr,scANVI O2O
+LIGER UINMF,O2O,mmulatta to hsapiens,0.9699411843846352,0.9166666666666666,mmulatta,hsapiens,Hippocampus_hs_mu_ss,LIGER UINMF O2O
+fastMNN,HE,hsapiens to mmulatta,0.9696968222307676,0.8333333333333334,hsapiens,mmulatta,Hippocampus_hs_mu_ss,fastMNN HE
+scANVI,O2O,mfascicularis to xtropicalis,0.9694084686071572,1,mfascicularis,xtropicalis,Heart_mf_xl,scANVI O2O
+Harmony,HE,mfascicularis to mmusculus,0.969287233941016,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,Harmony HE
+fastMNN,SH,hsapiens to mmulatta,0.9690347414635966,0.8333333333333334,hsapiens,mmulatta,Hippocampus_hs_mu_ss,fastMNN SH
+fastMNN,O2O,hsapiens to mmulatta,0.9690058902237322,0.8333333333333334,hsapiens,mmulatta,Hippocampus_hs_mu_ss,fastMNN O2O
+Harmony,O2O,hsapiens to mmusculus,0.96874836347143,1,hsapiens,mmusculus,Heart_hs_mf_mm,Harmony O2O
+SeuratV4 RPCA,SH,xtropicalis to hsapiens,0.9686021593107826,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+Harmony,O2O,mmulatta to hsapiens,0.968494583773554,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,Harmony O2O
+scANVI,HE,xtropicalis to mfascicularis,0.9684768303884972,1,xtropicalis,mfascicularis,Heart_mf_xl,scANVI HE
+scANVI,O2O,hsapiens to mfascicularis,0.9684366215556662,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,scANVI O2O
+scANVI,SH,hsapiens to mmusculus,0.9683826470419205,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI SH
+Scanorama,HE,sscrofa to hsapiens,0.9683706198500548,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,Scanorama HE
+SeuratV4 CCA,HE,sscrofa to hsapiens,0.9681086652156076,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 CCA HE
+fastMNN,HE,xtropicalis to hsapiens,0.96806551151672,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN HE
+SeuratV4 CCA,HE,mfascicularis to mmusculus,0.9680347237635274,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+Harmony,O2O,hsapiens to mmusculus,0.9678344672402408,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,Harmony O2O
+fastMNN,SH,xtropicalis to hsapiens,0.9677491074981792,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN SH
+scANVI,SH,xtropicalis to hsapiens,0.9675951290898752,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,scANVI SH
+scANVI,HE,drerio to mmusculus,0.9673191661362056,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI HE
+fastMNN,O2O,xtropicalis to mmusculus,0.967296905005803,0.8571428571428571,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+SeuratV4 RPCA,HE,xtropicalis to hsapiens,0.967262648399248,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+scANVI,HE,hsapiens to mfascicularis,0.9668546555048524,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI HE
+scANVI,SH,mfascicularis to hsapiens,0.9668034756984047,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,scANVI SH
+fastMNN,O2O,xtropicalis to hsapiens,0.96679487409122,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+Scanorama,O2O,xtropicalis to hsapiens,0.9665225759460068,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,Scanorama O2O
+Harmony,SH,mfascicularis to mmusculus,0.9662705372146958,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,Harmony SH
+Harmony,HE,mmulatta to hsapiens,0.9658569578774316,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,Harmony HE
+scANVI,HE,mfascicularis to hsapiens,0.9658327482225096,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,scANVI HE
+scANVI,SH,xtropicalis to mmusculus,0.9657833458020808,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI SH
+scANVI,O2O,xtropicalis to mfascicularis,0.96571114416703,1,xtropicalis,mfascicularis,Heart_mf_xl,scANVI O2O
+fastMNN,SH,hsapiens to mmusculus,0.9656264486801776,0.8181818181818182,hsapiens,mmusculus,Heart_hs_mm,fastMNN SH
+scANVI,O2O,xtropicalis to mfascicularis,0.9653931544683876,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,scANVI O2O
+SeuratV4 CCA,SH,hsapiens to mmusculus,0.9653060843119852,1,hsapiens,mmusculus,Heart_hs_mf_mm,SeuratV4 CCA SH
+scANVI,SH,xtropicalis to mfascicularis,0.9651366553198294,1,xtropicalis,mfascicularis,Heart_mf_xl,scANVI SH
+SeuratV4 RPCA,HE,xtropicalis to hsapiens,0.9650234863061392,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Harmony,O2O,mfascicularis to mmusculus,0.9649464664059147,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,Harmony O2O
+Harmony,O2O,xtropicalis to hsapiens,0.964746466125856,1,xtropicalis,hsapiens,Heart_hs_xl,Harmony O2O
+SeuratV4 CCA,O2O,sscrofa to hsapiens,0.9644048463096956,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 CCA O2O
+SeuratV4 CCA,HE,xtropicalis to hsapiens,0.9642010514303052,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+LIGER UINMF,HE,mmulatta to hsapiens,0.9641927639916968,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,LIGER UINMF HE
+LIGER UINMF,SH,mmulatta to hsapiens,0.9641158456579108,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,LIGER UINMF SH
+fastMNN,O2O,hsapiens to mmusculus,0.9638108248675362,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mm,fastMNN O2O
+SeuratV4 RPCA,SH,hsapiens to mmusculus,0.9637117678119602,1,hsapiens,mmusculus,Heart_hs_mm,SeuratV4 RPCA SH
+fastMNN,HE,hsapiens to mmusculus,0.9637022702302456,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mm,fastMNN HE
+scANVI,HE,xtropicalis to mmusculus,0.9636876165515836,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI HE
+SeuratV4 CCA,SH,mfascicularis to mmusculus,0.9636437448853102,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+SeuratV4 CCA,SH,sscrofa to hsapiens,0.9633534935173717,0.9090909090909092,sscrofa,hsapiens,Hippocampus_hs_mu_ss,SeuratV4 CCA SH
+scANVI,SH,xtropicalis to mfascicularis,0.9632550966022392,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI SH
+fastMNN,SH,hsapiens to mmusculus,0.962755334154988,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm,fastMNN SH
+fastMNN,HE,hsapiens to mmusculus,0.9627397767469766,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm,fastMNN HE
+scANVI,O2O,mfascicularis to hsapiens,0.9626795945385102,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scANVI,O2O,mfascicularis to hsapiens,0.9626211094343964,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,scANVI O2O
+scANVI,O2O,mmusculus to mfascicularis,0.96226946214263,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scANVI,HE,hsapiens to mmulatta,0.962232323853172,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,scANVI HE
+scANVI,O2O,drerio to mmusculus,0.9621718153904216,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI O2O
+SeuratV4 RPCA,HE,hsapiens to mmusculus,0.961646956621254,1,hsapiens,mmusculus,Heart_hs_mm,SeuratV4 RPCA HE
+fastMNN,O2O,hsapiens to mmusculus,0.961470938353184,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm,fastMNN O2O
+fastMNN,SH,hsapiens to mmusculus,0.9613000237644224,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm_xl,fastMNN SH
+fastMNN,SH,hsapiens to mmusculus,0.9611750119038458,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN SH
+Harmony,HE,xtropicalis to mmusculus,0.9611472747570082,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,Harmony HE
+scANVI,O2O,mfascicularis to hsapiens,0.9610504169901946,1,mfascicularis,hsapiens,Heart_hs_mf,scANVI O2O
+scANVI,HE,xtropicalis to mfascicularis,0.9609353096521256,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI HE
+scVI,HE,hsapiens to mmulatta,0.9605287164393456,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,scVI HE
+fastMNN,HE,hsapiens to mmusculus,0.9603986001196692,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm_xl,fastMNN HE
+scANVI,HE,hsapiens to xtropicalis,0.95984316106084,1,hsapiens,xtropicalis,Heart_hs_xl,scANVI HE
+scVI,SH,hsapiens to mmulatta,0.9596364598680208,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,scVI SH
+SeuratV4 CCA,SH,xtropicalis to hsapiens,0.9595470136926776,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+SeuratV4 RPCA,HE,mmusculus to hsapiens,0.95942317927512,1,mmusculus,hsapiens,Pancreas_hs_mm,SeuratV4 RPCA HE
+scANVI,HE,xtropicalis to mfascicularis,0.9593938037282518,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,scANVI HE
+SeuratV4 RPCA,O2O,mmusculus to hsapiens,0.9593878817514804,1,mmusculus,hsapiens,Pancreas_hs_mm,SeuratV4 RPCA O2O
+Scanorama,HE,xtropicalis to hsapiens,0.9591175263551748,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,Scanorama HE
+fastMNN,HE,hsapiens to mmusculus,0.9591077775651844,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN HE
+scANVI,HE,mmusculus to hsapiens,0.9590829639336478,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,scANVI HE
+Harmony,HE,hsapiens to mmusculus,0.9590040256902728,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,Harmony HE
+scANVI,HE,hsapiens to sscrofa,0.9588333600661424,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,scANVI HE
+Scanorama,HE,mmulatta to hsapiens,0.958708407672078,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,Scanorama HE
+scANVI,SH,xtropicalis to hsapiens,0.9586016202249156,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI SH
+scANVI,SH,hsapiens to sscrofa,0.9586007451454436,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,scANVI SH
+Harmony,O2O,hsapiens to mmusculus,0.9585804070791212,1,hsapiens,mmusculus,Heart_hs_mm,Harmony O2O
+scANVI,SH,mfascicularis to hsapiens,0.9584939173464724,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI SH
+scANVI,HE,mfascicularis to xtropicalis,0.9580434388917696,1,mfascicularis,xtropicalis,Heart_mf_xl,scANVI HE
+fastMNN,O2O,hsapiens to mmusculus,0.9579875427928692,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+SeuratV4 RPCA,SH,mmusculus to hsapiens,0.9578301251415786,1,mmusculus,hsapiens,Pancreas_hs_mm,SeuratV4 RPCA SH
+scANVI,HE,mfascicularis to hsapiens,0.9576652020986018,1,mfascicularis,hsapiens,Heart_hs_mf,scANVI HE
+SeuratV4 CCA,SH,hsapiens to mmusculus,0.9575843853431406,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,SH,xtropicalis to mmusculus,0.9575628877983288,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,Harmony SH
+scANVI,O2O,mmusculus to hsapiens,0.9575470059353012,0.9090909090909092,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI O2O
+SeuratV4 CCA,O2O,hsapiens to mmusculus,0.9572440448006756,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+fastMNN,O2O,hsapiens to mmusculus,0.9570768915847928,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm_xl,fastMNN O2O
+SeuratV4 CCA,HE,xtropicalis to mfascicularis,0.956865431238592,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+scVI,O2O,hsapiens to mmusculus,0.956768545986592,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,scVI O2O
+SeuratV4 RPCA,SH,hsapiens to mfascicularis,0.9567590000607776,1,hsapiens,mfascicularis,Heart_hs_mf,SeuratV4 RPCA SH
+Harmony,SH,hsapiens to mmusculus,0.9566821107637248,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,Harmony SH
+scANVI,SH,mmusculus to hsapiens,0.9562712449109306,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI SH
+SeuratV4 CCA,O2O,mfascicularis to mmusculus,0.9562162518174524,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+scANVI,O2O,xtropicalis to mfascicularis,0.9554659822382326,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+SeuratV4 RPCA,HE,mfascicularis to mmusculus,0.9553160136235764,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,hsapiens to mfascicularis,0.9552888013020868,1,hsapiens,mfascicularis,Heart_hs_mf_mm,SeuratV4 RPCA O2O
+scANVI,SH,drerio to mmusculus,0.9552822738587432,1,drerio,mmusculus,Heart_mm_dr,scANVI SH
+scANVI,SH,mfascicularis to xtropicalis,0.9552505516578804,1,mfascicularis,xtropicalis,Heart_mf_xl,scANVI SH
+SeuratV4 CCA,O2O,hsapiens to mmulatta,0.9552138693781675,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 CCA O2O
+SeuratV4 RPCA,HE,hsapiens to mfascicularis,0.9551633643519356,1,hsapiens,mfascicularis,Heart_hs_mf_mm,SeuratV4 RPCA HE
+SeuratV4 RPCA,SH,hsapiens to mfascicularis,0.9550097261327094,1,hsapiens,mfascicularis,Heart_hs_mf_mm,SeuratV4 RPCA SH
+SeuratV4 CCA,SH,xtropicalis to mfascicularis,0.9549523807670264,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+scANVI,O2O,mfascicularis to xtropicalis,0.9549230261666424,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scANVI,HE,xtropicalis to hsapiens,0.9547597482061272,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI HE
+scANVI,SH,mmusculus to mfascicularis,0.9547059798830572,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,scANVI SH
+SeuratV4 RPCA,HE,hsapiens to mmusculus,0.9544703767225932,1,hsapiens,mmusculus,Heart_hs_mf_mm,SeuratV4 RPCA HE
+scANVI,SH,hsapiens to mmusculus,0.954198866253942,1,hsapiens,mmusculus,Heart_hs_mm,scANVI SH
+scANVI,O2O,hsapiens to mfascicularis,0.9541059601955908,1,hsapiens,mfascicularis,Heart_hs_mf_mm,scANVI O2O
+SeuratV4 CCA,HE,mfascicularis to hsapiens,0.9540614992017744,1,mfascicularis,hsapiens,Heart_hs_mf_mm,SeuratV4 CCA HE
+SeuratV4 CCA,SH,mfascicularis to hsapiens,0.9540419760050992,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+SeuratV4 CCA,HE,hsapiens to mmusculus,0.9540280006372908,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+scANVI,HE,mfascicularis to xtropicalis,0.9540133332590468,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI HE
+scANVI,O2O,sscrofa to mmulatta,0.9538542741921768,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,scANVI O2O
+scANVI,O2O,xtropicalis to hsapiens,0.9537030906490056,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,scANVI O2O
+scANVI,O2O,mmusculus to hsapiens,0.953643256494608,0.9090909090909092,mmusculus,hsapiens,Heart_hs_mf_mm_xl,scANVI O2O
+SeuratV4 CCA,O2O,mfascicularis to hsapiens,0.9533401198929464,1,mfascicularis,hsapiens,Heart_hs_mf_mm,SeuratV4 CCA O2O
+SeuratV4 RPCA,HE,mfascicularis to mmusculus,0.953333721783776,1,mfascicularis,mmusculus,Heart_hs_mf_mm,SeuratV4 RPCA HE
+scANVI,O2O,mmusculus to hsapiens,0.9532285148651928,1,mmusculus,hsapiens,Heart_hs_mm,scANVI O2O
+scANVI,SH,xtropicalis to mfascicularis,0.952991770930769,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,scANVI SH
+SeuratV4 CCA,SH,drerio to hsapiens,0.9529704455489892,1,drerio,hsapiens,Heart_hs_dr,SeuratV4 CCA SH
+SeuratV4 RPCA,SH,mfascicularis to mmusculus,0.9529556747581648,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+scANVI,HE,mmulatta to sscrofa,0.9528522784021716,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,scANVI HE
+scANVI,HE,mfascicularis to xtropicalis,0.9527222779419336,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,scANVI HE
+scANVI,SH,mmulatta to sscrofa,0.952552556362089,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,scANVI SH
+SeuratV4 CCA,O2O,mfascicularis to hsapiens,0.9525223480549544,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+SeuratV4 CCA,HE,mmusculus to hsapiens,0.952326681867756,1,mmusculus,hsapiens,Pancreas_hs_mm,SeuratV4 CCA HE
+scANVI,O2O,mfascicularis to hsapiens,0.952272514229817,1,mfascicularis,hsapiens,Heart_hs_mf_mm,scANVI O2O
+scANVI,HE,mmusculus to mfascicularis,0.951850490092996,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,scANVI HE
+scVI,SH,hsapiens to sscrofa,0.9516555434427412,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,scVI SH
+scANVI,SH,mmusculus to hsapiens,0.9514967139044148,1,mmusculus,hsapiens,Heart_hs_mm,scANVI SH
+fastMNN,O2O,mmusculus to hsapiens,0.9514801166369752,0.8181818181818182,mmusculus,hsapiens,Heart_hs_mm,fastMNN O2O
+scVI,HE,hsapiens to sscrofa,0.9513329594279868,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,scVI HE
+SeuratV4 RPCA,SH,hsapiens to mfascicularis,0.9512936916359208,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+SeuratV4 CCA,O2O,xtropicalis to mfascicularis,0.9512123111886088,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+scANVI,HE,hsapiens to xtropicalis,0.9510561797947888,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI HE
+SeuratV4 CCA,SH,hsapiens to mmulatta,0.9510130988401828,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 CCA SH
+SeuratV4 RPCA,O2O,mfascicularis to hsapiens,0.9509589730572926,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+scANVI,HE,mfascicularis to hsapiens,0.9509406852516132,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI HE
+scANVI,HE,mmusculus to hsapiens,0.9508581553819936,0.9090909090909092,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,scANVI HE
+SeuratV4 CCA,SH,mmusculus to hsapiens,0.9506645824965536,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+scANVI,HE,mfascicularis to hsapiens,0.9503784241396658,1,mfascicularis,hsapiens,Heart_hs_mf_mm,scANVI HE
+SeuratV4 RPCA,HE,mfascicularis to hsapiens,0.9502620370383787,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+scANVI,SH,mfascicularis to xtropicalis,0.9501371417042777,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,scANVI SH
+scANVI,O2O,xtropicalis to mmusculus,0.9501184548702408,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,scANVI O2O
+scANVI,HE,mmusculus to mfascicularis,0.94996448946446,1,mmusculus,mfascicularis,Heart_hs_mf_mm,scANVI HE
+SeuratV4 RPCA,SH,mfascicularis to hsapiens,0.9498612511481476,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+fastMNN,HE,mmusculus to hsapiens,0.949821913906306,0.8181818181818182,mmusculus,hsapiens,Heart_hs_mm,fastMNN HE
+fastMNN,O2O,mmusculus to hsapiens,0.9497436804236864,0.7272727272727273,mmusculus,hsapiens,Heart_hs_mf_mm,fastMNN O2O
+scANVI,SH,drerio to mmusculus,0.94969500327876,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI SH
+scANVI,SH,hsapiens to xtropicalis,0.949519397082472,1,hsapiens,xtropicalis,Heart_hs_xl,scANVI SH
+scANVI,HE,mmusculus to hsapiens,0.9494103414245796,1,mmusculus,hsapiens,Heart_hs_mm,scANVI HE
+fastMNN,SH,mmusculus to hsapiens,0.94936213306787,0.8181818181818182,mmusculus,hsapiens,Heart_hs_mm,fastMNN SH
+Harmony,O2O,hsapiens to mmulatta,0.949359177479064,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,Harmony O2O
+SeuratV4 CCA,HE,mfascicularis to hsapiens,0.9493129665002228,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+SeuratV4 RPCA,O2O,xtropicalis to hsapiens,0.9493114497274944,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+scANVI,O2O,mmusculus to mfascicularis,0.9492713935581352,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,scANVI O2O
+scANVI,SH,hsapiens to mfascicularis,0.9492150923356898,1,hsapiens,mfascicularis,Heart_hs_mf_mm,scANVI SH
+SeuratV4 RPCA,HE,hsapiens to mmusculus,0.94898007833389,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,mfascicularis to hsapiens,0.9489126784016204,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+SeuratV4 RPCA,SH,hsapiens to mmusculus,0.9488460126694662,1,hsapiens,mmusculus,Heart_hs_mf_mm,SeuratV4 RPCA SH
+Harmony,SH,hsapiens to mmulatta,0.9485869382628942,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,Harmony SH
+scANVI,SH,mfascicularis to hsapiens,0.9485730388548164,1,mfascicularis,hsapiens,Heart_hs_mf_mm,scANVI SH
+scANVI,O2O,mmusculus to xtropicalis,0.9485214765593178,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+fastMNN,HE,sscrofa to mmulatta,0.9484659135411652,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,fastMNN HE
+scVI,SH,mmulatta to sscrofa,0.9484429631722924,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,scVI SH
+scANVI,SH,hsapiens to xtropicalis,0.9483156867559503,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI SH
+SeuratV4 CCA,HE,hsapiens to mmulatta,0.94822401818657,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 CCA HE
+scANVI,O2O,hsapiens to xtropicalis,0.9481265318206518,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+Scanorama,SH,sscrofa to hsapiens,0.9480660074516428,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,Scanorama SH
+SeuratV4 RPCA,HE,hsapiens to mmusculus,0.9479459618816748,1,hsapiens,mmusculus,Pancreas_hs_mm,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,hsapiens to mfascicularis,0.9478319373554562,1,hsapiens,mfascicularis,Heart_hs_mf,SeuratV4 RPCA O2O
+SeuratV4 RPCA,HE,hsapiens to mfascicularis,0.9477870146673414,1,hsapiens,mfascicularis,Heart_hs_mf,SeuratV4 RPCA HE
+Harmony,HE,hsapiens to mmulatta,0.947778941082432,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,Harmony HE
+fastMNN,SH,drerio to hsapiens,0.9476801016389814,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN SH
+scVI,O2O,hsapiens to sscrofa,0.9475791316480372,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,scVI O2O
+scANVI,O2O,mmulatta to sscrofa,0.9472470962212642,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,scANVI O2O
+scANVI,SH,mmusculus to hsapiens,0.9471542012337716,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,scANVI SH
+scANVI,O2O,hsapiens to sscrofa,0.9471463611514348,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,scANVI O2O
+scANVI,HE,mmusculus to hsapiens,0.947026174871996,1,mmusculus,hsapiens,Heart_hs_mf_mm,scANVI HE
+fastMNN,HE,mmusculus to hsapiens,0.946980763139206,0.7272727272727273,mmusculus,hsapiens,Heart_hs_mf_mm,fastMNN HE
+Harmony,SH,xtropicalis to hsapiens,0.9468025682390232,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,Harmony SH
+Scanorama,HE,mmusculus to hsapiens,0.9467308193482282,1,mmusculus,hsapiens,Heart_hs_mf_mm,Scanorama HE
+SeuratV4 RPCA,SH,xtropicalis to hsapiens,0.9467148498360068,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+scANVI,SH,mmusculus to mfascicularis,0.946688494943678,1,mmusculus,mfascicularis,Heart_hs_mf_mm,scANVI SH
+SeuratV4 RPCA,O2O,hsapiens to sscrofa,0.9465889097997192,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 RPCA O2O
+fastMNN,O2O,mmusculus to hsapiens,0.9465843998654344,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl,fastMNN O2O
+SeuratV4 RPCA,SH,mmulatta to sscrofa,0.9464354867718856,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 RPCA SH
+scANVI,SH,mmusculus to hsapiens,0.94627085451343,1,mmusculus,hsapiens,Heart_hs_mf_mm,scANVI SH
+SeuratV4 RPCA,O2O,mfascicularis to hsapiens,0.9459549179165512,1,mfascicularis,hsapiens,Heart_hs_mf_mm,SeuratV4 RPCA O2O
+SeuratV4 RPCA,O2O,mmulatta to sscrofa,0.9456937120950544,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 RPCA O2O
+SeuratV4 RPCA,HE,mmulatta to sscrofa,0.9454690771454451,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,hsapiens to mfascicularis,0.9452589781845474,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+SeuratV4 RPCA,HE,mfascicularis to hsapiens,0.9450828935123572,1,mfascicularis,hsapiens,Heart_hs_mf_mm,SeuratV4 RPCA HE
+SeuratV4 RPCA,SH,hsapiens to sscrofa,0.9450361019783272,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 RPCA SH
+scVI,O2O,mmulatta to sscrofa,0.9449168317958636,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,scVI O2O
+fastMNN,SH,mmusculus to hsapiens,0.9448932467470944,0.7272727272727273,mmusculus,hsapiens,Heart_hs_mf_mm_xl,fastMNN SH
+fastMNN,SH,mmusculus to hsapiens,0.9447920441412928,0.7272727272727273,mmusculus,hsapiens,Heart_hs_mf_mm,fastMNN SH
+SeuratV4 RPCA,HE,hsapiens to sscrofa,0.9447012417128964,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,xtropicalis to hsapiens,0.9443357060946402,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+scVI,HE,mmulatta to sscrofa,0.9442987039320316,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,scVI HE
+fastMNN,HE,mmusculus to hsapiens,0.943980033724652,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl,fastMNN HE
+SeuratV4 RPCA,SH,mfascicularis to hsapiens,0.9438760950405032,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+scANVI,HE,mmusculus to xtropicalis,0.943780066410206,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI HE
+Harmony,HE,hsapiens to mfascicularis,0.9434128235286988,1,hsapiens,mfascicularis,Heart_hs_mf,Harmony HE
+scANVI,SH,sscrofa to mmulatta,0.9431270048291084,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,scANVI SH
+SeuratV4 CCA,O2O,hsapiens to mfascicularis,0.9431259942679828,1,hsapiens,mfascicularis,Heart_hs_mf_mm,SeuratV4 CCA O2O
+scANVI,HE,hsapiens to xtropicalis,0.9428501233580984,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,scANVI HE
+scANVI,SH,mfascicularis to xtropicalis,0.9427288161561012,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI SH
+fastMNN,SH,sscrofa to mmulatta,0.9426488323817368,0.8333333333333334,sscrofa,mmulatta,Hippocampus_hs_mu_ss,fastMNN SH
+scVI,HE,hsapiens to mmusculus,0.9424331679086276,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,scVI HE
+scANVI,O2O,mmusculus to hsapiens,0.9424302210416484,1,mmusculus,hsapiens,Heart_hs_mf_mm,scANVI O2O
+Harmony,HE,xtropicalis to hsapiens,0.9423708837931142,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,Harmony HE
+scANVI,HE,sscrofa to mmulatta,0.9422555403880882,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,scANVI HE
+scANVI,O2O,hsapiens to xtropicalis,0.9421472582429816,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,scANVI O2O
+SeuratV4 RPCA,HE,hsapiens to mfascicularis,0.9418512962737878,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+fastMNN,O2O,mfascicularis to hsapiens,0.9415878706940078,1,mfascicularis,hsapiens,Heart_hs_mf,fastMNN O2O
+fastMNN,O2O,sscrofa to mmulatta,0.9414180011126632,0.8333333333333334,sscrofa,mmulatta,Hippocampus_hs_mu_ss,fastMNN O2O
+scANVI,O2O,mfascicularis to xtropicalis,0.941356621120204,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,scANVI O2O
+SeuratV4 CCA,SH,hsapiens to mfascicularis,0.9413131519631336,1,hsapiens,mfascicularis,Heart_hs_mf_mm,SeuratV4 CCA SH
+SeuratV4 CCA,HE,mmusculus to hsapiens,0.9412170132757194,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+scVI,SH,hsapiens to mfascicularis,0.9411706585172812,1,hsapiens,mfascicularis,Heart_hs_mf,scVI SH
+scANVI,O2O,hsapiens to xtropicalis,0.9409401045186232,1,hsapiens,xtropicalis,Heart_hs_xl,scANVI O2O
+scANVI,HE,hsapiens to mfascicularis,0.940764793861478,1,hsapiens,mfascicularis,Heart_hs_mf,scANVI HE
+SeuratV4 CCA,O2O,hsapiens to mfascicularis,0.9406942330197058,1,hsapiens,mfascicularis,Heart_hs_mf,SeuratV4 CCA O2O
+SeuratV4 CCA,O2O,mmusculus to mfascicularis,0.9404575723363982,1,mmusculus,mfascicularis,Heart_mf_mm,SeuratV4 CCA O2O
+scVI,HE,hsapiens to mmusculus,0.9402976720748122,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,scVI HE
+Harmony,HE,sscrofa to hsapiens,0.940081739100772,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,Harmony HE
+scVI,O2O,hsapiens to mmusculus,0.9399597618258616,1,hsapiens,mmusculus,Heart_hs_mf_mm,scVI O2O
+SeuratV4 RPCA,SH,xtropicalis to mfascicularis,0.9394915190316956,1,xtropicalis,mfascicularis,Heart_mf_xl,SeuratV4 RPCA SH
+SeuratV4 CCA,HE,mmusculus to mfascicularis,0.9394643048198468,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+fastMNN,O2O,hsapiens to mfascicularis,0.9394425922240934,1,hsapiens,mfascicularis,Heart_hs_mf,fastMNN O2O
+fastMNN,SH,mmulatta to sscrofa,0.939419713288462,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,fastMNN SH
+fastMNN,HE,hsapiens to mfascicularis,0.9392433285419016,1,hsapiens,mfascicularis,Heart_hs_mf,fastMNN HE
+fastMNN,HE,mmulatta to sscrofa,0.9390616031919572,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,fastMNN HE
+fastMNN,SH,hsapiens to mfascicularis,0.9390573622367094,1,hsapiens,mfascicularis,Heart_hs_mf,fastMNN SH
+SeuratV4 CCA,HE,mmulatta to sscrofa,0.9387728971366736,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 CCA HE
+scVI,HE,hsapiens to mfascicularis,0.9386550111304324,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI HE
+fastMNN,HE,mmusculus to mfascicularis,0.93828756716445,1,mmusculus,mfascicularis,Heart_hs_mf_mm,fastMNN HE
+fastMNN,O2O,xtropicalis to mfascicularis,0.9382268065959354,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+Harmony,SH,xtropicalis to mfascicularis,0.9380028952694588,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,Harmony SH
+scANVI,HE,mmusculus to xtropicalis,0.9378464635485544,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,scANVI HE
+fastMNN,SH,mmusculus to mfascicularis,0.9374235533391144,1,mmusculus,mfascicularis,Heart_hs_mf_mm,fastMNN SH
+Harmony,SH,mmusculus to mfascicularis,0.9372469817487876,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,Harmony SH
+fastMNN,O2O,mmusculus to mfascicularis,0.9371829680885988,1,mmusculus,mfascicularis,Heart_hs_mf_mm,fastMNN O2O
+SeuratV4 CCA,HE,mmusculus to mfascicularis,0.9370350090386887,1,mmusculus,mfascicularis,Heart_mf_mm,SeuratV4 CCA HE
+SeuratV4 CCA,SH,hsapiens to mfascicularis,0.9370295397574102,1,hsapiens,mfascicularis,Heart_hs_mf,SeuratV4 CCA SH
+SeuratV4 CCA,HE,hsapiens to mfascicularis,0.9369424385068188,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+SeuratV4 CCA,O2O,hsapiens to mmusculus,0.9368391718828516,1,hsapiens,mmusculus,Heart_hs_mf_mm,SeuratV4 CCA O2O
+Harmony,SH,mfascicularis to mmusculus,0.9367442162350704,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 CCA,O2O,xtropicalis to hsapiens,0.9364286697026044,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+SeuratV4 CCA,SH,mfascicularis to hsapiens,0.9363568739666572,1,mfascicularis,hsapiens,Heart_hs_mf_mm,SeuratV4 CCA SH
+Harmony,O2O,mmulatta to sscrofa,0.93633343499136,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,Harmony O2O
+SeuratV4 CCA,SH,mmulatta to sscrofa,0.9362377692682384,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 CCA SH
+SeuratV4 CCA,SH,hsapiens to mfascicularis,0.9360881429456938,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+Harmony,HE,hsapiens to mmusculus,0.9359736586205518,1,hsapiens,mmusculus,Heart_hs_mm,Harmony HE
+SeuratV4 CCA,O2O,mmulatta to sscrofa,0.9357711735106592,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 CCA O2O
+SeuratV4 CCA,HE,hsapiens to mfascicularis,0.9356929677936678,1,hsapiens,mfascicularis,Heart_hs_mf_mm,SeuratV4 CCA HE
+SeuratV4 CCA,HE,hsapiens to mfascicularis,0.9356908135903664,1,hsapiens,mfascicularis,Heart_hs_mf,SeuratV4 CCA HE
+fastMNN,SH,hsapiens to sscrofa,0.9355659122046556,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,fastMNN SH
+fastMNN,O2O,mmulatta to sscrofa,0.9355423173452708,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,fastMNN O2O
+SeuratV4 CCA,HE,mfascicularis to hsapiens,0.9354631129771508,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 RPCA,O2O,xtropicalis to mfascicularis,0.9354460778554552,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+scANVI,HE,hsapiens to mfascicularis,0.9353649289708404,1,hsapiens,mfascicularis,Heart_hs_mf_mm,scANVI HE
+SeuratV4 CCA,SH,mmusculus to mfascicularis,0.9351104620693844,1,mmusculus,mfascicularis,Heart_mf_mm,SeuratV4 CCA SH
+scVI,HE,xtropicalis to mfascicularis,0.9350892272664388,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,scVI HE
+Harmony,SH,hsapiens to mfascicularis,0.9350333257450562,1,hsapiens,mfascicularis,Heart_hs_mf,Harmony SH
+SeuratV4 RPCA,SH,hsapiens to mmusculus,0.9349910603482708,1,hsapiens,mmusculus,Pancreas_hs_mm,SeuratV4 RPCA SH
+Harmony,O2O,xtropicalis to mfascicularis,0.9349348401513876,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 CCA,HE,hsapiens to mmusculus,0.934913106741366,1,hsapiens,mmusculus,Heart_hs_mf_mm,SeuratV4 CCA HE
+SeuratV4 CCA,HE,sscrofa to mmulatta,0.9347984100326416,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 CCA HE
+fastMNN,HE,xtropicalis to mfascicularis,0.93466181224361,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+scANVI,O2O,drerio to xtropicalis,0.9345896256571414,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scANVI,SH,mmusculus to xtropicalis,0.934570136290946,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI SH
+SeuratV4 CCA,SH,hsapiens to sscrofa,0.934515244370728,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 CCA SH
+Harmony,HE,mmulatta to sscrofa,0.934356947712456,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,Harmony HE
+SeuratV4 CCA,HE,xtropicalis to mfascicularis,0.9343029509643468,1,xtropicalis,mfascicularis,Heart_mf_xl,SeuratV4 CCA HE
+Harmony,HE,xtropicalis to mfascicularis,0.9341754578667272,1,xtropicalis,mfascicularis,Heart_mf_xl,Harmony HE
+scANVI,SH,hsapiens to mfascicularis,0.9339269575809228,1,hsapiens,mfascicularis,Heart_hs_mf,scANVI SH
+SeuratV4 CCA,O2O,hsapiens to sscrofa,0.9339128887609084,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 CCA O2O
+scVI,SH,hsapiens to mmusculus,0.933866374936562,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,scVI SH
+Harmony,O2O,xtropicalis to mmusculus,0.9337452200425588,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 RPCA,SH,mfascicularis to mmusculus,0.933560817105082,1,mfascicularis,mmusculus,Heart_hs_mf_mm,SeuratV4 RPCA SH
+SeuratV4 CCA,HE,hsapiens to sscrofa,0.933367747272328,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,SeuratV4 CCA HE
+Harmony,HE,mfascicularis to mmusculus,0.9332718735629204,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony HE
+scANVI,HE,mmusculus to mfascicularis,0.9331702407201518,1,mmusculus,mfascicularis,Heart_mf_mm,scANVI HE
+fastMNN,O2O,mfascicularis to mmusculus,0.933168986678479,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,fastMNN O2O
+SeuratV4 CCA,SH,mfascicularis to hsapiens,0.9330236134190788,1,mfascicularis,hsapiens,Heart_hs_mf,SeuratV4 CCA SH
+SeuratV4 CCA,SH,hsapiens to mmusculus,0.932846745719706,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+Harmony,SH,mmulatta to sscrofa,0.9327687512026972,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,Harmony SH
+SeuratV4 RPCA,SH,hsapiens to mmusculus,0.9324130068300168,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+Harmony,SH,mmusculus to mfascicularis,0.9322797989054664,1,mmusculus,mfascicularis,Heart_hs_mf_mm,Harmony SH
+scVI,SH,hsapiens to mfascicularis,0.9322715261305368,1,hsapiens,mfascicularis,Heart_hs_mf_mm,scVI SH
+scVI,HE,xtropicalis to hsapiens,0.9322366508315988,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,scVI HE
+SeuratV4 RPCA,O2O,xtropicalis to mmusculus,0.9321504746014068,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+Harmony,HE,xtropicalis to mfascicularis,0.932120632558633,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,Harmony HE
+fastMNN,O2O,mmusculus to hsapiens,0.9320267451963508,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+SeuratV4 CCA,O2O,mmusculus to hsapiens,0.9319115640779696,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+fastMNN,SH,mfascicularis to hsapiens,0.9316940599639864,1,mfascicularis,hsapiens,Heart_hs_mf,fastMNN SH
+Harmony,O2O,mmusculus to mfascicularis,0.9316556797788004,1,mmusculus,mfascicularis,Heart_hs_mf_mm,Harmony O2O
+Scanorama,SH,mfascicularis to mmusculus,0.931614214911286,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama SH
+SeuratV4 CCA,SH,xtropicalis to hsapiens,0.9314071095344856,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+SeuratV4 RPCA,O2O,hsapiens to mmusculus,0.9313256084058252,1,hsapiens,mmusculus,Pancreas_hs_mm,SeuratV4 RPCA O2O
+SeuratV4 CCA,HE,mfascicularis to hsapiens,0.9309102612804055,1,mfascicularis,hsapiens,Heart_hs_mf,SeuratV4 CCA HE
+scVI,O2O,hsapiens to mfascicularis,0.93090846649014,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI O2O
+SeuratV4 RPCA,SH,xtropicalis to mfascicularis,0.9306575270852976,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+SeuratV4 CCA,O2O,xtropicalis to mfascicularis,0.9302200670022684,1,xtropicalis,mfascicularis,Heart_mf_xl,SeuratV4 CCA O2O
+scVI,SH,hsapiens to mfascicularis,0.9300972967657576,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI SH
+scVI,HE,mmusculus to hsapiens,0.929932693467534,1,mmusculus,hsapiens,Pancreas_hs_mm,scVI HE
+Harmony,O2O,mmusculus to mfascicularis,0.9297118368359338,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,Harmony O2O
+Scanorama,HE,mfascicularis to mmusculus,0.929706744756614,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama HE
+fastMNN,HE,mmusculus to hsapiens,0.929548068246714,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN HE
+scANVI,SH,mfascicularis to hsapiens,0.9294451523895144,1,mfascicularis,hsapiens,Heart_hs_mf,scANVI SH
+fastMNN,HE,hsapiens to sscrofa,0.9294177247870732,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,fastMNN HE
+scANVI,HE,drerio to xtropicalis,0.9291866748998834,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI HE
+Harmony,HE,hsapiens to mfascicularis,0.928860294197574,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,Harmony HE
+scANVI,O2O,hsapiens to mfascicularis,0.92848191038307,1,hsapiens,mfascicularis,Heart_hs_mf,scANVI O2O
+SeuratV4 CCA,O2O,xtropicalis to hsapiens,0.9284344880430652,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+Harmony,O2O,hsapiens to mfascicularis,0.9281836021128448,1,hsapiens,mfascicularis,Heart_hs_mf,Harmony O2O
+fastMNN,O2O,mmusculus to mfascicularis,0.9281384897390016,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,fastMNN O2O
+fastMNN,SH,mmusculus to mfascicularis,0.9279492586804836,1,mmusculus,mfascicularis,Heart_mf_mm,fastMNN SH
+fastMNN,HE,mfascicularis to hsapiens,0.927902072083084,1,mfascicularis,hsapiens,Heart_hs_mf,fastMNN HE
+Scanorama,O2O,mmusculus to mfascicularis,0.9278661730502724,1,mmusculus,mfascicularis,Heart_mf_mm,Scanorama O2O
+scANVI,O2O,xtropicalis to mmusculus,0.9277926176932078,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,scANVI O2O
+SeuratV4 CCA,SH,mmusculus to mfascicularis,0.9275568802196474,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+SeuratV4 CCA,HE,hsapiens to mmusculus,0.9275040340953228,1,hsapiens,mmusculus,Heart_hs_mm,SeuratV4 CCA HE
+Harmony,HE,hsapiens to sscrofa,0.9272894468914576,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,Harmony HE
+fastMNN,HE,xtropicalis to mfascicularis,0.92710200735697,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,fastMNN HE
+fastMNN,O2O,xtropicalis to mfascicularis,0.9270664548919336,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,fastMNN O2O
+SeuratV4 CCA,O2O,hsapiens to mmusculus,0.9270291534110006,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+fastMNN,O2O,mmusculus to hsapiens,0.926919208607585,0.7,mmusculus,hsapiens,Pancreas_hs_mm,fastMNN O2O
+SeuratV4 CCA,SH,mfascicularis to xtropicalis,0.9268635585280856,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+Harmony,SH,hsapiens to sscrofa,0.9268028507470344,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,Harmony SH
+fastMNN,SH,mmusculus to hsapiens,0.9267698886326968,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN SH
+fastMNN,HE,mmusculus to mfascicularis,0.9267497742327178,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,fastMNN HE
+SeuratV4 CCA,O2O,hsapiens to mfascicularis,0.9267066924067356,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+scANVI,SH,drerio to xtropicalis,0.9266780499171896,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,scANVI SH
+Harmony,SH,hsapiens to mmusculus,0.9265758194963146,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 CCA,O2O,mmusculus to hsapiens,0.9265192286044732,1,mmusculus,hsapiens,Pancreas_hs_mm,SeuratV4 CCA O2O
+SeuratV4 CCA,SH,drerio to mfascicularis,0.9263686086310288,1,drerio,mfascicularis,Heart_mf_dr,SeuratV4 CCA SH
+scVI,SH,hsapiens to mmusculus,0.9261595534393252,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,scVI SH
+fastMNN,SH,xtropicalis to mfascicularis,0.9261386693693306,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,fastMNN SH
+Scanorama,SH,hsapiens to mmusculus,0.9260829785479036,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama SH
+fastMNN,O2O,hsapiens to sscrofa,0.9258771435287586,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,fastMNN O2O
+Harmony,SH,hsapiens to mfascicularis,0.9256989590971436,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,Harmony SH
+fastMNN,SH,mmusculus to hsapiens,0.925694734684015,0.7,mmusculus,hsapiens,Pancreas_hs_mm,fastMNN SH
+Harmony,O2O,hsapiens to mfascicularis,0.9253749113639156,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 CCA,SH,sscrofa to mmulatta,0.9252081691404404,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 CCA SH
+SeuratV4 CCA,SH,xtropicalis to mfascicularis,0.9251086446037032,1,xtropicalis,mfascicularis,Heart_mf_xl,SeuratV4 CCA SH
+Harmony,O2O,mfascicularis to mmusculus,0.9250593575304096,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony O2O
+fastMNN,SH,mmusculus to mfascicularis,0.9250519651112742,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,fastMNN SH
+Scanorama,SH,mmusculus to mfascicularis,0.9246809348539868,1,mmusculus,mfascicularis,Heart_hs_mf_mm,Scanorama SH
+fastMNN,SH,hsapiens to mfascicularis,0.9242199590353696,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,fastMNN SH
+Harmony,HE,mmusculus to mfascicularis,0.9239973817280588,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,Harmony HE
+SeuratV4 CCA,SH,hsapiens to mmusculus,0.9239021104182809,0.9090909090909092,hsapiens,mmusculus,Heart_hs_mm,SeuratV4 CCA SH
+SeuratV4 CCA,SH,mmusculus to hsapiens,0.9236054933404896,1,mmusculus,hsapiens,Pancreas_hs_mm,SeuratV4 CCA SH
+scVI,O2O,xtropicalis to mfascicularis,0.9233700184215496,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI O2O
+fastMNN,HE,mmusculus to mfascicularis,0.9231066157293716,1,mmusculus,mfascicularis,Heart_mf_mm,fastMNN HE
+Harmony,HE,hsapiens to mfascicularis,0.923078042479292,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony HE
+SeuratV4 CCA,O2O,mfascicularis to xtropicalis,0.9229367931859808,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+Scanorama,O2O,xtropicalis to hsapiens,0.9228518548061868,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+fastMNN,HE,drerio to mmusculus,0.9226881969443848,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN HE
+SeuratV4 RPCA,SH,xtropicalis to hsapiens,0.9225670616209742,1,xtropicalis,hsapiens,Heart_hs_xl,SeuratV4 RPCA SH
+Harmony,HE,hsapiens to mfascicularis,0.9225654544620504,1,hsapiens,mfascicularis,Heart_hs_mf_mm,Harmony HE
+Scanorama,SH,mmulatta to hsapiens,0.9220762444618184,1,mmulatta,hsapiens,Hippocampus_hs_mu_ss,Scanorama SH
+Scanorama,SH,mmusculus to hsapiens,0.9219397358488856,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,Scanorama SH
+Harmony,O2O,hsapiens to sscrofa,0.9217120340166398,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,Harmony O2O
+Harmony,HE,mmusculus to hsapiens,0.9216076210028687,1,mmusculus,hsapiens,Heart_hs_mf_mm,Harmony HE
+SeuratV4 RPCA,HE,xtropicalis to hsapiens,0.9215999206589384,1,xtropicalis,hsapiens,Heart_hs_xl,SeuratV4 RPCA HE
+fastMNN,HE,mfascicularis to mmusculus,0.921477936957033,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,fastMNN HE
+scVI,O2O,xtropicalis to mfascicularis,0.921185098476594,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,scVI O2O
+scVI,HE,hsapiens to mfascicularis,0.9211675660644272,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,scVI HE
+SeuratV4 CCA,HE,mfascicularis to xtropicalis,0.9208762475844564,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+Harmony,O2O,hsapiens to mfascicularis,0.9208587147028432,1,hsapiens,mfascicularis,Heart_hs_mf_mm,Harmony O2O
+SeuratV4 RPCA,HE,xtropicalis to mmusculus,0.92085303215794,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Scanorama,HE,xtropicalis to mmusculus,0.9203045059321338,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama HE
+fastMNN,O2O,mmusculus to mfascicularis,0.9201743450553804,1,mmusculus,mfascicularis,Heart_mf_mm,fastMNN O2O
+SeuratV4 RPCA,SH,hsapiens to mfascicularis,0.9200848378104342,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+scVI,SH,sscrofa to mmulatta,0.9200628419963108,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,scVI SH
+fastMNN,SH,mfascicularis to mmusculus,0.9196338753765452,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,fastMNN SH
+scANVI,SH,hsapiens to xtropicalis,0.9194608696402304,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,scANVI SH
+Harmony,SH,hsapiens to mfascicularis,0.9194441617584646,1,hsapiens,mfascicularis,Heart_hs_mf_mm,Harmony SH
+SeuratV4 CCA,O2O,sscrofa to mmulatta,0.9187577921421785,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 CCA O2O
+Harmony,SH,hsapiens to mfascicularis,0.9184414823791588,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 CCA,O2O,mmusculus to hsapiens,0.9182476568843932,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+SeuratV4 RPCA,SH,hsapiens to mmusculus,0.91792031953486,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+scVI,SH,mfascicularis to hsapiens,0.9178942475259452,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,scVI SH
+scANVI,O2O,mmusculus to xtropicalis,0.9177090564131228,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,scANVI O2O
+SeuratV4 CCA,HE,drerio to mfascicularis,0.9174879417603122,1,drerio,mfascicularis,Heart_mf_dr,SeuratV4 CCA HE
+Harmony,O2O,xtropicalis to mfascicularis,0.9169423746839512,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+Scanorama,HE,mmusculus to hsapiens,0.9167622509737866,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,Scanorama HE
+Scanorama,SH,mmusculus to hsapiens,0.9166072273933508,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama SH
+Harmony,O2O,mmusculus to mfascicularis,0.9162241550833276,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+SeuratV4 CCA,O2O,mfascicularis to hsapiens,0.9160059635034876,1,mfascicularis,hsapiens,Heart_hs_mf,SeuratV4 CCA O2O
+SeuratV4 RPCA,O2O,hsapiens to mfascicularis,0.9159996905826246,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+Harmony,SH,mmusculus to mfascicularis,0.9159308158935564,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 RPCA,O2O,xtropicalis to hsapiens,0.9158819595174824,1,xtropicalis,hsapiens,Heart_hs_xl,SeuratV4 RPCA O2O
+SeuratV4 RPCA,O2O,mfascicularis to mmusculus,0.915793244323304,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+SeuratV4 CCA,O2O,mfascicularis to mmusculus,0.915475812560688,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+SeuratV4 CCA,HE,hsapiens to mmusculus,0.915393225610453,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+fastMNN,O2O,hsapiens to mfascicularis,0.9153509723734332,1,hsapiens,mfascicularis,Heart_hs_mf_mm,fastMNN O2O
+SeuratV4 RPCA,HE,mfascicularis to mmusculus,0.9153224713332444,1,mfascicularis,mmusculus,Heart_mf_mm,SeuratV4 RPCA HE
+scVI,SH,xtropicalis to hsapiens,0.9152932415808832,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,scVI SH
+SeuratV4 CCA,O2O,drerio to mfascicularis,0.91525225342664,1,drerio,mfascicularis,Heart_mf_dr,SeuratV4 CCA O2O
+SeuratV4 CCA,SH,mfascicularis to mmusculus,0.914998022980398,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Scanorama,O2O,sscrofa to hsapiens,0.9149064529711184,1,sscrofa,hsapiens,Hippocampus_hs_mu_ss,Scanorama O2O
+Harmony,O2O,hsapiens to mfascicularis,0.914896148935282,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+scVI,SH,hsapiens to mmusculus,0.9144323048899522,1,hsapiens,mmusculus,Heart_hs_mf_mm,scVI SH
+SeuratV4 RPCA,SH,xtropicalis to mmusculus,0.914264495344944,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+Scanorama,SH,mmulatta to sscrofa,0.9141676610865416,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,Scanorama SH
+Harmony,O2O,xtropicalis to hsapiens,0.9135345020149132,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 RPCA,HE,hsapiens to mfascicularis,0.9134919492360716,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+fastMNN,SH,mmusculus to mfascicularis,0.9126571246843308,0.8333333333333334,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+Harmony,O2O,mmusculus to hsapiens,0.91255428137464,1,mmusculus,hsapiens,Heart_hs_mm,Harmony O2O
+SeuratV4 CCA,O2O,mmusculus to mfascicularis,0.9124546708167892,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+Harmony,HE,mmusculus to mfascicularis,0.9119734985414522,1,mmusculus,mfascicularis,Heart_hs_mf_mm,Harmony HE
+scVI,SH,hsapiens to mfascicularis,0.9114574640324444,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,scVI SH
+Harmony,HE,hsapiens to mmusculus,0.9112615128212772,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony HE
+SeuratV4 CCA,SH,mmusculus to mfascicularis,0.9102690304916332,1,mmusculus,mfascicularis,Heart_hs_mf_mm,SeuratV4 CCA SH
+Harmony,SH,sscrofa to mmulatta,0.9102060641341584,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,Harmony SH
+SeuratV4 RPCA,HE,xtropicalis to mmusculus,0.9101465747401448,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+Harmony,SH,mmusculus to hsapiens,0.9099368585667322,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,Harmony SH
+Harmony,O2O,hsapiens to mmusculus,0.9098362219602516,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony O2O
+SeuratV4 CCA,SH,mmusculus to hsapiens,0.9096714038616333,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+SeuratV4 RPCA,O2O,mfascicularis to hsapiens,0.90958980285106406,1,mfascicularis,hsapiens,Heart_hs_mf,SeuratV4 RPCA O2O
+Harmony,HE,mmusculus to hsapiens,0.9093462700421812,1,mmusculus,hsapiens,Heart_hs_mm,Harmony HE
+scVI,HE,xtropicalis to hsapiens,0.9092601320678227,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,scVI HE
+Scanorama,O2O,mmusculus to hsapiens,0.9086391530749544,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,Scanorama O2O
+Harmony,O2O,mmusculus to hsapiens,0.9083742055931496,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 CCA,SH,mmusculus to xtropicalis,0.908129423755249,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+SeuratV4 RPCA,SH,mfascicularis to hsapiens,0.9077152307734786,1,mfascicularis,hsapiens,Heart_hs_mf_mm,SeuratV4 RPCA SH
+scVI,HE,hsapiens to mmusculus,0.9075562009933869,1,hsapiens,mmusculus,Pancreas_hs_mm,scVI HE
+Scanorama,SH,mmusculus to hsapiens,0.9074407975396586,1,mmusculus,hsapiens,Heart_hs_mm,Scanorama SH
+scANVI,SH,mmusculus to xtropicalis,0.9071237588027312,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,scANVI SH
+scVI,HE,sscrofa to mmulatta,0.9070868738112988,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,scVI HE
+Scanorama,HE,hsapiens to mmusculus,0.9069656681589268,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama HE
+unintegrated,HE.h5ad,mmulatta to sscrofa,0.9069080576119828,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,unintegrated HE
+Harmony,SH,mmusculus to hsapiens,0.906626450090332,1,mmusculus,hsapiens,Heart_hs_mf_mm,Harmony SH
+fastMNN,SH,xtropicalis to mfascicularis,0.9065857135642684,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+Scanorama,HE,xtropicalis to mfascicularis,0.9063322038543576,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+SeuratV4 RPCA,SH,mfascicularis to mmusculus,0.9062165848152456,1,mfascicularis,mmusculus,Heart_mf_mm,SeuratV4 RPCA SH
+SeuratV4 CCA,O2O,mmusculus to mfascicularis,0.9059757993740944,1,mmusculus,mfascicularis,Heart_hs_mf_mm,SeuratV4 CCA O2O
+Scanorama,O2O,mmusculus to hsapiens,0.9059452676086696,1,mmusculus,hsapiens,Heart_hs_mf_mm,Scanorama O2O
+SeuratV4 CCA,HE,xtropicalis to hsapiens,0.9055015924793391,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+Harmony,HE,mmusculus to hsapiens,0.9054803779019176,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,Harmony HE
+SeuratV4 CCA,SH,hsapiens to xtropicalis,0.9051219339267108,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+fastMNN,O2O,mmusculus to mfascicularis,0.9046128247350644,0.8333333333333334,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+fastMNN,O2O,mfascicularis to mmusculus,0.9044438784058868,0.6666666666666666,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+unintegrated,HE.h5ad,hsapiens to mmusculus,0.9038545970313246,1,hsapiens,mmusculus,Pancreas_hs_mm,unintegrated HE
+SeuratV4 CCA,HE,mmusculus to hsapiens,0.9035285467131856,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+scVI,SH,mmusculus to hsapiens,0.9034865401318438,1,mmusculus,hsapiens,Pancreas_hs_mm,scVI SH
+fastMNN,SH,mfascicularis to mmusculus,0.9033291628517708,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN SH
+fastMNN,SH,hsapiens to mfascicularis,0.9033004868186952,1,hsapiens,mfascicularis,Heart_hs_mf_mm,fastMNN SH
+Harmony,SH,xtropicalis to hsapiens,0.9031299894034072,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 CCA,HE,mmusculus to xtropicalis,0.903102693999254,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+fastMNN,HE,mfascicularis to mmusculus,0.9029218199540936,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN HE
+Harmony,O2O,mmusculus to hsapiens,0.9028380557458578,1,mmusculus,hsapiens,Heart_hs_mf_mm,Harmony O2O
+Scanorama,SH,mmusculus to hsapiens,0.902476437171506,1,mmusculus,hsapiens,Heart_hs_mf_mm,Scanorama SH
+fastMNN,HE,hsapiens to mfascicularis,0.9013655578004331,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,fastMNN HE
+SeuratV4 CCA,HE,hsapiens to xtropicalis,0.9012027131712208,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+SeuratV4 CCA,O2O,hsapiens to mmusculus,0.901171580336715,1,hsapiens,mmusculus,Heart_hs_mm,SeuratV4 CCA O2O
+SeuratV4 CCA,O2O,drerio to mfascicularis,0.9004476260323568,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+unintegrated,SH.h5ad,mmulatta to sscrofa,0.900325587500648,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,unintegrated SH
+fastMNN,HE,mmusculus to mfascicularis,0.9001932959661341,0.8333333333333334,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+fastMNN,HE,mfascicularis to hsapiens,0.9000040347781267,1,mfascicularis,hsapiens,Heart_hs_mf_mm,fastMNN HE
+scANVI,HE,mmusculus to drerio,0.8997009097979397,1,mmusculus,drerio,Heart_mm_dr,scANVI HE
+unintegrated,SH.h5ad,mmulatta to sscrofa,0.8993875688987244,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,unintegrated SH
+SeuratV4 RPCA,SH,xtropicalis to mmusculus,0.899329344207186,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+Scanorama,HE,mmusculus to hsapiens,0.8992288984527281,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama HE
+scVI,O2O,mmusculus to hsapiens,0.8990547874613206,1,mmusculus,hsapiens,Pancreas_hs_mm,scVI O2O
+SeuratV4 CCA,O2O,mmusculus to xtropicalis,0.8990531665707824,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+Harmony,SH,mmusculus to hsapiens,0.898959723478622,1,mmusculus,hsapiens,Heart_hs_mm,Harmony SH
+Scanorama,O2O,mmusculus to hsapiens,0.898874087373598,1,mmusculus,hsapiens,Heart_hs_mm,Scanorama O2O
+unintegrated,O2O.h5ad,hsapiens to mmusculus,0.8983583692914521,1,hsapiens,mmusculus,Pancreas_hs_mm,unintegrated O2O
+scVI,SH,xtropicalis to mfascicularis,0.8981803404842652,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,scVI SH
+SeuratV4 CCA,O2O,mmusculus to hsapiens,0.8980800777738642,1,mmusculus,hsapiens,Heart_hs_mf_mm,SeuratV4 CCA O2O
+Harmony,SH,xtropicalis to mmusculus,0.8976990331727611,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 CCA,SH,mmusculus to hsapiens,0.897401263471571,1,mmusculus,hsapiens,Heart_hs_mf_mm,SeuratV4 CCA SH
+Scanorama,O2O,mmulatta to sscrofa,0.8971727300266193,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,Scanorama O2O
+fastMNN,O2O,hsapiens to mfascicularis,0.8970656125414213,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+unintegrated,O2O.h5ad,mmulatta to sscrofa,0.8967829003225867,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,unintegrated O2O
+SeuratV4 RPCA,HE,xtropicalis to mfascicularis,0.8966430696554059,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+Scanorama,HE,hsapiens to mfascicularis,0.8964664029902363,1,hsapiens,mfascicularis,Heart_hs_mf,Scanorama HE
+Scanorama,O2O,mmusculus to mfascicularis,0.8962245557147791,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,Scanorama O2O
+Harmony,HE,xtropicalis to hsapiens,0.8958714297917485,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony HE
+scVI,O2O,hsapiens to mmusculus,0.8957914755257215,1,hsapiens,mmusculus,Pancreas_hs_mm,scVI O2O
+SeuratV4 CCA,O2O,mfascicularis to hsapiens,0.8955963668184437,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+scVI,O2O,sscrofa to mmulatta,0.8951388511965467,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,scVI O2O
+SeuratV4 RPCA,O2O,mfascicularis to mmusculus,0.8948834575132683,1,mfascicularis,mmusculus,Heart_mf_mm,SeuratV4 RPCA O2O
+Harmony,SH,drerio to hsapiens,0.8940564433718982,1,drerio,hsapiens,Heart_hs_dr,Harmony SH
+SeuratV4 RPCA,SH,mfascicularis to hsapiens,0.893980665023175,1,mfascicularis,hsapiens,Heart_hs_mf,SeuratV4 RPCA SH
+SeuratV4 RPCA,SH,mfascicularis to xtropicalis,0.8937169472865462,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+Harmony,O2O,sscrofa to mmulatta,0.8934372701715795,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,Harmony O2O
+Harmony,HE,mmusculus to mfascicularis,0.8932661985436904,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony HE
+SeuratV4 RPCA,HE,xtropicalis to mfascicularis,0.8929926446392161,1,xtropicalis,mfascicularis,Heart_mf_xl,SeuratV4 RPCA HE
+SeuratV4 CCA,SH,mmusculus to hsapiens,0.8928799155889388,1,mmusculus,hsapiens,Heart_hs_mm,SeuratV4 CCA SH
+SeuratV4 RPCA,HE,mfascicularis to hsapiens,0.8927800413378131,1,mfascicularis,hsapiens,Heart_hs_mf,SeuratV4 RPCA HE
+SeuratV4 RPCA,HE,mfascicularis to mmusculus,0.8914870004151251,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+fastMNN,O2O,drerio to mmusculus,0.8912105815631121,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+SeuratV4 RPCA,HE,hsapiens to mmusculus,0.8910153325761608,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+SeuratV4 CCA,O2O,hsapiens to xtropicalis,0.8908271525223533,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+scVI,O2O,hsapiens to mfascicularis,0.890433758692609,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,scVI O2O
+unintegrated,HE.h5ad,mmulatta to sscrofa,0.8899233148837884,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,unintegrated HE
+Scanorama,O2O,hsapiens to mfascicularis,0.889637617595343,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scVI,O2O,hsapiens to mmusculus,0.8888048837105773,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,scVI O2O
+SeuratV4 CCA,O2O,xtropicalis to mmusculus,0.8887456695094842,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA O2O
+Scanorama,SH,xtropicalis to mmusculus,0.8886199672449564,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,Scanorama SH
+scANVI,HE,mfascicularis to drerio,0.888598950676095,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,scANVI HE
+unintegrated,O2O.h5ad,mmulatta to sscrofa,0.8883662913500078,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,unintegrated O2O
+SeuratV4 CCA,HE,mfascicularis to mmusculus,0.8883547745445973,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 CCA,HE,mmusculus to mfascicularis,0.888226066466255,1,mmusculus,mfascicularis,Heart_hs_mf_mm,SeuratV4 CCA HE
+scVI,HE,xtropicalis to mmusculus,0.8878985234586163,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,scVI HE
+Scanorama,HE,mmusculus to hsapiens,0.8871311250717252,1,mmusculus,hsapiens,Heart_hs_mm,Scanorama HE
+SeuratV4 RPCA,O2O,hsapiens to mmusculus,0.8864129143005419,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+fastMNN,HE,hsapiens to mfascicularis,0.8863712456232721,1,hsapiens,mfascicularis,Heart_hs_mf_mm,fastMNN HE
+Harmony,HE,xtropicalis to mfascicularis,0.8862525146162098,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony HE
+scVI,SH,hsapiens to xtropicalis,0.8857166914389615,1,hsapiens,xtropicalis,Heart_hs_xl,scVI SH
+SeuratV4 CCA,O2O,mmusculus to hsapiens,0.8855918652696018,1,mmusculus,hsapiens,Heart_hs_mm,SeuratV4 CCA O2O
+fastMNN,SH,hsapiens to mfascicularis,0.8846091950070077,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+SeuratV4 CCA,SH,xtropicalis to mmusculus,0.8844226256570907,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+SeuratV4 CCA,HE,xtropicalis to mmusculus,0.884067902198781,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,SeuratV4 CCA HE
+SeuratV4 CCA,HE,mmusculus to hsapiens,0.8835626333206166,1,mmusculus,hsapiens,Heart_hs_mm,SeuratV4 CCA HE
+Harmony,HE,sscrofa to mmulatta,0.8833367092322538,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,Harmony HE
+SeuratV4 CCA,HE,xtropicalis to mmusculus,0.883120091781553,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+fastMNN,O2O,hsapiens to mfascicularis,0.8825365710775123,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,fastMNN O2O
+SeuratV4 RPCA,O2O,hsapiens to mmusculus,0.8824932085420216,1,hsapiens,mmusculus,Heart_hs_mm,SeuratV4 RPCA O2O
+unintegrated,O2O.h5ad,hsapiens to mmusculus,0.8818636601419108,1,hsapiens,mmusculus,Pancreas_hs_mm,unintegrated O2O
+scVI,HE,mmusculus to hsapiens,0.8811063160742083,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,scVI HE
+Scanorama,HE,xtropicalis to mmusculus,0.8810395061874771,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,Scanorama HE
+scVI,HE,xtropicalis to mmusculus,0.8810232661661835,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,scVI HE
+scVI,SH,mmusculus to hsapiens,0.8809985848357559,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,scVI SH
+Harmony,O2O,mmusculus to mfascicularis,0.8807852239843141,1,mmusculus,mfascicularis,Heart_mf_mm,Harmony O2O
+fastMNN,SH,drerio to mmusculus,0.8807618709563957,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,fastMNN SH
+Scanorama,HE,mmulatta to sscrofa,0.8806312954519098,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,Scanorama HE
+unintegrated,O2O.h5ad,xtropicalis to mmusculus,0.8803213422114122,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,unintegrated O2O
+Harmony,HE,mfascicularis to mmusculus,0.8794515663160518,1,mfascicularis,mmusculus,Heart_hs_mf_mm,Harmony HE
+fastMNN,HE,xtropicalis to mfascicularis,0.8793786411547988,0.8,xtropicalis,mfascicularis,Heart_mf_xl,fastMNN HE
+scVI,SH,hsapiens to mmusculus,0.8784993439917539,1,hsapiens,mmusculus,Pancreas_hs_mm,scVI SH
+SeuratV4 RPCA,SH,mmusculus to hsapiens,0.8781808110968343,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+SeuratV4 CCA,HE,mmusculus to hsapiens,0.8781334813220083,1,mmusculus,hsapiens,Heart_hs_mf_mm,SeuratV4 CCA HE
+Scanorama,O2O,hsapiens to mmusculus,0.8775732637656107,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,Scanorama O2O
+Scanorama,O2O,xtropicalis to mmusculus,0.8773489349927833,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,Scanorama O2O
+Scanorama,HE,hsapiens to xtropicalis,0.8772214486872287,1,hsapiens,xtropicalis,Heart_hs_xl,Scanorama HE
+scVI,HE,mfascicularis to hsapiens,0.8767601713346939,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,scVI HE
+Harmony,HE,mfascicularis to hsapiens,0.8761689736743453,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony HE
+Scanorama,SH,xtropicalis to hsapiens,0.8756901033465652,1,xtropicalis,hsapiens,Heart_hs_xl,Scanorama SH
+Harmony,HE,mmusculus to mfascicularis,0.875186371011807,1,mmusculus,mfascicularis,Heart_mf_mm,Harmony HE
+scVI,SH,hsapiens to mmusculus,0.8751738578362244,0.9090909090909092,hsapiens,mmusculus,Heart_hs_mm,scVI SH
+Harmony,HE,xtropicalis to mmusculus,0.8749545044144429,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony HE
+Harmony,SH,mmusculus to mfascicularis,0.8745437107947488,1,mmusculus,mfascicularis,Heart_mf_mm,Harmony SH
+SeuratV4 CCA,SH,mfascicularis to hsapiens,0.874095852080717,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 CCA SH
+SeuratV4 RPCA,HE,mfascicularis to hsapiens,0.8740068869965603,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+Harmony,SH,mfascicularis to mmusculus,0.8733369444161904,1,mfascicularis,mmusculus,Heart_hs_mf_mm,Harmony SH
+Harmony,SH,xtropicalis to mfascicularis,0.8733092079156354,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony SH
+scANVI,SH,hsapiens to drerio,0.8732697719050164,1,hsapiens,drerio,Heart_hs_dr,scANVI SH
+Harmony,SH,mmusculus to xtropicalis,0.8724048717116863,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,Harmony SH
+unintegrated,SH.h5ad,mmusculus to mfascicularis,0.8721043771978753,1,mmusculus,mfascicularis,Heart_hs_mf_mm,unintegrated SH
+unintegrated,HE.h5ad,hsapiens to mmusculus,0.8719074151086877,1,hsapiens,mmusculus,Pancreas_hs_mm,unintegrated HE
+SeuratV4 RPCA,HE,drerio to mfascicularis,0.8717170856813908,1,drerio,mfascicularis,Heart_mf_dr,SeuratV4 RPCA HE
+Harmony,O2O,xtropicalis to hsapiens,0.870532718552273,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony O2O
+SeuratV4 CCA,SH,mfascicularis to drerio,0.8704128821435366,1,mfascicularis,drerio,Heart_mf_dr,SeuratV4 CCA SH
+SeuratV4 RPCA,SH,drerio to mfascicularis,0.8702005358573778,1,drerio,mfascicularis,Heart_mf_dr,SeuratV4 RPCA SH
+Harmony,SH,mmusculus to hsapiens,0.8698302686081963,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 CCA,SH,hsapiens to xtropicalis,0.8697166769367833,1,hsapiens,xtropicalis,Heart_hs_xl,SeuratV4 CCA SH
+SeuratV4 RPCA,O2O,mfascicularis to xtropicalis,0.8694898234367631,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+Scanorama,SH,mfascicularis to mmusculus,0.869453817106193,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,Scanorama SH
+Harmony,HE,mmusculus to xtropicalis,0.8684294376177009,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,Harmony HE
+scVI,HE,xtropicalis to mfascicularis,0.8683051523736072,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI HE
+Harmony,HE,hsapiens to mmusculus,0.8676311429436603,0.9,hsapiens,mmusculus,Pancreas_hs_mm,Harmony HE
+SeuratV4 CCA,O2O,hsapiens to mfascicularis,0.8673051956852423,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+scVI,O2O,hsapiens to mmusculus,0.8666303530957586,1,hsapiens,mmusculus,Heart_hs_mm,scVI O2O
+Harmony,O2O,xtropicalis to mmusculus,0.8664870851765688,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony O2O
+Harmony,O2O,drerio to mfascicularis,0.8658640401356882,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+fastMNN,SH,mfascicularis to hsapiens,0.8654171724841421,1,mfascicularis,hsapiens,Heart_hs_mf_mm,fastMNN SH
+SeuratV4 RPCA,O2O,mfascicularis to mmusculus,0.8652099595979688,1,mfascicularis,mmusculus,Heart_hs_mf_mm,SeuratV4 RPCA O2O
+Harmony,SH,hsapiens to mmusculus,0.8648824471080574,1,hsapiens,mmusculus,Heart_hs_mm,Harmony SH
+SeuratV4 CCA,HE,hsapiens to xtropicalis,0.8647860631318425,1,hsapiens,xtropicalis,Heart_hs_xl,SeuratV4 CCA HE
+scVI,HE,hsapiens to mmusculus,0.8632260295859172,1,hsapiens,mmusculus,Heart_hs_mm,scVI HE
+SeuratV4 RPCA,HE,mmusculus to hsapiens,0.8623274131565516,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,hsapiens to mmusculus,0.8619232053540682,1,hsapiens,mmusculus,Heart_hs_mf_mm,SeuratV4 RPCA O2O
+SeuratV4 RPCA,O2O,drerio to mfascicularis,0.861740953441634,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+scVI,HE,hsapiens to mmusculus,0.8614148677802855,1,hsapiens,mmusculus,Heart_hs_mf_mm,scVI HE
+Harmony,O2O,mmusculus to xtropicalis,0.8605109815682024,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 RPCA,HE,mmusculus to hsapiens,0.8604058061282537,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Harmony,O2O,xtropicalis to mfascicularis,0.8603718137615338,1,xtropicalis,mfascicularis,Heart_mf_xl,Harmony O2O
+scANVI,O2O,mmusculus to drerio,0.8601621111833305,1,mmusculus,drerio,Heart_mm_dr,scANVI O2O
+Scanorama,SH,xtropicalis to hsapiens,0.858946550420393,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,Scanorama SH
+Scanorama,O2O,drerio to hsapiens,0.858655794150021,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scVI,SH,xtropicalis to hsapiens,0.8584774223794511,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,scVI SH
+SeuratV4 CCA,HE,hsapiens to mfascicularis,0.8576531611215199,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 RPCA,HE,mmusculus to mfascicularis,0.8574523253749569,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+Scanorama,HE,mmusculus to mfascicularis,0.8573752032507224,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,Scanorama HE
+SeuratV4 CCA,HE,mfascicularis to drerio,0.8567580379736329,1,mfascicularis,drerio,Heart_mf_dr,SeuratV4 CCA HE
+scVI,O2O,mmusculus to xtropicalis,0.8563332668012538,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,scVI O2O
+scVI,O2O,xtropicalis to hsapiens,0.8560309090730177,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,scVI O2O
+SeuratV4 RPCA,HE,mmusculus to xtropicalis,0.8552518761909408,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+Scanorama,HE,xtropicalis to hsapiens,0.8551510713332069,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama HE
+SeuratV4 CCA,O2O,xtropicalis to mfascicularis,0.855047014825439,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+SeuratV4 RPCA,O2O,xtropicalis to mmusculus,0.8541428174861134,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+SeuratV4 RPCA,SH,xtropicalis to mfascicularis,0.8533842362289794,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+scVI,HE,xtropicalis to hsapiens,0.8530817023550927,1,xtropicalis,hsapiens,Heart_hs_xl,scVI HE
+SeuratV4 RPCA,HE,mmusculus to hsapiens,0.851747621887216,1,mmusculus,hsapiens,Heart_hs_mf_mm,SeuratV4 RPCA HE
+SeuratV4 RPCA,SH,hsapiens to xtropicalis,0.8516352141555837,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+scVI,HE,hsapiens to mfascicularis,0.8514533291620265,1,hsapiens,mfascicularis,Heart_hs_mf,scVI HE
+SeuratV4 RPCA,O2O,drerio to mfascicularis,0.8504654641275528,1,drerio,mfascicularis,Heart_mf_dr,SeuratV4 RPCA O2O
+SeuratV4 CCA,SH,hsapiens to mfascicularis,0.8502153647374676,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,HE,drerio to mfascicularis,0.8498646130236692,1,drerio,mfascicularis,Heart_mf_dr,Harmony HE
+SeuratV4 RPCA,SH,mmusculus to xtropicalis,0.8492870878107943,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+unintegrated,O2O.h5ad,mmusculus to mfascicularis,0.8491408712675572,1,mmusculus,mfascicularis,Heart_hs_mf_mm,unintegrated O2O
+SeuratV4 RPCA,HE,hsapiens to xtropicalis,0.847875985316131,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+scVI,HE,mmusculus to xtropicalis,0.8475433256737505,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,scVI HE
+scANVI,HE,hsapiens to drerio,0.8474183650338727,1,hsapiens,drerio,Heart_hs_dr,scANVI HE
+Scanorama,HE,hsapiens to mmusculus,0.8465038057869864,1,hsapiens,mmusculus,Pancreas_hs_mm,Scanorama HE
+Scanorama,O2O,xtropicalis to mmusculus,0.8464192365021087,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scVI,O2O,mfascicularis to hsapiens,0.845874745926279,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,scVI O2O
+Scanorama,O2O,mmusculus to hsapiens,0.8457639437905362,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scVI,SH,xtropicalis to hsapiens,0.8455162221194361,1,xtropicalis,hsapiens,Heart_hs_xl,scVI SH
+scVI,HE,hsapiens to xtropicalis,0.8450576951657576,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,scVI HE
+SeuratV4 CCA,O2O,hsapiens to xtropicalis,0.8449796794780964,1,hsapiens,xtropicalis,Heart_hs_xl,SeuratV4 CCA O2O
+unintegrated,SH.h5ad,xtropicalis to mmusculus,0.8443458126193965,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,unintegrated SH
+Harmony,HE,drerio to mfascicularis,0.8435678862671184,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony HE
+SeuratV4 RPCA,O2O,mmusculus to hsapiens,0.843565747159721,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+Harmony,O2O,mmusculus to hsapiens,0.8406617931285522,1,mmusculus,hsapiens,Pancreas_hs_mm,Harmony O2O
+scVI,HE,mmusculus to hsapiens,0.8401290172499026,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,scVI HE
+SeuratV4 RPCA,SH,mmusculus to hsapiens,0.8392127465634359,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+SeuratV4 RPCA,O2O,mmusculus to hsapiens,0.8380642669914271,1,mmusculus,hsapiens,Heart_hs_mf_mm,SeuratV4 RPCA O2O
+unintegrated,HE.h5ad,mmusculus to mfascicularis,0.8378882161907578,1,mmusculus,mfascicularis,Heart_hs_mf_mm,unintegrated HE
+Scanorama,SH,xtropicalis to mfascicularis,0.8377906372974424,1,xtropicalis,mfascicularis,Heart_mf_xl,Scanorama SH
+SeuratV4 RPCA,O2O,hsapiens to mmusculus,0.8376322155993249,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+SeuratV4 CCA,SH,mmusculus to mfascicularis,0.8373288599387364,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,HE,mmusculus to hsapiens,0.8370752758866667,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony HE
+scVI,O2O,xtropicalis to hsapiens,0.8365477799587251,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,scVI O2O
+scVI,SH,xtropicalis to mfascicularis,0.8365424368752915,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI SH
+scANVI,O2O,mfascicularis to drerio,0.8363743927905452,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,scANVI O2O
+Harmony,O2O,hsapiens to mmusculus,0.8363155349767857,1,hsapiens,mmusculus,Pancreas_hs_mm,Harmony O2O
+SeuratV4 CCA,SH,xtropicalis to mmusculus,0.8359680692851204,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+scVI,SH,mfascicularis to hsapiens,0.8357456595563406,1,mfascicularis,hsapiens,Heart_hs_mf_mm,scVI SH
+Scanorama,SH,xtropicalis to mfascicularis,0.8357409525793325,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+fastMNN,O2O,mfascicularis to hsapiens,0.8354945687473344,1,mfascicularis,hsapiens,Heart_hs_mf_mm,fastMNN O2O
+fastMNN,O2O,mfascicularis to mmusculus,0.8353648887754704,1,mfascicularis,mmusculus,Heart_mf_mm,fastMNN O2O
+SeuratV4 RPCA,O2O,mmusculus to xtropicalis,0.8342571121941441,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+SeuratV4 RPCA,HE,mmusculus to mfascicularis,0.8341352433824275,1,mmusculus,mfascicularis,Heart_mf_mm,SeuratV4 RPCA HE
+scVI,O2O,xtropicalis to hsapiens,0.834089981039745,1,xtropicalis,hsapiens,Heart_hs_xl,scVI O2O
+SeuratV4 CCA,HE,mmusculus to mfascicularis,0.833903560090816,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 CCA,SH,drerio to mfascicularis,0.8339032875070185,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+fastMNN,SH,hsapiens to xtropicalis,0.8337448730134456,1,hsapiens,xtropicalis,Heart_hs_xl,fastMNN SH
+Scanorama,O2O,mfascicularis to mmusculus,0.8334038427442066,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+fastMNN,HE,hsapiens to xtropicalis,0.8333974522132731,1,hsapiens,xtropicalis,Heart_hs_xl,fastMNN HE
+Harmony,SH,drerio to mfascicularis,0.8329300366072343,1,drerio,mfascicularis,Heart_mf_dr,Harmony SH
+Harmony,SH,mfascicularis to xtropicalis,0.8328444276443269,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,Harmony SH
+Scanorama,O2O,xtropicalis to mfascicularis,0.8322673944495955,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,Scanorama O2O
+LIGER,SH,hsapiens to mmulatta,0.8322524505408784,0.6666666666666666,hsapiens,mmulatta,Hippocampus_hs_mu_ss,LIGER SH
+scVI,SH,xtropicalis to mmusculus,0.8321037179464457,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,scVI SH
+unintegrated,HE.h5ad,xtropicalis to mmusculus,0.831926891937933,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,unintegrated HE
+Scanorama,O2O,hsapiens to mmulatta,0.8319098070901026,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,Scanorama O2O
+SeuratV4 CCA,SH,xtropicalis to mfascicularis,0.8316800575742986,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,O2O,mfascicularis to xtropicalis,0.8311102093393491,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 RPCA,SH,mmusculus to mfascicularis,0.8309263627368925,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+scVI,SH,hsapiens to xtropicalis,0.8308017925088865,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI SH
+SeuratV4 RPCA,SH,mmusculus to mfascicularis,0.8306821558070222,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA SH
+Scanorama,O2O,hsapiens to sscrofa,0.8306609070565562,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,Scanorama O2O
+scVI,SH,mfascicularis to hsapiens,0.8304123231395407,1,mfascicularis,hsapiens,Heart_hs_mf,scVI SH
+SeuratV4 RPCA,SH,hsapiens to xtropicalis,0.8304030681286029,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+fastMNN,HE,drerio to hsapiens,0.82921929783871,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN HE
+SeuratV4 CCA,HE,hsapiens to xtropicalis,0.8284834946702423,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 RPCA,O2O,mmusculus to hsapiens,0.828126708738288,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+SeuratV4 CCA,O2O,mmusculus to mfascicularis,0.8275743832565846,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+scVI,SH,xtropicalis to mmusculus,0.8270446970152394,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,scVI SH
+SeuratV4 RPCA,O2O,mmusculus to mfascicularis,0.8270211340657798,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+Scanorama,O2O,mfascicularis to mmusculus,0.8265859083136232,1,mfascicularis,mmusculus,Heart_hs_mf_mm,Scanorama O2O
+fastMNN,SH,mfascicularis to mmusculus,0.8251534353244689,1,mfascicularis,mmusculus,Heart_mf_mm,fastMNN SH
+unintegrated,SH.h5ad,hsapiens to mmusculus,0.824773836458441,1,hsapiens,mmusculus,Pancreas_hs_mm,unintegrated SH
+LIGER,HE,hsapiens to mmulatta,0.8241435462068704,0.6666666666666666,hsapiens,mmulatta,Hippocampus_hs_mu_ss,LIGER HE
+scVI,HE,hsapiens to xtropicalis,0.8236412430043328,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI HE
+scVI,O2O,xtropicalis to mmusculus,0.8235146559212897,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,scVI O2O
+SeuratV4 RPCA,SH,mmusculus to mfascicularis,0.8233917781262008,1,mmusculus,mfascicularis,Heart_mf_mm,SeuratV4 RPCA SH
+Harmony,HE,hsapiens to xtropicalis,0.8231622477642323,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,Harmony HE
+SeuratV4 RPCA,HE,mmusculus to mfascicularis,0.8230059536168154,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Harmony,SH,hsapiens to mmusculus,0.8220976919918725,1,hsapiens,mmusculus,Pancreas_hs_mm,Harmony SH
+SeuratV4 RPCA,O2O,hsapiens to xtropicalis,0.8214873809447414,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA O2O
+SeuratV4 CCA,HE,mfascicularis to xtropicalis,0.8209295176851189,1,mfascicularis,xtropicalis,Heart_mf_xl,SeuratV4 CCA HE
+fastMNN,O2O,drerio to hsapiens,0.8195410212982582,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+scVI,O2O,xtropicalis to mmusculus,0.8188284251414443,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,scVI O2O
+SeuratV4 RPCA,O2O,mmusculus to mfascicularis,0.8186687995274647,1,mmusculus,mfascicularis,Heart_mf_mm,SeuratV4 RPCA O2O
+scVI,SH,mfascicularis to hsapiens,0.8186341752740229,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,scVI SH
+Scanorama,O2O,hsapiens to xtropicalis,0.8185410067806428,1,hsapiens,xtropicalis,Heart_hs_xl,Scanorama O2O
+SeuratV4 RPCA,SH,drerio to mfascicularis,0.8183565134908127,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+Harmony,SH,hsapiens to xtropicalis,0.8177870108366377,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,Harmony SH
+scVI,O2O,hsapiens to xtropicalis,0.8176532138380153,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,scVI O2O
+scVI,O2O,mfascicularis to hsapiens,0.8176261718745138,1,mfascicularis,hsapiens,Heart_hs_mf,scVI O2O
+SeuratV4 CCA,O2O,xtropicalis to mmusculus,0.8173033442227842,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+fastMNN,HE,mfascicularis to mmusculus,0.817227144343629,1,mfascicularis,mmusculus,Heart_mf_mm,fastMNN HE
+fastMNN,O2O,drerio to hsapiens,0.8167968605795957,0.8571428571428571,drerio,hsapiens,Heart_hs_dr,fastMNN O2O
+SeuratV4 RPCA,O2O,drerio to hsapiens,0.8167579869144476,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+SeuratV4 RPCA,HE,hsapiens to xtropicalis,0.816693016754142,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Scanorama,HE,hsapiens to sscrofa,0.8165067643503843,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,Scanorama HE
+scANVI,SH,mmusculus to drerio,0.8153872746419254,1,mmusculus,drerio,Heart_mm_dr,scANVI SH
+fastMNN,SH,drerio to hsapiens,0.8142915178857558,1,drerio,hsapiens,Heart_hs_dr,fastMNN SH
+Scanorama,SH,mmusculus to mfascicularis,0.8141239146510048,1,mmusculus,mfascicularis,Heart_mf_mm,Scanorama SH
+SeuratV4 RPCA,SH,mmusculus to hsapiens,0.8135566829634692,1,mmusculus,hsapiens,Heart_hs_mf_mm,SeuratV4 RPCA SH
+SeuratV4 CCA,SH,mfascicularis to xtropicalis,0.8127373481393839,1,mfascicularis,xtropicalis,Heart_mf_xl,SeuratV4 CCA SH
+SeuratV4 CCA,HE,mmusculus to xtropicalis,0.8120126043374034,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 RPCA,HE,mmusculus to mfascicularis,0.8111368447922144,1,mmusculus,mfascicularis,Heart_hs_mf_mm,SeuratV4 RPCA HE
+SeuratV4 CCA,HE,drerio to hsapiens,0.8108983362920309,1,drerio,hsapiens,Heart_hs_dr,SeuratV4 CCA HE
+scVI,O2O,hsapiens to mfascicularis,0.8104234587184613,1,hsapiens,mfascicularis,Heart_hs_mf_mm,scVI O2O
+scVI,O2O,mmusculus to hsapiens,0.8101791090107517,1,mmusculus,hsapiens,Heart_hs_mm,scVI O2O
+scVI,O2O,hsapiens to xtropicalis,0.8083788465165882,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI O2O
+Scanorama,SH,xtropicalis to hsapiens,0.8079169221528456,1,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama SH
+SeuratV4 RPCA,O2O,hsapiens to xtropicalis,0.806495253781148,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+SeuratV4 RPCA,O2O,mmusculus to mfascicularis,0.806327163925836,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+SeuratV4 CCA,O2O,mfascicularis to drerio,0.8058742567821542,1,mfascicularis,drerio,Heart_mf_dr,SeuratV4 CCA O2O
+Scanorama,SH,hsapiens to mmusculus,0.804732831633995,1,hsapiens,mmusculus,Pancreas_hs_mm,Scanorama SH
+LIGER UINMF,SH,xtropicalis to mfascicularis,0.8042965203350565,1,xtropicalis,mfascicularis,Heart_mf_xl,LIGER UINMF SH
+SeuratV4 CCA,O2O,hsapiens to xtropicalis,0.8040187246705702,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+scVI,HE,mmusculus to xtropicalis,0.8038159420113518,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI HE
+SeuratV4 CCA,SH,hsapiens to xtropicalis,0.8037362963681551,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,O2O,hsapiens to xtropicalis,0.8031072517412406,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,Harmony O2O
+unintegrated,HE.h5ad,xtropicalis to mmusculus,0.8028023745396379,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,unintegrated HE
+unintegrated,SH.h5ad,xtropicalis to mmusculus,0.8009063325538318,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,unintegrated SH
+SeuratV4 CCA,SH,mmusculus to xtropicalis,0.800184819509888,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Scanorama,HE,mfascicularis to hsapiens,0.7993680087026296,1,mfascicularis,hsapiens,Heart_hs_mf,Scanorama HE
+scANVI,SH,hsapiens to drerio,0.7992999287400504,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,scANVI SH
+fastMNN,HE,mmusculus to hsapiens,0.7989743660280938,0.7,mmusculus,hsapiens,Pancreas_hs_mm,fastMNN HE
+Harmony,O2O,mmusculus to hsapiens,0.7982847701398078,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony O2O
+scVI,O2O,mmusculus to hsapiens,0.7969286994503118,1,mmusculus,hsapiens,Heart_hs_mf_mm,scVI O2O
+scANVI,O2O,xtropicalis to drerio,0.7966702201267254,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,scANVI O2O
+scVI,HE,mfascicularis to xtropicalis,0.7957517890764384,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,scVI HE
+fastMNN,HE,drerio to mmusculus,0.794995986796411,1,drerio,mmusculus,Heart_mm_dr,fastMNN HE
+Scanorama,HE,hsapiens to mfascicularis,0.7949287303741772,1,hsapiens,mfascicularis,Heart_hs_mf_mm,Scanorama HE
+SeuratV4 RPCA,O2O,mmusculus to hsapiens,0.7948589318690589,1,mmusculus,hsapiens,Heart_hs_mm,SeuratV4 RPCA O2O
+LIGER UINMF,SH,hsapiens to mmusculus,0.7945244692182993,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF SH
+scVI,SH,hsapiens to xtropicalis,0.7928751608665701,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,scVI SH
+scVI,SH,mfascicularis to xtropicalis,0.7927238756151369,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI SH
+Harmony,O2O,hsapiens to xtropicalis,0.7924092120430044,1,hsapiens,xtropicalis,Heart_hs_xl,Harmony O2O
+scANVI,HE,hsapiens to drerio,0.7921534398477393,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,scANVI HE
+scVI,SH,mmusculus to hsapiens,0.790792667337932,1,mmusculus,hsapiens,Heart_hs_mm,scVI SH
+scANVI,O2O,hsapiens to drerio,0.7903035331200635,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,scANVI O2O
+SeuratV4 CCA,O2O,drerio to hsapiens,0.7894351604178089,1,drerio,hsapiens,Heart_hs_dr,SeuratV4 CCA O2O
+Scanorama,HE,mmusculus to mfascicularis,0.7891428575722714,1,mmusculus,mfascicularis,Heart_mf_mm,Scanorama HE
+Scanorama,O2O,xtropicalis to hsapiens,0.7889600340389211,1,xtropicalis,hsapiens,Heart_hs_xl,Scanorama O2O
+scANVI,O2O,hsapiens to drerio,0.7883282400460283,1,hsapiens,drerio,Heart_hs_dr,scANVI O2O
+SeuratV4 RPCA,HE,mfascicularis to xtropicalis,0.7882627483813384,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Scanorama,HE,xtropicalis to mfascicularis,0.7882233493301006,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,Scanorama HE
+fastMNN,HE,hsapiens to mmusculus,0.7880159933405269,0.9,hsapiens,mmusculus,Pancreas_hs_mm,fastMNN HE
+scVI,SH,mmusculus to mfascicularis,0.7871504473604182,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI SH
+scANVI,SH,mfascicularis to drerio,0.782475145204844,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,scANVI SH
+scVI,SH,drerio to mfascicularis,0.7822549928563255,1,drerio,mfascicularis,Heart_mf_dr,scVI SH
+fastMNN,O2O,hsapiens to xtropicalis,0.7817838249807549,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_xl,fastMNN O2O
+fastMNN,O2O,drerio to mfascicularis,0.7807360070688073,0.8,drerio,mfascicularis,Heart_mf_dr,fastMNN O2O
+fastMNN,SH,hsapiens to mmusculus,0.7806796164769917,1,hsapiens,mmusculus,Pancreas_hs_mm,fastMNN SH
+scVI,O2O,mmusculus to hsapiens,0.7797473907473788,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,scVI O2O
+scANVI,SH,xtropicalis to drerio,0.7794405115620449,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,scANVI SH
+SeuratV4 RPCA,HE,drerio to mmusculus,0.7792442506824137,1,drerio,mmusculus,Heart_mm_dr,SeuratV4 RPCA HE
+LIGER UINMF,O2O,hsapiens to sscrofa,0.7789057098057254,0.9090909090909092,hsapiens,sscrofa,Hippocampus_hs_mu_ss,LIGER UINMF O2O
+SeuratV4 CCA,HE,drerio to mfascicularis,0.7787384072690396,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+scVI,SH,mmusculus to xtropicalis,0.7781589503148726,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,scVI SH
+fastMNN,O2O,hsapiens to mmusculus,0.7777336249452096,1,hsapiens,mmusculus,Pancreas_hs_mm,fastMNN O2O
+SeuratV4 RPCA,SH,mfascicularis to mmusculus,0.7776432085663239,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+unintegrated,O2O.h5ad,xtropicalis to mmusculus,0.7771492626651088,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,unintegrated O2O
+Harmony,HE,mfascicularis to xtropicalis,0.776597847575679,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,Harmony HE
+Scanorama,SH,drerio to mfascicularis,0.7759773984567773,1,drerio,mfascicularis,Heart_mf_dr,Scanorama SH
+SeuratV4 CCA,SH,drerio to hsapiens,0.7732786910077394,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+SeuratV4 RPCA,HE,hsapiens to mmulatta,0.7725317094894493,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 RPCA HE
+Scanorama,SH,drerio to mmusculus,0.7723941125050157,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama SH
+Scanorama,SH,mfascicularis to hsapiens,0.7710008625640314,1,mfascicularis,hsapiens,Heart_hs_mf,Scanorama SH
+Harmony,SH,drerio to mfascicularis,0.77041730011948,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 RPCA,HE,drerio to mfascicularis,0.7701145860726691,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+scVI,O2O,mfascicularis to xtropicalis,0.7700791691028053,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,scVI O2O
+fastMNN,O2O,mmusculus to xtropicalis,0.7686523851764349,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,fastMNN O2O
+fastMNN,HE,mmusculus to xtropicalis,0.7661969254844715,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,fastMNN HE
+Scanorama,SH,hsapiens to mfascicularis,0.7657507397648666,1,hsapiens,mfascicularis,Heart_hs_mf_mm,Scanorama SH
+Scanorama,O2O,hsapiens to mfascicularis,0.7653072483302359,1,hsapiens,mfascicularis,Heart_hs_mf_mm,Scanorama O2O
+unintegrated,O2O.h5ad,sscrofa to mmulatta,0.7648659139069459,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,unintegrated O2O
+scVI,HE,hsapiens to xtropicalis,0.7641736336817426,1,hsapiens,xtropicalis,Heart_hs_xl,scVI HE
+SeuratV4 CCA,SH,mfascicularis to xtropicalis,0.7641088110775204,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+scVI,SH,mmusculus to xtropicalis,0.7627628022029025,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI SH
+SeuratV4 RPCA,HE,xtropicalis to mfascicularis,0.7618224042859242,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,hsapiens to mmulatta,0.761193880513013,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 RPCA O2O
+fastMNN,SH,mmusculus to xtropicalis,0.7611796905690368,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,fastMNN SH
+Harmony,O2O,drerio to mfascicularis,0.760540105919692,1,drerio,mfascicularis,Heart_mf_dr,Harmony O2O
+Harmony,HE,mfascicularis to hsapiens,0.7603007537125337,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,Harmony HE
+SeuratV4 RPCA,SH,drerio to hsapiens,0.7597870329167128,1,drerio,hsapiens,Heart_hs_dr,SeuratV4 RPCA SH
+scVI,HE,mfascicularis to hsapiens,0.758841157433324,1,mfascicularis,hsapiens,Heart_hs_mf,scVI HE
+SeuratV4 RPCA,HE,drerio to hsapiens,0.7584626776585399,1,drerio,hsapiens,Heart_hs_dr,SeuratV4 RPCA HE
+SeuratV4 RPCA,SH,hsapiens to mmulatta,0.7575818798417068,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 RPCA SH
+Scanorama,SH,hsapiens to xtropicalis,0.7573339307457729,1,hsapiens,xtropicalis,Heart_hs_xl,Scanorama SH
+scVI,HE,drerio to mfascicularis,0.7571772371046513,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI HE
+scVI,HE,mfascicularis to hsapiens,0.7570795770031415,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,scVI HE
+Scanorama,SH,hsapiens to mfascicularis,0.7566037362204506,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+unintegrated,SH.h5ad,hsapiens to mmusculus,0.7561347427824873,1,hsapiens,mmusculus,Pancreas_hs_mm,unintegrated SH
+scVI,SH,mfascicularis to xtropicalis,0.7558785590815402,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,scVI SH
+SeuratV4 RPCA,O2O,mfascicularis to mmusculus,0.7546928208583833,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+scANVI,HE,xtropicalis to drerio,0.7538902210285557,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,scANVI HE
+Scanorama,O2O,xtropicalis to mfascicularis,0.7527483430260236,1,xtropicalis,mfascicularis,Heart_mf_xl,Scanorama O2O
+scVI,SH,mfascicularis to mmusculus,0.7525188541464478,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,scVI SH
+scVI,O2O,hsapiens to xtropicalis,0.7511267438600273,1,hsapiens,xtropicalis,Heart_hs_xl,scVI O2O
+LIGER,O2O,hsapiens to mfascicularis,0.749687776422699,1,hsapiens,mfascicularis,Heart_hs_mf,LIGER O2O
+LIGER UINMF,O2O,mmulatta to sscrofa,0.7488250666835112,0.9166666666666666,mmulatta,sscrofa,Hippocampus_hs_mu_ss,LIGER UINMF O2O
+Harmony,SH,mmusculus to hsapiens,0.7475657283769389,1,mmusculus,hsapiens,Pancreas_hs_mm,Harmony SH
+SeuratV4 CCA,O2O,hsapiens to mmusculus,0.7474766061477841,1,hsapiens,mmusculus,Pancreas_hs_mm,SeuratV4 CCA O2O
+Scanorama,O2O,hsapiens to mmusculus,0.7460077905202442,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scVI,HE,mmusculus to hsapiens,0.7443823419424671,1,mmusculus,hsapiens,Heart_hs_mf_mm,scVI HE
+LIGER UINMF,O2O,mfascicularis to mmusculus,0.7419219324524894,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+SeuratV4 RPCA,HE,sscrofa to mmulatta,0.7418734777475919,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,sscrofa to mmulatta,0.741824873428175,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 RPCA O2O
+SeuratV4 CCA,O2O,drerio to hsapiens,0.7416719970286525,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+fastMNN,O2O,hsapiens to xtropicalis,0.7411980128623736,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,fastMNN O2O
+Harmony,SH,mfascicularis to hsapiens,0.7399617556446572,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony SH
+LIGER,SH,hsapiens to mfascicularis,0.7399537921155352,1,hsapiens,mfascicularis,Heart_hs_mf,LIGER SH
+SeuratV4 RPCA,HE,drerio to hsapiens,0.7384595519140175,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+scVI,SH,drerio to hsapiens,0.7377509539801662,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,scVI SH
+SeuratV4 CCA,O2O,mmusculus to xtropicalis,0.7376617062483743,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+unintegrated,O2O.h5ad,sscrofa to mmulatta,0.7367071764468474,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,unintegrated O2O
+LIGER,SH,hsapiens to mfascicularis,0.7364080160579266,1,hsapiens,mfascicularis,Heart_hs_mf_mm,LIGER SH
+fastMNN,HE,hsapiens to xtropicalis,0.735143429649157,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,fastMNN HE
+scVI,SH,drerio to hsapiens,0.7329386342510473,1,drerio,hsapiens,Heart_hs_dr,scVI SH
+Scanorama,HE,drerio to hsapiens,0.7325970911790669,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama HE
+Scanorama,SH,hsapiens to mfascicularis,0.7317997742368596,1,hsapiens,mfascicularis,Heart_hs_mf,Scanorama SH
+scVI,O2O,mfascicularis to hsapiens,0.7316283005640296,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,scVI O2O
+SeuratV4 RPCA,SH,mmusculus to mfascicularis,0.7313491546786887,1,mmusculus,mfascicularis,Heart_hs_mf_mm,SeuratV4 RPCA SH
+fastMNN,HE,hsapiens to drerio,0.730484532195388,1,hsapiens,drerio,Heart_hs_dr,fastMNN HE
+scVI,SH,mmusculus to hsapiens,0.7295016539898944,1,mmusculus,hsapiens,Heart_hs_mf_mm,scVI SH
+Scanorama,HE,mmusculus to mfascicularis,0.7285959065228361,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+scVI,O2O,mmusculus to mfascicularis,0.7279521340369068,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI O2O
+LIGER,O2O,hsapiens to mmulatta,0.7267609593349669,0.5833333333333334,hsapiens,mmulatta,Hippocampus_hs_mu_ss,LIGER O2O
+SeuratV4 RPCA,SH,drerio to hsapiens,0.7258406699236847,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+Scanorama,O2O,drerio to mmusculus,0.725566168290558,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+Scanorama,SH,drerio to hsapiens,0.7254527979459034,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama SH
+SeuratV4 CCA,HE,xtropicalis to mfascicularis,0.7247338491530722,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 CCA,SH,hsapiens to mmusculus,0.7246524436312747,1,hsapiens,mmusculus,Pancreas_hs_mm,SeuratV4 CCA SH
+unintegrated,HE.h5ad,sscrofa to mmulatta,0.7246264578840996,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,unintegrated HE
+Scanorama,SH,sscrofa to mmulatta,0.7242674131823023,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,Scanorama SH
+LIGER UINMF,SH,hsapiens to xtropicalis,0.7226537754108655,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF SH
+fastMNN,SH,mfascicularis to xtropicalis,0.7211495054376414,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+SeuratV4 RPCA,SH,hsapiens to xtropicalis,0.7195616714673407,1,hsapiens,xtropicalis,Heart_hs_xl,SeuratV4 RPCA SH
+Harmony,O2O,mfascicularis to hsapiens,0.7190919912405016,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,Harmony O2O
+SeuratV4 CCA,HE,drerio to hsapiens,0.7162283977613152,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+Scanorama,SH,hsapiens to mfascicularis,0.7160998330794678,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,Scanorama SH
+SeuratV4 RPCA,SH,sscrofa to mmulatta,0.715703545494578,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,SeuratV4 RPCA SH
+LIGER UINMF,HE,hsapiens to mmusculus,0.7139850164428487,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF HE
+LIGER UINMF,HE,mfascicularis to mmusculus,0.7135488651010671,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF HE
+Scanorama,O2O,mfascicularis to hsapiens,0.7135469832398802,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+SeuratV4 CCA,HE,mfascicularis to xtropicalis,0.7129955319373189,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+scVI,O2O,drerio to mfascicularis,0.7128992782067192,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI O2O
+Scanorama,HE,xtropicalis to hsapiens,0.7127399620436633,1,xtropicalis,hsapiens,Heart_hs_xl,Scanorama HE
+fastMNN,SH,hsapiens to xtropicalis,0.7117119158392035,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,fastMNN SH
+SeuratV4 CCA,HE,hsapiens to mmusculus,0.7105696130482373,1,hsapiens,mmusculus,Pancreas_hs_mm,SeuratV4 CCA HE
+SeuratV4 RPCA,O2O,hsapiens to xtropicalis,0.7104811305702521,1,hsapiens,xtropicalis,Heart_hs_xl,SeuratV4 RPCA O2O
+LIGER,O2O,hsapiens to mfascicularis,0.7104051359248831,1,hsapiens,mfascicularis,Heart_hs_mf_mm,LIGER O2O
+Harmony,HE,mmusculus to hsapiens,0.7103312779832417,1,mmusculus,hsapiens,Pancreas_hs_mm,Harmony HE
+Harmony,SH,mfascicularis to hsapiens,0.7084326907200885,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,Harmony SH
+scVI,O2O,drerio to hsapiens,0.7083348880196313,1,drerio,hsapiens,Heart_hs_dr,scVI O2O
+SeuratV4 RPCA,O2O,mfascicularis to xtropicalis,0.7071872785428951,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+fastMNN,SH,drerio to mmusculus,0.7066740807928703,1,drerio,mmusculus,Heart_mm_dr,fastMNN SH
+Scanorama,HE,drerio to mfascicularis,0.7060271620051923,1,drerio,mfascicularis,Heart_mf_dr,Scanorama HE
+Scanorama,HE,sscrofa to mmulatta,0.704554025634492,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,Scanorama HE
+fastMNN,O2O,xtropicalis to mfascicularis,0.7043920806220089,0.8,xtropicalis,mfascicularis,Heart_mf_xl,fastMNN O2O
+Scanorama,O2O,mfascicularis to mmusculus,0.7042045892950525,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,Scanorama O2O
+Scanorama,O2O,xtropicalis to mfascicularis,0.7032890785564845,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+SeuratV4 RPCA,SH,mfascicularis to xtropicalis,0.7012072007383334,1,mfascicularis,xtropicalis,Heart_mf_xl,SeuratV4 RPCA SH
+SeuratV4 RPCA,SH,mmusculus to hsapiens,0.7001168254374927,1,mmusculus,hsapiens,Heart_hs_mm,SeuratV4 RPCA SH
+Harmony,O2O,mfascicularis to hsapiens,0.6974202558294834,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony O2O
+unintegrated,HE.h5ad,mmusculus to xtropicalis,0.69729651589593,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,unintegrated HE
+Scanorama,SH,mmusculus to xtropicalis,0.6967161909523315,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+Harmony,SH,hsapiens to xtropicalis,0.6939045322898529,1,hsapiens,xtropicalis,Heart_hs_xl,Harmony SH
+SeuratV4 CCA,O2O,mfascicularis to xtropicalis,0.6930083538965166,1,mfascicularis,xtropicalis,Heart_mf_xl,SeuratV4 CCA O2O
+LIGER UINMF,HE,mfascicularis to hsapiens,0.69019349927737,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF HE
+Scanorama,O2O,hsapiens to xtropicalis,0.6901768068712804,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,Scanorama O2O
+Harmony,HE,mfascicularis to xtropicalis,0.689111152474961,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony HE
+fastMNN,O2O,drerio to mmusculus,0.6883438245785366,1,drerio,mmusculus,Heart_mm_dr,fastMNN O2O
+SeuratV4 CCA,O2O,mfascicularis to xtropicalis,0.6883385314489858,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+scVI,O2O,mfascicularis to hsapiens,0.688289753188224,1,mfascicularis,hsapiens,Heart_hs_mf_mm,scVI O2O
+scVI,O2O,mmusculus to xtropicalis,0.6881941599506582,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI O2O
+Scanorama,O2O,mmusculus to mfascicularis,0.6881272708187272,1,mmusculus,mfascicularis,Heart_hs_mf_mm,Scanorama O2O
+Harmony,O2O,mfascicularis to xtropicalis,0.6876510656216047,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+scVI,HE,mmusculus to mfascicularis,0.6860872515030355,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI HE
+Harmony,HE,drerio to hsapiens,0.6856668496993182,1,drerio,hsapiens,Heart_hs_dr,Harmony HE
+scVI,HE,mmusculus to mfascicularis,0.6853432051243706,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,scVI HE
+Scanorama,HE,hsapiens to mmusculus,0.6844856124681156,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,Scanorama HE
+SeuratV4 RPCA,O2O,drerio to hsapiens,0.6842575330140755,1,drerio,hsapiens,Heart_hs_dr,SeuratV4 RPCA O2O
+SeuratV4 RPCA,O2O,xtropicalis to mfascicularis,0.6838206033635783,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+LIGER UINMF,SH,hsapiens to mfascicularis,0.6812077929817038,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF SH
+unintegrated,SH.h5ad,mmusculus to xtropicalis,0.6800469168605598,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,unintegrated SH
+Scanorama,O2O,mmusculus to xtropicalis,0.6791775212508151,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,Scanorama O2O
+fastMNN,HE,hsapiens to xtropicalis,0.6784416711245282,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+unintegrated,O2O.h5ad,mmusculus to xtropicalis,0.6773207694527168,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,unintegrated O2O
+SeuratV4 CCA,SH,hsapiens to drerio,0.6764423675297183,1,hsapiens,drerio,Heart_hs_dr,SeuratV4 CCA SH
+LIGER UINMF,O2O,hsapiens to mmusculus,0.675670901457532,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mm,LIGER UINMF O2O
+Scanorama,O2O,mmusculus to mfascicularis,0.6755511954903548,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scVI,HE,mfascicularis to mmusculus,0.6748664872245022,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,scVI HE
+SeuratV4 RPCA,HE,hsapiens to xtropicalis,0.6747370451224409,1,hsapiens,xtropicalis,Heart_hs_xl,SeuratV4 RPCA HE
+fastMNN,SH,xtropicalis to mfascicularis,0.6745271237440096,0.8,xtropicalis,mfascicularis,Heart_mf_xl,fastMNN SH
+LIGER UINMF,SH,hsapiens to mmusculus,0.6734127463363927,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+unintegrated,SH.h5ad,sscrofa to mmulatta,0.6730076237978986,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,unintegrated SH
+Scanorama,HE,hsapiens to mfascicularis,0.6729106471423479,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+fastMNN,O2O,hsapiens to xtropicalis,0.6719971602030986,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+LIGER UINMF,SH,mfascicularis to mmusculus,0.6717304475458065,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF SH
+scVI,HE,mfascicularis to mmusculus,0.6708967504642727,1,mfascicularis,mmusculus,Heart_hs_mf_mm,scVI HE
+fastMNN,SH,mfascicularis to xtropicalis,0.6706450815645884,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,fastMNN SH
+fastMNN,SH,mmusculus to xtropicalis,0.6691939403960342,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+SeuratV4 RPCA,SH,mfascicularis to xtropicalis,0.6687258410474556,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+SeuratV4 RPCA,HE,mfascicularis to xtropicalis,0.6676660927803124,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,SeuratV4 RPCA HE
+scVI,HE,drerio to mfascicularis,0.6655458448208468,1,drerio,mfascicularis,Heart_mf_dr,scVI HE
+LIGER UINMF,HE,mmusculus to hsapiens,0.6649442652989314,0.7272727272727273,mmusculus,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF HE
+LIGER UINMF,SH,mfascicularis to hsapiens,0.663683594603317,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+unintegrated,O2O.h5ad,mmusculus to xtropicalis,0.6627078835666138,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,unintegrated O2O
+Scanorama,HE,mfascicularis to mmusculus,0.6614733645702582,1,mfascicularis,mmusculus,Heart_mf_mm,Scanorama HE
+Scanorama,O2O,mfascicularis to mmusculus,0.6609606595180665,1,mfascicularis,mmusculus,Heart_mf_mm,Scanorama O2O
+SeuratV4 RPCA,O2O,mmusculus to mfascicularis,0.6604631934985231,1,mmusculus,mfascicularis,Heart_hs_mf_mm,SeuratV4 RPCA O2O
+SeuratV4 RPCA,SH,hsapiens to drerio,0.6597858270016304,1,hsapiens,drerio,Heart_hs_dr,SeuratV4 RPCA SH
+fastMNN,SH,hsapiens to xtropicalis,0.6589972094399023,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+scVI,HE,mfascicularis to mmusculus,0.6581841277403868,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,scVI HE
+scVI,HE,mmusculus to hsapiens,0.657566185191399,1,mmusculus,hsapiens,Heart_hs_mm,scVI HE
+scANVI,HE,mmusculus to drerio,0.6560782017593566,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,scANVI HE
+Scanorama,HE,mfascicularis to mmusculus,0.6559711291637254,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,Scanorama HE
+fastMNN,O2O,mmusculus to xtropicalis,0.6533131159948254,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+SeuratV4 RPCA,SH,mfascicularis to drerio,0.6530908054727192,1,mfascicularis,drerio,Heart_mf_dr,SeuratV4 RPCA SH
+LIGER UINMF,SH,sscrofa to hsapiens,0.6522913991374397,0.8181818181818182,sscrofa,hsapiens,Hippocampus_hs_mu_ss,LIGER UINMF SH
+fastMNN,SH,hsapiens to drerio,0.6520715691596544,1,hsapiens,drerio,Heart_hs_dr,fastMNN SH
+SeuratV4 RPCA,HE,hsapiens to drerio,0.6509314561587095,1,hsapiens,drerio,Heart_hs_dr,SeuratV4 RPCA HE
+unintegrated,HE.h5ad,sscrofa to mmulatta,0.6498694438694763,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,unintegrated HE
+scVI,O2O,drerio to hsapiens,0.6496261503559326,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,scVI O2O
+Scanorama,O2O,mmusculus to hsapiens,0.6487000032339982,1,mmusculus,hsapiens,Pancreas_hs_mm,Scanorama O2O
+SeuratV4 CCA,HE,hsapiens to drerio,0.6474182745306136,1,hsapiens,drerio,Heart_hs_dr,SeuratV4 CCA HE
+Harmony,HE,hsapiens to xtropicalis,0.6473837227424173,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony HE
+fastMNN,SH,drerio to mfascicularis,0.6470445758567916,1,drerio,mfascicularis,Heart_mf_dr,fastMNN SH
+LIGER UINMF,HE,sscrofa to hsapiens,0.6462824259847628,0.8181818181818182,sscrofa,hsapiens,Hippocampus_hs_mu_ss,LIGER UINMF HE
+fastMNN,O2O,mfascicularis to xtropicalis,0.6462523475991948,0.8,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+scANVI,SH,mmusculus to drerio,0.645498160459302,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,scANVI SH
+Scanorama,HE,mmusculus to hsapiens,0.6445278496737821,1,mmusculus,hsapiens,Pancreas_hs_mm,Scanorama HE
+Harmony,SH,drerio to hsapiens,0.6444799072990136,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony SH
+LIGER UINMF,O2O,hsapiens to mmusculus,0.6433228454109097,0.9,hsapiens,mmusculus,Pancreas_hs_mm,LIGER UINMF O2O
+scVI,SH,mmusculus to hsapiens,0.6419579890312089,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,scVI SH
+scVI,O2O,mfascicularis to mmusculus,0.641438275056977,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,scVI O2O
+scVI,O2O,mfascicularis to xtropicalis,0.6398916124379581,1,mfascicularis,xtropicalis,Heart_mf_xl,scVI O2O
+Scanorama,O2O,drerio to hsapiens,0.6394587358082093,1,drerio,hsapiens,Heart_hs_dr,Scanorama O2O
+Scanorama,O2O,mfascicularis to hsapiens,0.6347610976962689,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,Scanorama O2O
+unintegrated,SH.h5ad,mmusculus to xtropicalis,0.6334704885753888,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,unintegrated SH
+fastMNN,HE,mmusculus to xtropicalis,0.6323994660178192,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+Scanorama,SH,drerio to hsapiens,0.6307211327091962,1,drerio,hsapiens,Heart_hs_dr,Scanorama SH
+fastMNN,HE,mfascicularis to xtropicalis,0.6289559257993493,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+LIGER UINMF,HE,xtropicalis to hsapiens,0.6278649211032004,1,xtropicalis,hsapiens,Heart_hs_xl,LIGER UINMF HE
+scANVI,HE,xtropicalis to drerio,0.6263564671079908,1,xtropicalis,drerio,Embryo_dr_xt,scANVI HE
+scVI,O2O,mfascicularis to xtropicalis,0.6248662678219717,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI O2O
+scVI,O2O,mfascicularis to mmusculus,0.6241758744377363,1,mfascicularis,mmusculus,Heart_hs_mf_mm,scVI O2O
+LIGER,O2O,mmulatta to hsapiens,0.6233293384698039,0.75,mmulatta,hsapiens,Hippocampus_hs_mu_ss,LIGER O2O
+scVI,HE,drerio to hsapiens,0.6232189575905253,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,scVI HE
+scVI,HE,mfascicularis to hsapiens,0.6207009813937455,1,mfascicularis,hsapiens,Heart_hs_mf_mm,scVI HE
+fastMNN,O2O,mfascicularis to xtropicalis,0.6205525666597999,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,fastMNN O2O
+scVI,HE,mfascicularis to xtropicalis,0.6169739204505327,1,mfascicularis,xtropicalis,Heart_mf_xl,scVI HE
+Harmony,HE,drerio to hsapiens,0.6162888456043657,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony HE
+scVI,O2O,mmusculus to hsapiens,0.6161750464410249,1,mmusculus,hsapiens,Heart_hs_mf_mm_xl,scVI O2O
+unintegrated,HE.h5ad,mmusculus to xtropicalis,0.6143789500054367,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,unintegrated HE
+Scanorama,HE,mmusculus to xtropicalis,0.613594567933908,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+LIGER UINMF,SH,mfascicularis to mmusculus,0.6113779934840934,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER UINMF,SH,hsapiens to mmusculus,0.6111226798614051,0.8181818181818182,hsapiens,mmusculus,Heart_hs_mm,LIGER UINMF SH
+Scanorama,O2O,hsapiens to mmusculus,0.6099152114086016,1,hsapiens,mmusculus,Pancreas_hs_mm,Scanorama O2O
+scANVI,O2O,mmusculus to drerio,0.6097700536135449,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,scANVI O2O
+fastMNN,HE,mfascicularis to xtropicalis,0.6086180766078215,0.8,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,fastMNN HE
+SeuratV4 RPCA,HE,mmusculus to hsapiens,0.6078972293068547,1,mmusculus,hsapiens,Heart_hs_mm,SeuratV4 RPCA HE
+scVI,HE,hsapiens to drerio,0.6073979887547741,1,hsapiens,drerio,Heart_hs_dr,scVI HE
+Harmony,SH,hsapiens to xtropicalis,0.6057998780109527,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony SH
+Scanorama,O2O,hsapiens to xtropicalis,0.6055342921773131,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scANVI,SH,xtropicalis to drerio,0.6050501346854155,1,xtropicalis,drerio,Embryo_dr_xt,scANVI SH
+fastMNN,HE,mfascicularis to hsapiens,0.6034703092755513,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,fastMNN HE
+Scanorama,O2O,hsapiens to mmusculus,0.6029272268373551,1,hsapiens,mmusculus,Heart_hs_mm,Scanorama O2O
+LIGER UINMF,O2O,hsapiens to mfascicularis,0.6024590331166997,1,hsapiens,mfascicularis,Heart_hs_mf,LIGER UINMF O2O
+LIGER UINMF,HE,xtropicalis to hsapiens,0.6014885770171102,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+SeuratV4 CCA,O2O,hsapiens to drerio,0.6012235321973011,1,hsapiens,drerio,Heart_hs_dr,SeuratV4 CCA O2O
+Scanorama,HE,drerio to xtropicalis,0.6008600147670091,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+LIGER UINMF,SH,mmusculus to hsapiens,0.600220319542621,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm,LIGER UINMF SH
+SeuratV4 RPCA,O2O,mfascicularis to xtropicalis,0.5985521372953718,1,mfascicularis,xtropicalis,Heart_mf_xl,SeuratV4 RPCA O2O
+Scanorama,HE,mmusculus to mfascicularis,0.597391582027412,1,mmusculus,mfascicularis,Heart_hs_mf_mm,Scanorama HE
+Scanorama,SH,hsapiens to mmulatta,0.595338822510534,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,Scanorama SH
+Scanorama,HE,hsapiens to mmulatta,0.5933760327647111,1,hsapiens,mmulatta,Hippocampus_hs_mu_ss,Scanorama HE
+fastMNN,SH,mfascicularis to hsapiens,0.5926618123294507,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,fastMNN SH
+fastMNN,O2O,mfascicularis to hsapiens,0.590595893064811,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,fastMNN O2O
+LIGER UINMF,HE,hsapiens to mmusculus,0.5883038970579597,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mm,LIGER UINMF HE
+scVI,HE,drerio to hsapiens,0.5869830612387866,1,drerio,hsapiens,Heart_hs_dr,scVI HE
+Scanorama,O2O,mfascicularis to xtropicalis,0.5864371987843457,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,Scanorama O2O
+Scanorama,SH,mmusculus to mfascicularis,0.5857839973154172,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,Scanorama SH
+LIGER,HE,hsapiens to mmusculus,0.5852722844716682,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm,LIGER HE
+LIGER UINMF,SH,hsapiens to mmusculus,0.5843593561700523,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm,LIGER UINMF SH
+scVI,O2O,drerio to mfascicularis,0.5809569323573968,1,drerio,mfascicularis,Heart_mf_dr,scVI O2O
+Harmony,O2O,drerio to hsapiens,0.5791970549250166,1,drerio,hsapiens,Heart_hs_dr,Harmony O2O
+scVI,O2O,mfascicularis to mmusculus,0.5748012148633953,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,scVI O2O
+scVI,HE,mfascicularis to xtropicalis,0.5744230472935464,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI HE
+LIGER UINMF,O2O,mfascicularis to mmusculus,0.5742505808683048,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+Scanorama,SH,mmusculus to hsapiens,0.5718782867582325,1,mmusculus,hsapiens,Pancreas_hs_mm,Scanorama SH
+Scanorama,SH,hsapiens to xtropicalis,0.5715036034999537,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,Scanorama SH
+SeuratV4 RPCA,O2O,mfascicularis to drerio,0.5706446550277415,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+LIGER UINMF,O2O,xtropicalis to hsapiens,0.570342871685549,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_xl,LIGER UINMF O2O
+LIGER UINMF,SH,xtropicalis to hsapiens,0.5703193757486864,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_xl,LIGER UINMF SH
+Scanorama,SH,mfascicularis to mmusculus,0.5688781104307123,1,mfascicularis,mmusculus,Heart_hs_mf_mm,Scanorama SH
+LIGER UINMF,SH,xtropicalis to hsapiens,0.5674857109589951,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+scVI,O2O,mmusculus to mfascicularis,0.5653896727143742,1,mmusculus,mfascicularis,Heart_mf_mm,scVI O2O
+scVI,SH,hsapiens to drerio,0.5631475598376381,0.8571428571428571,hsapiens,drerio,Heart_hs_dr,scVI SH
+Harmony,HE,hsapiens to xtropicalis,0.5631411691383452,1,hsapiens,xtropicalis,Heart_hs_xl,Harmony HE
+LIGER,HE,hsapiens to mfascicularis,0.5626054334692863,1,hsapiens,mfascicularis,Heart_hs_mf,LIGER HE
+SeuratV4 RPCA,HE,mfascicularis to xtropicalis,0.5625954298797067,1,mfascicularis,xtropicalis,Heart_mf_xl,SeuratV4 RPCA HE
+LIGER UINMF,HE,mfascicularis to xtropicalis,0.5624100946797408,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF HE
+scVI,SH,mfascicularis to mmusculus,0.5614153350240618,1,mfascicularis,mmusculus,Heart_hs_mf_mm,scVI SH
+scANVI,HE,drerio to xtropicalis,0.5597941694569056,1,drerio,xtropicalis,Embryo_dr_xt,scANVI HE
+Scanorama,SH,drerio to mmusculus,0.5589125624841532,1,drerio,mmusculus,Heart_mm_dr,Scanorama SH
+scVI,HE,hsapiens to mfascicularis,0.5581814884077886,1,hsapiens,mfascicularis,Heart_hs_mf_mm,scVI HE
+Harmony,O2O,hsapiens to xtropicalis,0.5573589011607655,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+Scanorama,HE,mmusculus to xtropicalis,0.5572359404777764,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,Scanorama HE
+SeuratV4 RPCA,O2O,mmusculus to xtropicalis,0.5570067975142935,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+LIGER UINMF,SH,xtropicalis to hsapiens,0.5558112102735654,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF SH
+SeuratV4 CCA,O2O,mfascicularis to drerio,0.5551446927422771,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+Scanorama,O2O,drerio to xtropicalis,0.5547213906157642,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+LIGER UINMF,HE,mfascicularis to mmusculus,0.554026563244652,0.8333333333333334,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+fastMNN,O2O,mfascicularis to hsapiens,0.5540209806988671,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+LIGER,HE,hsapiens to mfascicularis,0.5517492820227152,1,hsapiens,mfascicularis,Heart_hs_mf_mm,LIGER HE
+fastMNN,HE,hsapiens to mfascicularis,0.5510085956517052,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+LIGER,HE,mmulatta to hsapiens,0.5500028659094413,0.8333333333333334,mmulatta,hsapiens,Hippocampus_hs_mu_ss,LIGER HE
+LIGER,SH,mmulatta to hsapiens,0.5495022547522642,0.8333333333333334,mmulatta,hsapiens,Hippocampus_hs_mu_ss,LIGER SH
+SeuratV4 CCA,SH,drerio to mmusculus,0.5492669531305368,1,drerio,mmusculus,Heart_mm_dr,SeuratV4 CCA SH
+SeuratV4 CCA,HE,mfascicularis to drerio,0.5484791901842401,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+LIGER UINMF,O2O,mfascicularis to hsapiens,0.5472540483876648,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+SeuratV4 CCA,SH,mfascicularis to drerio,0.5462838702999021,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,O2O,mfascicularis to hsapiens,0.5459839714985687,1,mfascicularis,hsapiens,Heart_hs_mf_mm,Harmony O2O
+Scanorama,HE,drerio to hsapiens,0.545931254708694,1,drerio,hsapiens,Heart_hs_dr,Scanorama HE
+LIGER,O2O,hsapiens to sscrofa,0.545900256088036,0.6363636363636364,hsapiens,sscrofa,Hippocampus_hs_mu_ss,LIGER O2O
+scVI,O2O,hsapiens to mfascicularis,0.5447403023482372,1,hsapiens,mfascicularis,Heart_hs_mf,scVI O2O
+Harmony,SH,mfascicularis to hsapiens,0.5441087833920903,1,mfascicularis,hsapiens,Heart_hs_mf_mm,Harmony SH
+SeuratV4 RPCA,HE,mfascicularis to drerio,0.5435543185520062,1,mfascicularis,drerio,Heart_mf_dr,SeuratV4 RPCA HE
+SeuratV4 RPCA,O2O,hsapiens to drerio,0.5430867573266256,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+unintegrated,SH.h5ad,mmusculus to hsapiens,0.5428268272068119,1,mmusculus,hsapiens,Pancreas_hs_mm,unintegrated SH
+Scanorama,SH,hsapiens to mmusculus,0.5415996343577726,1,hsapiens,mmusculus,Heart_hs_mf_mm,Scanorama SH
+LIGER UINMF,HE,xtropicalis to mmusculus,0.5390058185435207,0.8571428571428571,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF HE
+Scanorama,SH,hsapiens to mmusculus,0.5382652698911675,1,hsapiens,mmusculus,Heart_hs_mm,Scanorama SH
+unintegrated,SH.h5ad,mmusculus to hsapiens,0.5376089866982081,1,mmusculus,hsapiens,Pancreas_hs_mm,unintegrated SH
+LIGER UINMF,O2O,hsapiens to mmusculus,0.5374105994009775,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+scANVI,O2O,drerio to xtropicalis,0.5345611809266447,1,drerio,xtropicalis,Embryo_dr_xt,scANVI O2O
+Scanorama,HE,mfascicularis to xtropicalis,0.5339043587554176,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,Scanorama HE
+unintegrated,O2O.h5ad,mmusculus to hsapiens,0.5331788833719674,1,mmusculus,hsapiens,Pancreas_hs_mm,unintegrated O2O
+unintegrated,HE.h5ad,mmusculus to hsapiens,0.5331209328054414,1,mmusculus,hsapiens,Pancreas_hs_mm,unintegrated HE
+LIGER,O2O,hsapiens to mmusculus,0.5314469160989571,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm,LIGER O2O
+LIGER UINMF,HE,drerio to hsapiens,0.5306608881113133,1,drerio,hsapiens,Heart_hs_dr,LIGER UINMF HE
+unintegrated,O2O.h5ad,mmusculus to hsapiens,0.5301710382356453,1,mmusculus,hsapiens,Pancreas_hs_mm,unintegrated O2O
+LIGER,SH,sscrofa to mmulatta,0.5295387509537063,0.5833333333333334,sscrofa,mmulatta,Hippocampus_hs_mu_ss,LIGER SH
+scVI,SH,mfascicularis to drerio,0.5283160540641857,1,mfascicularis,drerio,Heart_mf_dr,scVI SH
+LIGER,HE,hsapiens to mmusculus,0.5263208762745036,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mm,LIGER HE
+LIGER UINMF,SH,xtropicalis to mfascicularis,0.5259232580332543,0.8,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF SH
+LIGER UINMF,SH,hsapiens to mmulatta,0.5225252539948345,0.9166666666666666,hsapiens,mmulatta,Hippocampus_hs_mu_ss,LIGER UINMF SH
+Scanorama,O2O,mfascicularis to hsapiens,0.5220725761998678,1,mfascicularis,hsapiens,Heart_hs_mf,Scanorama O2O
+LIGER UINMF,HE,hsapiens to mmulatta,0.5219759512826586,0.9166666666666666,hsapiens,mmulatta,Hippocampus_hs_mu_ss,LIGER UINMF HE
+Harmony,HE,mfascicularis to hsapiens,0.5213105841064892,1,mfascicularis,hsapiens,Heart_hs_mf,Harmony HE
+SeuratV4 RPCA,HE,mmusculus to xtropicalis,0.521153955651863,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+scVI,SH,drerio to mfascicularis,0.5172808227118103,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,scVI SH
+LIGER UINMF,SH,drerio to hsapiens,0.517264462065618,0.7142857142857143,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+fastMNN,SH,mfascicularis to hsapiens,0.5170730108376378,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN SH
+LIGER UINMF,HE,drerio to hsapiens,0.5148093031682409,0.7142857142857143,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+SeuratV4 CCA,HE,mmusculus to drerio,0.5133029600256797,1,mmusculus,drerio,Heart_mm_dr,SeuratV4 CCA HE
+scVI,O2O,hsapiens to drerio,0.5127384311780898,1,hsapiens,drerio,Heart_hs_dr,scVI O2O
+LIGER UINMF,HE,hsapiens to mfascicularis,0.5113377559090917,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+unintegrated,HE.h5ad,mfascicularis to hsapiens,0.5105517700618266,1,mfascicularis,hsapiens,Heart_hs_mf,unintegrated HE
+scVI,O2O,xtropicalis to mfascicularis,0.5080794275408511,1,xtropicalis,mfascicularis,Heart_mf_xl,scVI O2O
+scVI,SH,mfascicularis to mmusculus,0.5049898371281502,1,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,scVI SH
+Scanorama,HE,hsapiens to xtropicalis,0.5049803231487395,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+Scanorama,SH,mmusculus to xtropicalis,0.5039653527742993,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,Scanorama SH
+Scanorama,SH,mfascicularis to hsapiens,0.5025559453236241,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,Scanorama SH
+SeuratV4 RPCA,SH,mmusculus to drerio,0.5012970131052051,1,mmusculus,drerio,Heart_mm_dr,SeuratV4 RPCA SH
+SeuratV4 CCA,SH,mmusculus to drerio,0.5007319036446585,1,mmusculus,drerio,Heart_mm_dr,SeuratV4 CCA SH
+LIGER UINMF,HE,hsapiens to sscrofa,0.49932709534385783,0.9090909090909092,hsapiens,sscrofa,Hippocampus_hs_mu_ss,LIGER UINMF HE
+LIGER UINMF,SH,hsapiens to sscrofa,0.49926347586582825,0.9090909090909092,hsapiens,sscrofa,Hippocampus_hs_mu_ss,LIGER UINMF SH
+fastMNN,HE,mmusculus to drerio,0.49836862408433347,0.875,mmusculus,drerio,Heart_mm_dr,fastMNN HE
+LIGER,HE,sscrofa to hsapiens,0.4983472846115662,0.6363636363636364,sscrofa,hsapiens,Hippocampus_hs_mu_ss,LIGER HE
+Harmony,SH,mfascicularis to xtropicalis,0.4978562790450007,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 RPCA,O2O,hsapiens to drerio,0.49784961598317057,1,hsapiens,drerio,Heart_hs_dr,SeuratV4 RPCA O2O
+LIGER,SH,sscrofa to hsapiens,0.4966917606801692,0.6363636363636364,sscrofa,hsapiens,Hippocampus_hs_mu_ss,LIGER SH
+unintegrated,HE.h5ad,mmusculus to hsapiens,0.4965585431125723,1,mmusculus,hsapiens,Pancreas_hs_mm,unintegrated HE
+scANVI,SH,drerio to xtropicalis,0.49571333480448615,1,drerio,xtropicalis,Embryo_dr_xt,scANVI SH
+LIGER UINMF,O2O,drerio to hsapiens,0.4936323339256013,0.8571428571428571,drerio,hsapiens,Heart_hs_dr,LIGER UINMF O2O
+Scanorama,O2O,sscrofa to mmulatta,0.49257551020062423,1,sscrofa,mmulatta,Hippocampus_hs_mu_ss,Scanorama O2O
+SeuratV4 CCA,O2O,drerio to xtropicalis,0.4920020228443381,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+SeuratV4 RPCA,SH,drerio to mmusculus,0.49187847062248313,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+fastMNN,HE,mfascicularis to hsapiens,0.49177967483527646,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,fastMNN HE
+scVI,O2O,mfascicularis to mmusculus,0.491382494008367,1,mfascicularis,mmusculus,Heart_mf_mm,scVI O2O
+LIGER UINMF,HE,hsapiens to mmusculus,0.49095128420920736,0.8,hsapiens,mmusculus,Pancreas_hs_mm,LIGER UINMF HE
+LIGER,O2O,mmulatta to sscrofa,0.4904440908246432,0.75,mmulatta,sscrofa,Hippocampus_hs_mu_ss,LIGER O2O
+scANVI,O2O,xtropicalis to drerio,0.4885062608933045,1,xtropicalis,drerio,Embryo_dr_xt,scANVI O2O
+LIGER UINMF,HE,mmulatta to sscrofa,0.4863056168706257,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,LIGER UINMF HE
+LIGER UINMF,SH,sscrofa to mmulatta,0.486109610857946,0.8333333333333334,sscrofa,mmulatta,Hippocampus_hs_mu_ss,LIGER UINMF SH
+Scanorama,HE,xtropicalis to mfascicularis,0.4857716862900558,1,xtropicalis,mfascicularis,Heart_mf_xl,Scanorama HE
+LIGER UINMF,SH,mmulatta to sscrofa,0.4829410945991516,1,mmulatta,sscrofa,Hippocampus_hs_mu_ss,LIGER UINMF SH
+unintegrated,SH.h5ad,sscrofa to mmulatta,0.48239862309390374,0.9166666666666666,sscrofa,mmulatta,Hippocampus_hs_mu_ss,unintegrated SH
+SeuratV4 RPCA,SH,mfascicularis to drerio,0.48087917702569466,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+LIGER UINMF,HE,hsapiens to mfascicularis,0.4806320195088389,1,hsapiens,mfascicularis,Heart_hs_mf_mm,LIGER UINMF HE
+SeuratV4 CCA,HE,drerio to xtropicalis,0.4802182610225324,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+Scanorama,O2O,mmusculus to xtropicalis,0.4801838704091836,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+Harmony,HE,mfascicularis to hsapiens,0.47947267464174914,1,mfascicularis,hsapiens,Heart_hs_mf_mm,Harmony HE
+SeuratV4 RPCA,O2O,mfascicularis to drerio,0.4784886439112901,1,mfascicularis,drerio,Heart_mf_dr,SeuratV4 RPCA O2O
+LIGER UINMF,O2O,hsapiens to mfascicularis,0.4778655567883815,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+Scanorama,HE,mfascicularis to hsapiens,0.4773355092617909,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama HE
+Harmony,SH,drerio to mmusculus,0.47638459227467606,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 RPCA,HE,mfascicularis to drerio,0.47512204419010184,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+LIGER UINMF,O2O,hsapiens to mmusculus,0.47297572984352454,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+Scanorama,SH,mmusculus to mfascicularis,0.4682981738638661,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+LIGER UINMF,SH,drerio to hsapiens,0.4678866434536199,0.8571428571428571,drerio,hsapiens,Heart_hs_dr,LIGER UINMF SH
+Scanorama,SH,mfascicularis to hsapiens,0.467373601268648,1,mfascicularis,hsapiens,Heart_hs_mf_mm,Scanorama SH
+Scanorama,SH,mfascicularis to xtropicalis,0.46735214892907495,1,mfascicularis,xtropicalis,Heart_mf_xl,Scanorama SH
+unintegrated,O2O.h5ad,mfascicularis to mmusculus,0.4668550081547322,1,mfascicularis,mmusculus,Heart_hs_mf_mm,unintegrated O2O
+Harmony,O2O,drerio to mmusculus,0.46467972573554817,1,drerio,mmusculus,Heart_mm_dr,Harmony O2O
+SeuratV4 CCA,SH,drerio to xtropicalis,0.464233502336588,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+LIGER,HE,sscrofa to mmulatta,0.4630000122048511,0.5,sscrofa,mmulatta,Hippocampus_hs_mu_ss,LIGER HE
+SeuratV4 RPCA,O2O,xtropicalis to mfascicularis,0.4626700304795949,1,xtropicalis,mfascicularis,Heart_mf_xl,SeuratV4 RPCA O2O
+Harmony,O2O,drerio to hsapiens,0.4624176451372252,1,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,Harmony O2O
+Harmony,HE,drerio to xtropicalis,0.4617148223279776,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony HE
+LIGER,HE,hsapiens to sscrofa,0.46067684167057305,0.8181818181818182,hsapiens,sscrofa,Hippocampus_hs_mu_ss,LIGER HE
+SeuratV4 RPCA,SH,mmusculus to drerio,0.4603929438546181,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+LIGER UINMF,O2O,mmusculus to hsapiens,0.4603142115502841,0.5454545454545454,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+SeuratV4 RPCA,O2O,mmusculus to drerio,0.4592229646942073,1,mmusculus,drerio,Heart_mm_dr,SeuratV4 RPCA O2O
+SeuratV4 RPCA,O2O,drerio to mmusculus,0.4583557802979053,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+SeuratV4 CCA,HE,drerio to mmusculus,0.4577068336218129,1,drerio,mmusculus,Heart_mm_dr,SeuratV4 CCA HE
+LIGER,SH,hsapiens to sscrofa,0.4576565401999172,0.7272727272727273,hsapiens,sscrofa,Hippocampus_hs_mu_ss,LIGER SH
+SeuratV4 RPCA,O2O,drerio to xtropicalis,0.4574525873732938,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+Scanorama,SH,drerio to mfascicularis,0.45732054270090217,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+LIGER UINMF,HE,mfascicularis to hsapiens,0.4569740911799407,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER UINMF,O2O,mmusculus to hsapiens,0.4564540475480021,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+SeuratV4 RPCA,O2O,drerio to mmusculus,0.45642285392333976,1,drerio,mmusculus,Heart_mm_dr,SeuratV4 RPCA O2O
+LIGER UINMF,HE,hsapiens to mfascicularis,0.45539062803266733,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF HE
+Harmony,O2O,drerio to xtropicalis,0.4545152112867282,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+SeuratV4 RPCA,SH,mmusculus to xtropicalis,0.4536423590460281,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+scVI,HE,hsapiens to drerio,0.4531283764397418,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,scVI HE
+SeuratV4 CCA,O2O,mmusculus to drerio,0.45310752372777574,1,mmusculus,drerio,Heart_mm_dr,SeuratV4 CCA O2O
+LIGER UINMF,SH,mmusculus to hsapiens,0.4527688012511362,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF SH
+LIGER UINMF,HE,sscrofa to mmulatta,0.4527595610964137,0.8333333333333334,sscrofa,mmulatta,Hippocampus_hs_mu_ss,LIGER UINMF HE
+fastMNN,HE,drerio to mfascicularis,0.4525774581647311,1,drerio,mfascicularis,Heart_mf_dr,fastMNN HE
+scVI,O2O,drerio to xtropicalis,0.4520352471630734,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI O2O
+SeuratV4 CCA,HE,xtropicalis to drerio,0.45088697631981006,1,xtropicalis,drerio,Embryo_dr_xt,SeuratV4 CCA HE
+LIGER UINMF,O2O,sscrofa to mmulatta,0.44972432835571874,0.8333333333333334,sscrofa,mmulatta,Hippocampus_hs_mu_ss,LIGER UINMF O2O
+scVI,SH,drerio to xtropicalis,0.449321200863344,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI SH
+scVI,SH,hsapiens to drerio,0.44907808350382133,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,scVI SH
+fastMNN,O2O,hsapiens to drerio,0.448107007513433,1,hsapiens,drerio,Heart_hs_dr,fastMNN O2O
+SeuratV4 RPCA,SH,drerio to xtropicalis,0.4479973408412757,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+scVI,SH,mmusculus to mfascicularis,0.4455181478441283,1,mmusculus,mfascicularis,Heart_hs_mf_mm,scVI SH
+LIGER,O2O,sscrofa to mmulatta,0.44542230987238646,0.5,sscrofa,mmulatta,Hippocampus_hs_mu_ss,LIGER O2O
+scVI,SH,mfascicularis to xtropicalis,0.44523951992953614,1,mfascicularis,xtropicalis,Heart_mf_xl,scVI SH
+unintegrated,O2O.h5ad,mfascicularis to hsapiens,0.4438039205770648,1,mfascicularis,hsapiens,Heart_hs_mf,unintegrated O2O
+SeuratV4 RPCA,SH,hsapiens to drerio,0.4415917295717097,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+scVI,HE,mmusculus to mfascicularis,0.4414528285190626,1,mmusculus,mfascicularis,Heart_hs_mf_mm,scVI HE
+fastMNN,SH,mmusculus to drerio,0.4407962912684989,0.875,mmusculus,drerio,Heart_mm_dr,fastMNN SH
+Harmony,HE,mmusculus to drerio,0.4401534034211974,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,Harmony HE
+LIGER UINMF,O2O,mmusculus to hsapiens,0.4393893066998027,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm,LIGER UINMF O2O
+SeuratV4 RPCA,HE,hsapiens to drerio,0.4381928971826532,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+fastMNN,O2O,mmusculus to drerio,0.43785737861325286,0.875,mmusculus,drerio,Heart_mm_dr,fastMNN O2O
+LIGER UINMF,SH,mfascicularis to hsapiens,0.43749076050746866,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF SH
+SeuratV4 CCA,SH,hsapiens to drerio,0.4370089661248453,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+SeuratV4 RPCA,HE,mmusculus to drerio,0.4368242040854982,1,mmusculus,drerio,Heart_mm_dr,SeuratV4 RPCA HE
+Harmony,O2O,mmusculus to xtropicalis,0.435725148133658,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony O2O
+Harmony,O2O,drerio to mmusculus,0.4349673766787384,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony O2O
+Scanorama,SH,drerio to xtropicalis,0.4343668107927066,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+SeuratV4 RPCA,HE,xtropicalis to drerio,0.43432799101990693,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Scanorama,HE,drerio to mfascicularis,0.43431594588533173,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+SeuratV4 RPCA,SH,xtropicalis to drerio,0.4338882675385311,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA SH
+SeuratV4 CCA,HE,hsapiens to drerio,0.4338477146056119,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+LIGER UINMF,O2O,drerio to mmusculus,0.4323594177273773,0.625,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+SeuratV4 CCA,SH,xtropicalis to drerio,0.43201891571372425,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,SH,mmusculus to xtropicalis,0.4313293520597846,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony SH
+Harmony,HE,drerio to mmusculus,0.4310668017320973,1,drerio,mmusculus,Heart_mm_dr,Harmony HE
+SeuratV4 CCA,HE,xtropicalis to drerio,0.43101634013397494,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+SeuratV4 CCA,O2O,hsapiens to drerio,0.43099115466105664,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+scVI,HE,mfascicularis to mmusculus,0.43074076219970736,1,mfascicularis,mmusculus,Heart_mf_mm,scVI HE
+LIGER UINMF,O2O,xtropicalis to hsapiens,0.4272574060328986,0.7142857142857143,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+Scanorama,SH,hsapiens to mmusculus,0.4268128088390627,1,hsapiens,mmusculus,Heart_hs_mf_mm_xl,Scanorama SH
+LIGER UINMF,O2O,xtropicalis to hsapiens,0.42666018303705,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+Scanorama,SH,xtropicalis to mmusculus,0.4265328364074368,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama SH
+unintegrated,SH.h5ad,mfascicularis to mmusculus,0.42413922637807633,1,mfascicularis,mmusculus,Heart_hs_mf_mm,unintegrated SH
+SeuratV4 RPCA,HE,mmusculus to drerio,0.4239406313198006,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Harmony,SH,xtropicalis to drerio,0.42335523574537703,1,xtropicalis,drerio,Embryo_dr_xt,Harmony SH
+LIGER UINMF,SH,mmusculus to mfascicularis,0.4229547266862332,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF SH
+Harmony,O2O,mfascicularis to hsapiens,0.42231915934931685,1,mfascicularis,hsapiens,Heart_hs_mf,Harmony O2O
+Scanorama,HE,hsapiens to mmusculus,0.4198209370012234,1,hsapiens,mmusculus,Heart_hs_mm,Scanorama HE
+Scanorama,SH,mfascicularis to hsapiens,0.419437501262576,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,Scanorama SH
+SeuratV4 CCA,O2O,xtropicalis to drerio,0.41942091496776046,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+scVI,SH,xtropicalis to drerio,0.4184669068810699,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,scVI SH
+Harmony,HE,mmusculus to xtropicalis,0.4179283356235381,1,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony HE
+LIGER UINMF,O2O,hsapiens to mfascicularis,0.4153555603431864,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+LIGER UINMF,SH,mmusculus to hsapiens,0.41519024974216384,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER,O2O,mfascicularis to hsapiens,0.4151393270871605,0.6666666666666666,mfascicularis,hsapiens,Heart_hs_mf,LIGER O2O
+scVI,HE,xtropicalis to drerio,0.412395314348174,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,scVI HE
+Harmony,SH,drerio to xtropicalis,0.4115834952318821,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,Harmony SH
+scVI,O2O,xtropicalis to drerio,0.4101697622518239,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,scVI O2O
+SeuratV4 RPCA,O2O,mmusculus to drerio,0.4088159933048716,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+Scanorama,O2O,hsapiens to drerio,0.4061974071111288,1,hsapiens,drerio,Heart_hs_dr,Scanorama O2O
+SeuratV4 CCA,SH,xtropicalis to drerio,0.4059995884346553,1,xtropicalis,drerio,Embryo_dr_xt,SeuratV4 CCA SH
+Harmony,HE,mfascicularis to drerio,0.40592851661276297,1,mfascicularis,drerio,Heart_mf_dr,Harmony HE
+LIGER UINMF,O2O,hsapiens to mmulatta,0.40554814195189126,0.8333333333333334,hsapiens,mmulatta,Hippocampus_hs_mu_ss,LIGER UINMF O2O
+Scanorama,SH,hsapiens to xtropicalis,0.4045547219140818,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+LIGER UINMF,SH,hsapiens to drerio,0.4041141869994456,1,hsapiens,drerio,Heart_hs_dr,LIGER UINMF SH
+LIGER UINMF,HE,xtropicalis to hsapiens,0.40332245323770655,0.8571428571428571,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF HE
+Scanorama,O2O,mfascicularis to hsapiens,0.40316135991668006,1,mfascicularis,hsapiens,Heart_hs_mf_mm,Scanorama O2O
+SeuratV4 RPCA,O2O,xtropicalis to drerio,0.4025811638949875,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA O2O
+Harmony,HE,xtropicalis to drerio,0.4025293482784259,1,xtropicalis,drerio,Embryo_dr_xt,Harmony HE
+LIGER UINMF,HE,drerio to mmusculus,0.4015423924041112,0.75,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+scVI,O2O,hsapiens to drerio,0.40154229630212873,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,scVI O2O
+Scanorama,O2O,hsapiens to mfascicularis,0.4010166688257687,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,Scanorama O2O
+fastMNN,SH,mmusculus to drerio,0.40016330077263895,0.75,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,fastMNN SH
+scVI,SH,mmusculus to mfascicularis,0.3996012241509702,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,scVI SH
+LIGER UINMF,O2O,mfascicularis to hsapiens,0.3985925587346485,1,mfascicularis,hsapiens,Heart_hs_mf_mm,LIGER UINMF O2O
+unintegrated,SH.h5ad,mfascicularis to hsapiens,0.3985811898942697,1,mfascicularis,hsapiens,Heart_hs_mf,unintegrated SH
+unintegrated,HE.h5ad,mfascicularis to mmusculus,0.3970477850116701,1,mfascicularis,mmusculus,Heart_hs_mf_mm,unintegrated HE
+SeuratV4 CCA,SH,drerio to mmusculus,0.3968730752211791,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+Harmony,HE,mfascicularis to drerio,0.39663177623814777,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,Harmony HE
+Scanorama,O2O,drerio to mfascicularis,0.39630677368209455,1,drerio,mfascicularis,Heart_mf_dr,Scanorama O2O
+LIGER UINMF,HE,mfascicularis to mmusculus,0.39496833675861104,1,mfascicularis,mmusculus,Heart_mf_mm,LIGER UINMF HE
+Harmony,SH,mfascicularis to hsapiens,0.3925640103443394,1,mfascicularis,hsapiens,Heart_hs_mf,Harmony SH
+SeuratV4 RPCA,HE,drerio to xtropicalis,0.3916697283986429,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+Harmony,O2O,mmusculus to drerio,0.3903528042759392,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,Harmony O2O
+LIGER,HE,mfascicularis to hsapiens,0.3889071385837778,0.6666666666666666,mfascicularis,hsapiens,Heart_hs_mf_mm,LIGER HE
+LIGER UINMF,SH,xtropicalis to mmusculus,0.38878981330367407,0.8571428571428571,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+Scanorama,HE,mfascicularis to hsapiens,0.3869502720038731,1,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,Scanorama HE
+scVI,O2O,drerio to mmusculus,0.38652287685200376,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,scVI O2O
+Scanorama,HE,mfascicularis to mmusculus,0.38579811555998167,1,mfascicularis,mmusculus,Heart_hs_mf_mm,Scanorama HE
+SeuratV4 RPCA,HE,drerio to mmusculus,0.3855090231319058,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 RPCA HE
+SeuratV4 CCA,O2O,mmusculus to drerio,0.38472811683534264,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+Harmony,O2O,mfascicularis to drerio,0.3838849228202895,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,Harmony O2O
+scVI,O2O,mfascicularis to drerio,0.38259688491401506,1,mfascicularis,drerio,Heart_mf_dr,scVI O2O
+LIGER UINMF,SH,hsapiens to mmusculus,0.3813807591347565,0.7,hsapiens,mmusculus,Pancreas_hs_mm,LIGER UINMF SH
+scVI,O2O,mmusculus to mfascicularis,0.3803381556608864,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,scVI O2O
+Harmony,SH,mfascicularis to mmusculus,0.37916408340909,0.6666666666666666,mfascicularis,mmusculus,Heart_mf_mm,Harmony SH
+Harmony,HE,drerio to mmusculus,0.3788969660974268,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,Harmony HE
+scVI,SH,mmusculus to drerio,0.3780341302431108,0.875,mmusculus,drerio,Heart_mm_dr,scVI SH
+scVI,O2O,drerio to mmusculus,0.3779478333858758,1,drerio,mmusculus,Heart_mm_dr,scVI O2O
+Harmony,SH,mmusculus to drerio,0.37789598784004064,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,Harmony SH
+LIGER UINMF,HE,mfascicularis to hsapiens,0.3778916183768733,1,mfascicularis,hsapiens,Heart_hs_mf_mm,LIGER UINMF HE
+Scanorama,HE,mfascicularis to hsapiens,0.3775823310213814,1,mfascicularis,hsapiens,Heart_hs_mf_mm,Scanorama HE
+SeuratV4 CCA,HE,mmusculus to drerio,0.3766084480006732,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+Scanorama,O2O,mfascicularis to xtropicalis,0.37618596916088226,1,mfascicularis,xtropicalis,Heart_mf_xl,Scanorama O2O
+Scanorama,HE,hsapiens to mmusculus,0.3736594523088989,1,hsapiens,mmusculus,Heart_hs_mf_mm,Scanorama HE
+SeuratV4 CCA,SH,mmusculus to drerio,0.37160078497992616,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA SH
+scVI,HE,drerio to mmusculus,0.3711822759786745,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,scVI HE
+scVI,HE,xtropicalis to drerio,0.3692160366411188,1,xtropicalis,drerio,Embryo_dr_xt,scVI HE
+scVI,O2O,mmusculus to drerio,0.3688578169721974,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,scVI O2O
+scVI,SH,mmusculus to drerio,0.368345900285673,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,scVI SH
+SeuratV4 CCA,HE,drerio to mmusculus,0.36733446448864066,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA HE
+LIGER UINMF,HE,hsapiens to xtropicalis,0.3658344988210453,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF HE
+LIGER UINMF,SH,drerio to mmusculus,0.3657862915674589,0.625,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER UINMF,SH,mmusculus to hsapiens,0.3653784876889151,0.7272727272727273,mmusculus,hsapiens,Heart_hs_mm,LIGER UINMF SH
+scVI,SH,mfascicularis to mmusculus,0.364963220402777,1,mfascicularis,mmusculus,Heart_mf_mm,scVI SH
+SeuratV4 CCA,HE,drerio to xtropicalis,0.3638641513440942,1,drerio,xtropicalis,Embryo_dr_xt,SeuratV4 CCA HE
+fastMNN,SH,mfascicularis to drerio,0.3632249070695248,0.8,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,fastMNN SH
+scVI,HE,mmusculus to drerio,0.3621024965915475,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,scVI HE
+fastMNN,SH,xtropicalis to drerio,0.36163523988667096,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,fastMNN SH
+LIGER,SH,hsapiens to mmusculus,0.3607133592060579,0.18181818181818185,hsapiens,mmusculus,Heart_hs_mf_mm_xl,LIGER SH
+LIGER UINMF,O2O,mmusculus to xtropicalis,0.3603763874208604,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+Harmony,SH,xtropicalis to mfascicularis,0.3603032012371036,1,xtropicalis,mfascicularis,Heart_mf_xl,Harmony SH
+LIGER,SH,mmulatta to sscrofa,0.35917314704594594,0.8333333333333334,mmulatta,sscrofa,Hippocampus_hs_mu_ss,LIGER SH
+LIGER UINMF,O2O,hsapiens to mfascicularis,0.35828282005727824,1,hsapiens,mfascicularis,Heart_hs_mf_mm,LIGER UINMF O2O
+scVI,SH,xtropicalis to drerio,0.3577152558879332,1,xtropicalis,drerio,Embryo_dr_xt,scVI SH
+Harmony,O2O,xtropicalis to drerio,0.3555840221199812,1,xtropicalis,drerio,Embryo_dr_xt,Harmony O2O
+Scanorama,SH,hsapiens to drerio,0.3524510995064299,1,hsapiens,drerio,Heart_hs_dr,Scanorama SH
+fastMNN,O2O,hsapiens to drerio,0.35153670031216266,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+SeuratV4 CCA,O2O,drerio to mmusculus,0.35102320194738845,1,drerio,mmusculus,Heart_mm_dr,SeuratV4 CCA O2O
+scVI,O2O,xtropicalis to drerio,0.3507873322746192,1,xtropicalis,drerio,Embryo_dr_xt,scVI O2O
+fastMNN,SH,hsapiens to drerio,0.3501420250804361,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,fastMNN SH
+fastMNN,HE,xtropicalis to drerio,0.3500453726168818,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,fastMNN HE
+fastMNN,HE,hsapiens to drerio,0.3491368842484498,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,fastMNN HE
+SeuratV4 CCA,SH,drerio to xtropicalis,0.34747547019159347,1,drerio,xtropicalis,Embryo_dr_xt,SeuratV4 CCA SH
+fastMNN,HE,mmusculus to drerio,0.3473786839803472,0.875,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,fastMNN HE
+SeuratV4 RPCA,HE,drerio to xtropicalis,0.34536761830951385,1,drerio,xtropicalis,Embryo_dr_xt,SeuratV4 RPCA HE
+LIGER,HE,mmulatta to sscrofa,0.34490424664844493,0.8333333333333334,mmulatta,sscrofa,Hippocampus_hs_mu_ss,LIGER HE
+Harmony,SH,drerio to xtropicalis,0.3448055738075109,1,drerio,xtropicalis,Embryo_dr_xt,Harmony SH
+SeuratV4 CCA,O2O,xtropicalis to drerio,0.3444236199386144,1,xtropicalis,drerio,Embryo_dr_xt,SeuratV4 CCA O2O
+SeuratV4 CCA,O2O,drerio to mmusculus,0.3435651977069399,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,SeuratV4 CCA O2O
+scVI,HE,mmusculus to drerio,0.343506482843664,1,mmusculus,drerio,Heart_mm_dr,scVI HE
+LIGER UINMF,SH,hsapiens to mfascicularis,0.3406792525912215,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+SeuratV4 RPCA,SH,drerio to xtropicalis,0.3402375844591,1,drerio,xtropicalis,Embryo_dr_xt,SeuratV4 RPCA SH
+LIGER UINMF,HE,hsapiens to drerio,0.3400562985394473,1,hsapiens,drerio,Heart_hs_dr,LIGER UINMF HE
+LIGER UINMF,HE,xtropicalis to drerio,0.33906013775301586,0.6206896551724138,xtropicalis,drerio,Embryo_dr_xt,LIGER UINMF HE
+fastMNN,O2O,mmusculus to drerio,0.33885496946314775,0.875,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+scVI,HE,xtropicalis to mfascicularis,0.33880898525188874,1,xtropicalis,mfascicularis,Heart_mf_xl,scVI HE
+LIGER UINMF,HE,mfascicularis to drerio,0.33700266733858913,1,mfascicularis,drerio,Heart_mf_dr,LIGER UINMF HE
+Scanorama,SH,mfascicularis to xtropicalis,0.335834469262319,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama SH
+Harmony,O2O,mmusculus to drerio,0.33557862389493087,1,mmusculus,drerio,Heart_mm_dr,Harmony O2O
+LIGER UINMF,SH,mfascicularis to hsapiens,0.33360468116195224,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf,LIGER UINMF SH
+fastMNN,O2O,mfascicularis to xtropicalis,0.3328123075275285,0.8,mfascicularis,xtropicalis,Heart_mf_xl,fastMNN O2O
+Harmony,HE,mfascicularis to xtropicalis,0.3299050441240568,1,mfascicularis,xtropicalis,Heart_mf_xl,Harmony HE
+Scanorama,O2O,drerio to mmusculus,0.3298641822866259,1,drerio,mmusculus,Heart_mm_dr,Scanorama O2O
+LIGER UINMF,HE,drerio to mfascicularis,0.32850506181910305,1,drerio,mfascicularis,Heart_mf_dr,LIGER UINMF HE
+Harmony,SH,mfascicularis to drerio,0.32793875244854037,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,Harmony SH
+Harmony,SH,drerio to mmusculus,0.32633482104182693,1,drerio,mmusculus,Heart_mm_dr,Harmony SH
+fastMNN,O2O,xtropicalis to drerio,0.32582936617231734,0.8620689655172413,xtropicalis,drerio,Embryo_dr_xt,fastMNN O2O
+LIGER UINMF,O2O,hsapiens to drerio,0.3256739746002663,1,hsapiens,drerio,Heart_hs_dr,LIGER UINMF O2O
+fastMNN,O2O,xtropicalis to drerio,0.3246441982859942,0.8571428571428571,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+Harmony,HE,xtropicalis to drerio,0.3238337717526269,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,Harmony HE
+fastMNN,O2O,mfascicularis to drerio,0.3234358425770164,0.8,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+scVI,HE,drerio to mmusculus,0.32236119768276006,1,drerio,mmusculus,Heart_mm_dr,scVI HE
+scVI,HE,drerio to xtropicalis,0.32048194137022,1,drerio,xtropicalis,Embryo_dr_xt,scVI HE
+LIGER,SH,hsapiens to xtropicalis,0.3201648068142798,0.42857142857142855,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,LIGER SH
+Harmony,SH,xtropicalis to drerio,0.3200197104979762,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,Harmony SH
+LIGER UINMF,SH,mmusculus to xtropicalis,0.3179898387847355,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF SH
+Harmony,HE,drerio to xtropicalis,0.3179203934906752,1,drerio,xtropicalis,Embryo_dr_xt,Harmony HE
+Scanorama,O2O,hsapiens to mmusculus,0.3172412989829739,1,hsapiens,mmusculus,Heart_hs_mf_mm,Scanorama O2O
+fastMNN,HE,xtropicalis to drerio,0.31721541276125503,0.896551724137931,xtropicalis,drerio,Embryo_dr_xt,fastMNN HE
+scVI,O2O,drerio to xtropicalis,0.31694725220088465,1,drerio,xtropicalis,Embryo_dr_xt,scVI O2O
+LIGER,SH,hsapiens to drerio,0.31586122744785433,0.8571428571428571,hsapiens,drerio,Heart_hs_dr,LIGER SH
+LIGER,O2O,sscrofa to hsapiens,0.31347539455050394,0.5454545454545454,sscrofa,hsapiens,Hippocampus_hs_mu_ss,LIGER O2O
+Scanorama,SH,xtropicalis to mfascicularis,0.3133135692063214,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,Scanorama SH
+LIGER,SH,hsapiens to mmusculus,0.31262560727121663,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mm,LIGER SH
+LIGER UINMF,O2O,hsapiens to xtropicalis,0.31152064834505516,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER,SH,mmusculus to xtropicalis,0.3111212078573964,0.2857142857142857,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,LIGER SH
+Scanorama,SH,mmusculus to drerio,0.311015260231989,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,Scanorama SH
+LIGER UINMF,O2O,mfascicularis to xtropicalis,0.31058859388030363,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER,SH,mfascicularis to hsapiens,0.3100414977841176,0.6666666666666666,mfascicularis,hsapiens,Heart_hs_mf,LIGER SH
+Scanorama,HE,mfascicularis to xtropicalis,0.3096688528325272,1,mfascicularis,xtropicalis,Heart_mf_xl,Scanorama HE
+scVI,O2O,mmusculus to mfascicularis,0.30652149723596694,1,mmusculus,mfascicularis,Heart_hs_mf_mm,scVI O2O
+Scanorama,O2O,hsapiens to mfascicularis,0.30609972175137684,1,hsapiens,mfascicularis,Heart_hs_mf,Scanorama O2O
+Harmony,O2O,drerio to xtropicalis,0.30574945722416447,1,drerio,xtropicalis,Embryo_dr_xt,Harmony O2O
+LIGER UINMF,HE,mmusculus to hsapiens,0.3054915338104511,0.5454545454545454,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+Scanorama,SH,drerio to xtropicalis,0.3041991031461218,1,drerio,xtropicalis,Embryo_dr_xt,Scanorama SH
+scVI,SH,drerio to xtropicalis,0.3039280754315204,1,drerio,xtropicalis,Embryo_dr_xt,scVI SH
+LIGER UINMF,O2O,xtropicalis to mmusculus,0.3036675351695371,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER,SH,mfascicularis to hsapiens,0.3033172929422284,0.3333333333333333,mfascicularis,hsapiens,Heart_hs_mf_mm,LIGER SH
+scVI,SH,drerio to mmusculus,0.30331716940878406,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,scVI SH
+scVI,HE,drerio to xtropicalis,0.30308693582971663,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,scVI HE
+SeuratV4 RPCA,HE,xtropicalis to drerio,0.29966961733600156,1,xtropicalis,drerio,Embryo_dr_xt,SeuratV4 RPCA HE
+LIGER,SH,hsapiens to mmusculus,0.29965323969474705,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm,LIGER SH
+scVI,HE,mmusculus to mfascicularis,0.2985461664064594,1,mmusculus,mfascicularis,Heart_mf_mm,scVI HE
+Scanorama,HE,drerio to xtropicalis,0.29852632603304985,1,drerio,xtropicalis,Embryo_dr_xt,Scanorama HE
+LIGER UINMF,HE,mmusculus to mfascicularis,0.29823332909622574,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF HE
+LIGER UINMF,HE,hsapiens to mmusculus,0.29235877643239455,0.7272727272727273,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+Scanorama,O2O,xtropicalis to drerio,0.29120989203948144,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+scVI,SH,xtropicalis to mfascicularis,0.29059485790725487,1,xtropicalis,mfascicularis,Heart_mf_xl,scVI SH
+Harmony,O2O,hsapiens to drerio,0.2905271437211379,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,Harmony O2O
+Scanorama,HE,mfascicularis to drerio,0.288859424515464,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,Scanorama HE
+Scanorama,HE,mfascicularis to xtropicalis,0.2882477573936288,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama HE
+Harmony,HE,mfascicularis to mmusculus,0.28714802935090644,0.8333333333333334,mfascicularis,mmusculus,Heart_mf_mm,Harmony HE
+SeuratV4 RPCA,SH,xtropicalis to drerio,0.2833043459710097,1,xtropicalis,drerio,Embryo_dr_xt,SeuratV4 RPCA SH
+scVI,SH,drerio to mmusculus,0.28287957821992044,1,drerio,mmusculus,Heart_mm_dr,scVI SH
+Scanorama,HE,xtropicalis to drerio,0.27956873294644563,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,Scanorama HE
+SeuratV4 RPCA,O2O,drerio to xtropicalis,0.279241005234699,1,drerio,xtropicalis,Embryo_dr_xt,SeuratV4 RPCA O2O
+LIGER UINMF,O2O,xtropicalis to drerio,0.2784161939101962,0.7241379310344828,xtropicalis,drerio,Embryo_dr_xt,LIGER UINMF O2O
+Harmony,HE,hsapiens to drerio,0.27796235486525706,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,Harmony HE
+Harmony,O2O,xtropicalis to drerio,0.2765710791170142,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,Harmony O2O
+fastMNN,SH,xtropicalis to drerio,0.2758012524117264,0.896551724137931,xtropicalis,drerio,Embryo_dr_xt,fastMNN SH
+LIGER UINMF,SH,hsapiens to xtropicalis,0.27566889506513187,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_xl,LIGER UINMF SH
+LIGER,SH,xtropicalis to mmusculus,0.27452966884386026,0.7142857142857143,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,LIGER SH
+Scanorama,HE,mmusculus to drerio,0.27393213468633243,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,Scanorama HE
+Harmony,O2O,mfascicularis to mmusculus,0.2720890070951838,1,mfascicularis,mmusculus,Heart_mf_mm,Harmony O2O
+LIGER UINMF,SH,hsapiens to mfascicularis,0.2717375525538835,1,hsapiens,mfascicularis,Heart_hs_mf,LIGER UINMF SH
+Harmony,O2O,mfascicularis to xtropicalis,0.27073222749759895,0.8,mfascicularis,xtropicalis,Heart_mf_xl,Harmony O2O
+LIGER,O2O,hsapiens to mmusculus,0.26978771888188746,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mm,LIGER O2O
+Harmony,SH,hsapiens to drerio,0.26964070664858086,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,Harmony SH
+SeuratV4 CCA,O2O,drerio to xtropicalis,0.26906697095545784,1,drerio,xtropicalis,Embryo_dr_xt,SeuratV4 CCA O2O
+Harmony,SH,hsapiens to drerio,0.26862023342310115,0.8571428571428571,hsapiens,drerio,Heart_hs_dr,Harmony SH
+LIGER UINMF,O2O,hsapiens to xtropicalis,0.26659509398220277,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+LIGER UINMF,HE,hsapiens to mmusculus,0.265429020565001,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm,LIGER UINMF HE
+scVI,O2O,mmusculus to drerio,0.2649603253186966,0.875,mmusculus,drerio,Heart_mm_dr,scVI O2O
+LIGER UINMF,HE,mfascicularis to mmusculus,0.26436610142131167,1,mfascicularis,mmusculus,Heart_hs_mf_mm,LIGER UINMF HE
+Scanorama,SH,xtropicalis to drerio,0.2624081255727415,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,Scanorama SH
+Scanorama,O2O,drerio to xtropicalis,0.26212357235468653,1,drerio,xtropicalis,Embryo_dr_xt,Scanorama O2O
+LIGER UINMF,SH,xtropicalis to drerio,0.26178042495594006,0.6896551724137931,xtropicalis,drerio,Embryo_dr_xt,LIGER UINMF SH
+Harmony,SH,mfascicularis to xtropicalis,0.25941283807031196,1,mfascicularis,xtropicalis,Heart_mf_xl,Harmony SH
+fastMNN,HE,drerio to xtropicalis,0.2589971920138981,0.8620689655172413,drerio,xtropicalis,Embryo_dr_xt,fastMNN HE
+fastMNN,HE,drerio to xtropicalis,0.2585618351046873,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+Harmony,HE,hsapiens to drerio,0.25600238163935385,1,hsapiens,drerio,Heart_hs_dr,Harmony HE
+LIGER UINMF,HE,hsapiens to mfascicularis,0.2559008447267653,1,hsapiens,mfascicularis,Heart_hs_mf,LIGER UINMF HE
+fastMNN,SH,drerio to xtropicalis,0.2552797056330339,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+LIGER UINMF,SH,mfascicularis to hsapiens,0.2550749619847653,1,mfascicularis,hsapiens,Heart_hs_mf_mm,LIGER UINMF SH
+fastMNN,O2O,drerio to xtropicalis,0.25428602379127024,1,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+fastMNN,SH,drerio to xtropicalis,0.2523622561356351,0.8620689655172413,drerio,xtropicalis,Embryo_dr_xt,fastMNN SH
+LIGER UINMF,HE,mmusculus to xtropicalis,0.25192315018146527,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF HE
+LIGER UINMF,SH,mfascicularis to xtropicalis,0.2505780493549946,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER UINMF,O2O,mmusculus to hsapiens,0.2491003076688696,0.6,mmusculus,hsapiens,Pancreas_hs_mm,LIGER UINMF O2O
+fastMNN,HE,drerio to mfascicularis,0.24821590001342725,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN HE
+LIGER UINMF,O2O,mfascicularis to drerio,0.2477803207538559,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+Scanorama,HE,drerio to mmusculus,0.2476731689227126,1,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,Scanorama HE
+Scanorama,HE,hsapiens to drerio,0.24743103806723585,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,Scanorama HE
+LIGER,HE,xtropicalis to mfascicularis,0.24587242571849777,0.6,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,LIGER HE
+Scanorama,HE,hsapiens to xtropicalis,0.24481133032794153,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,Scanorama HE
+Harmony,HE,mmusculus to drerio,0.24446001633949915,0.75,mmusculus,drerio,Heart_mm_dr,Harmony HE
+scVI,HE,mfascicularis to drerio,0.24444566882705784,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,scVI HE
+LIGER,HE,mmusculus to hsapiens,0.2424718263987316,0.3636363636363637,mmusculus,hsapiens,Heart_hs_mf_mm,LIGER HE
+LIGER UINMF,SH,mfascicularis to xtropicalis,0.2419122066760057,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF SH
+Harmony,SH,mmusculus to drerio,0.2416555004294233,1,mmusculus,drerio,Heart_mm_dr,Harmony SH
+LIGER,O2O,xtropicalis to mfascicularis,0.24070939353391616,0.8,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,LIGER O2O
+Scanorama,HE,hsapiens to mfascicularis,0.23917542850129755,1,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,Scanorama HE
+LIGER UINMF,HE,mfascicularis to xtropicalis,0.23894138362244413,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+fastMNN,HE,mfascicularis to drerio,0.23885515360997636,0.8,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,fastMNN HE
+Scanorama,SH,mfascicularis to xtropicalis,0.23844070812153767,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,Scanorama SH
+LIGER,SH,hsapiens to mmusculus,0.23701586473270111,0.6,hsapiens,mmusculus,Pancreas_hs_mm,LIGER SH
+LIGER UINMF,SH,hsapiens to xtropicalis,0.2368220192399684,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER UINMF,O2O,hsapiens to mmusculus,0.23622949441641572,0.6363636363636364,hsapiens,mmusculus,Heart_hs_mf_mm,LIGER UINMF O2O
+LIGER UINMF,HE,hsapiens to xtropicalis,0.23613645455725105,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_xl,LIGER UINMF HE
+Harmony,O2O,mfascicularis to drerio,0.2355639925032742,1,mfascicularis,drerio,Heart_mf_dr,Harmony O2O
+LIGER UINMF,HE,mmusculus to hsapiens,0.2353640793216352,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mf_mm,LIGER UINMF HE
+scVI,O2O,mfascicularis to drerio,0.2350917422242529,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,scVI O2O
+LIGER,O2O,xtropicalis to mmusculus,0.2306697221530759,0.5714285714285714,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,mfascicularis to hsapiens,0.2299047458493715,0.5,mfascicularis,hsapiens,Heart_hs_mf_mm,LIGER O2O
+Scanorama,O2O,mmusculus to drerio,0.2286289374572586,1,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+Scanorama,O2O,hsapiens to drerio,0.22573746705983824,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+LIGER UINMF,HE,hsapiens to xtropicalis,0.2224210138357251,1,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER,HE,xtropicalis to drerio,0.22126214412436215,0.5517241379310345,xtropicalis,drerio,Embryo_dr_xt,LIGER HE
+LIGER UINMF,SH,mmusculus to hsapiens,0.2208336982978732,0.6,mmusculus,hsapiens,Pancreas_hs_mm,LIGER UINMF SH
+LIGER,O2O,xtropicalis to drerio,0.22068092536211728,0.5714285714285714,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mmusculus to hsapiens,0.2188753099470999,0.2727272727272727,mmusculus,hsapiens,Heart_hs_mf_mm,LIGER O2O
+LIGER UINMF,HE,xtropicalis to drerio,0.21800759324976884,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+fastMNN,SH,mfascicularis to xtropicalis,0.21680902381081385,0.8,mfascicularis,xtropicalis,Heart_mf_xl,fastMNN SH
+LIGER UINMF,SH,hsapiens to mfascicularis,0.21531867308885633,1,hsapiens,mfascicularis,Heart_hs_mf_mm,LIGER UINMF SH
+fastMNN,HE,mfascicularis to xtropicalis,0.21485702404621213,0.8,mfascicularis,xtropicalis,Heart_mf_xl,fastMNN HE
+unintegrated,HE.h5ad,hsapiens to mfascicularis,0.214828774629275,1,hsapiens,mfascicularis,Heart_hs_mf,unintegrated HE
+LIGER UINMF,O2O,mmusculus to hsapiens,0.21227115918139292,0.5454545454545454,mmusculus,hsapiens,Heart_hs_mm,LIGER UINMF O2O
+Scanorama,SH,hsapiens to sscrofa,0.21110450144727044,1,hsapiens,sscrofa,Hippocampus_hs_mu_ss,Scanorama SH
+LIGER UINMF,HE,hsapiens to drerio,0.2095771324492934,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+Scanorama,SH,mfascicularis to drerio,0.2083866918832124,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,Scanorama SH
+LIGER,SH,xtropicalis to hsapiens,0.20790783638251695,0.7142857142857143,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,LIGER SH
+fastMNN,O2O,drerio to xtropicalis,0.20774782401005737,0.7931034482758621,drerio,xtropicalis,Embryo_dr_xt,fastMNN O2O
+Scanorama,SH,mmusculus to drerio,0.20748880517436497,1,mmusculus,drerio,Heart_mm_dr,Scanorama SH
+LIGER UINMF,O2O,mfascicularis to hsapiens,0.2056527018597704,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+Scanorama,SH,hsapiens to drerio,0.20455669168758,1,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,Scanorama SH
+SeuratV4 RPCA,SH,drerio to mmusculus,0.20249929683974885,1,drerio,mmusculus,Heart_mm_dr,SeuratV4 RPCA SH
+Scanorama,O2O,mmusculus to drerio,0.19828939154487593,1,mmusculus,drerio,Heart_mm_dr,Scanorama O2O
+scVI,HE,mfascicularis to drerio,0.19826867342686527,1,mfascicularis,drerio,Heart_mf_dr,scVI HE
+LIGER UINMF,HE,mmusculus to mfascicularis,0.19754952211452928,1,mmusculus,mfascicularis,Heart_hs_mf_mm,LIGER UINMF HE
+LIGER UINMF,SH,drerio to mfascicularis,0.1974804966921017,0.6,drerio,mfascicularis,Heart_mf_dr,LIGER UINMF SH
+SeuratV4 RPCA,O2O,xtropicalis to drerio,0.19675633716206287,1,xtropicalis,drerio,Embryo_dr_xt,SeuratV4 RPCA O2O
+LIGER UINMF,O2O,drerio to mfascicularis,0.1930326249572397,0.6,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER,HE,mmusculus to hsapiens,0.1892031156745679,0.4545454545454546,mmusculus,hsapiens,Heart_hs_mm,LIGER HE
+LIGER UINMF,O2O,xtropicalis to mfascicularis,0.1888713638138442,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER UINMF,SH,mfascicularis to mmusculus,0.18866069246866524,1,mfascicularis,mmusculus,Heart_mf_mm,LIGER UINMF SH
+Scanorama,HE,mmusculus to drerio,0.18674660947030303,1,mmusculus,drerio,Heart_mm_dr,Scanorama HE
+Scanorama,O2O,drerio to mfascicularis,0.18597063665477975,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+LIGER,HE,drerio to xtropicalis,0.18569646942708937,0.3448275862068966,drerio,xtropicalis,Embryo_dr_xt,LIGER HE
+fastMNN,SH,drerio to mfascicularis,0.18370770039041812,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN SH
+LIGER UINMF,HE,drerio to xtropicalis,0.18098595808752432,0.6551724137931034,drerio,xtropicalis,Embryo_dr_xt,LIGER UINMF HE
+LIGER UINMF,O2O,mmusculus to drerio,0.18022298396308783,0.875,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER UINMF,O2O,mmusculus to xtropicalis,0.17748532221405877,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+LIGER,SH,drerio to hsapiens,0.17667473667511813,0.5714285714285714,drerio,hsapiens,Heart_hs_dr,LIGER SH
+fastMNN,O2O,drerio to mfascicularis,0.17328615761414043,1,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,fastMNN O2O
+LIGER,HE,mfascicularis to mmusculus,0.16870010573878813,0.5,mfascicularis,mmusculus,Heart_hs_mf_mm,LIGER HE
+LIGER UINMF,O2O,mfascicularis to hsapiens,0.16816705411840888,0.8333333333333334,mfascicularis,hsapiens,Heart_hs_mf,LIGER UINMF O2O
+LIGER UINMF,HE,mfascicularis to hsapiens,0.1678300729483203,0.6666666666666666,mfascicularis,hsapiens,Heart_hs_mf,LIGER UINMF HE
+Scanorama,O2O,mfascicularis to xtropicalis,0.16776534906652382,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+LIGER,O2O,xtropicalis to mfascicularis,0.1668441846729855,0.8,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,SH,mfascicularis to mmusculus,0.16664168449904598,0.6666666666666666,mfascicularis,mmusculus,Heart_hs_mf_mm,LIGER SH
+LIGER UINMF,HE,mmusculus to hsapiens,0.1665112113933877,0.6363636363636364,mmusculus,hsapiens,Heart_hs_mm,LIGER UINMF HE
+LIGER,SH,xtropicalis to drerio,0.1655456715803126,0.5172413793103449,xtropicalis,drerio,Embryo_dr_xt,LIGER SH
+LIGER UINMF,O2O,hsapiens to drerio,0.16524299464809766,0.8571428571428571,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+unintegrated,O2O.h5ad,hsapiens to mfascicularis,0.16431324869603642,1,hsapiens,mfascicularis,Heart_hs_mf,unintegrated O2O
+LIGER UINMF,O2O,drerio to hsapiens,0.15935677145841146,0.5714285714285714,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+Scanorama,SH,xtropicalis to drerio,0.15687580262729237,1,xtropicalis,drerio,Embryo_dr_xt,Scanorama SH
+LIGER UINMF,O2O,xtropicalis to drerio,0.156391380179703,0.8571428571428571,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+Scanorama,HE,drerio to mmusculus,0.1555537503609872,1,drerio,mmusculus,Heart_mm_dr,Scanorama HE
+Scanorama,SH,mfascicularis to mmusculus,0.15552526143827738,1,mfascicularis,mmusculus,Heart_mf_mm,Scanorama SH
+LIGER UINMF,SH,hsapiens to drerio,0.15456279949021365,0.8571428571428571,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER UINMF,O2O,mmusculus to mfascicularis,0.15350647888879462,0.8333333333333334,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER UINMF,O2O,mfascicularis to xtropicalis,0.1527758574923156,1,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+LIGER UINMF,O2O,xtropicalis to mmusculus,0.15218803251715937,0.7142857142857143,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+LIGER UINMF,SH,xtropicalis to drerio,0.1510155357462,1,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER,O2O,hsapiens to drerio,0.15028208873059376,0.8571428571428571,hsapiens,drerio,Heart_hs_dr,LIGER O2O
+LIGER UINMF,SH,xtropicalis to mmusculus,0.15002029707790532,0.8571428571428571,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,LIGER UINMF SH
+LIGER,SH,drerio to xtropicalis,0.1485904736242269,0.3103448275862069,drerio,xtropicalis,Embryo_dr_xt,LIGER SH
+Scanorama,O2O,xtropicalis to drerio,0.1466429040143682,1,xtropicalis,drerio,Embryo_dr_xt,Scanorama O2O
+LIGER UINMF,SH,drerio to xtropicalis,0.1454242471065545,0.7241379310344828,drerio,xtropicalis,Embryo_dr_xt,LIGER UINMF SH
+LIGER,HE,drerio to hsapiens,0.14384862341257204,0.5714285714285714,drerio,hsapiens,Heart_hs_dr,LIGER HE
+scVI,SH,mfascicularis to drerio,0.13920369200982532,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,scVI SH
+Scanorama,O2O,mfascicularis to drerio,0.13899289489218564,1,mfascicularis,drerio,Heart_mf_dr,Scanorama O2O
+LIGER,SH,mfascicularis to hsapiens,0.13805688612450936,0.3333333333333333,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,LIGER SH
+LIGER UINMF,HE,mmusculus to mfascicularis,0.1379715664133596,0.8333333333333334,mmusculus,mfascicularis,Heart_mf_mm,LIGER UINMF HE
+LIGER UINMF,O2O,drerio to xtropicalis,0.13692697452763564,0.6896551724137931,drerio,xtropicalis,Embryo_dr_xt,LIGER UINMF O2O
+LIGER UINMF,HE,drerio to xtropicalis,0.1349620384068292,0.7142857142857143,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER UINMF,SH,xtropicalis to mfascicularis,0.134102243959393,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+unintegrated,SH.h5ad,hsapiens to mfascicularis,0.13386926695412024,1,hsapiens,mfascicularis,Heart_hs_mf,unintegrated SH
+LIGER,HE,xtropicalis to hsapiens,0.1310160305899718,0.7142857142857143,xtropicalis,hsapiens,Heart_hs_xl,LIGER HE
+LIGER,HE,xtropicalis to drerio,0.1294177847199232,0.5714285714285714,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,LIGER HE
+Scanorama,HE,xtropicalis to drerio,0.12934889807264413,1,xtropicalis,drerio,Embryo_dr_xt,Scanorama HE
+LIGER UINMF,O2O,mmusculus to drerio,0.12929108511115583,0.75,mmusculus,drerio,Heart_mm_dr,LIGER UINMF O2O
+LIGER,SH,xtropicalis to mfascicularis,0.1277224118977837,0.8,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,LIGER SH
+LIGER,HE,hsapiens to mmusculus,0.12593755079645222,0.6,hsapiens,mmusculus,Pancreas_hs_mm,LIGER HE
+LIGER UINMF,HE,mmusculus to drerio,0.12491471177879215,0.625,mmusculus,drerio,Heart_mm_dr,LIGER UINMF HE
+LIGER,SH,xtropicalis to drerio,0.12466243410000909,0.42857142857142855,xtropicalis,drerio,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER UINMF,SH,mfascicularis to drerio,0.12435377905079584,1,mfascicularis,drerio,Heart_mf_dr,LIGER UINMF SH
+LIGER,SH,mmusculus to hsapiens,0.124036098410829,0.18181818181818185,mmusculus,hsapiens,Heart_hs_mf_mm_xl,LIGER SH
+LIGER UINMF,O2O,hsapiens to xtropicalis,0.1239494506780636,0.8571428571428571,hsapiens,xtropicalis,Heart_hs_xl,LIGER UINMF O2O
+LIGER UINMF,SH,drerio to xtropicalis,0.12364260190350058,0.7142857142857143,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER,O2O,xtropicalis to hsapiens,0.12242232981730704,0.7142857142857143,xtropicalis,hsapiens,Heart_hs_xl,LIGER O2O
+LIGER UINMF,O2O,mmusculus to mfascicularis,0.12061245955643284,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+fastMNN,O2O,mfascicularis to drerio,0.117106185150775,1,mfascicularis,drerio,Heart_mf_dr,fastMNN O2O
+LIGER,SH,mmusculus to hsapiens,0.11332304628935232,0.2727272727272727,mmusculus,hsapiens,Heart_hs_mm,LIGER SH
+LIGER,SH,xtropicalis to hsapiens,0.10879176767134852,0.5714285714285714,xtropicalis,hsapiens,Heart_hs_xl,LIGER SH
+LIGER UINMF,HE,mmusculus to drerio,0.10672867634626652,0.875,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER,HE,hsapiens to drerio,0.10621493773935851,0.8571428571428571,hsapiens,drerio,Heart_hs_dr,LIGER HE
+Scanorama,O2O,mfascicularis to drerio,0.1051907187419729,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,Scanorama O2O
+LIGER UINMF,O2O,drerio to xtropicalis,0.10432082443105847,0.42857142857142855,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF O2O
+LIGER UINMF,SH,mmusculus to drerio,0.1020664843931308,0.875,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER UINMF,HE,mmusculus to mfascicularis,0.10205127383472476,0.6666666666666666,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER,SH,xtropicalis to mfascicularis,0.10136982595184048,0.6,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,HE,xtropicalis to hsapiens,0.1010269950386752,0.7142857142857143,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,O2O,xtropicalis to drerio,0.0992662581569985,0.4482758620689655,xtropicalis,drerio,Embryo_dr_xt,LIGER O2O
+LIGER,SH,mmusculus to hsapiens,0.09661884202037611,0.2727272727272727,mmusculus,hsapiens,Heart_hs_mf_mm,LIGER SH
+LIGER UINMF,SH,mfascicularis to drerio,0.09632627771709412,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER,O2O,xtropicalis to hsapiens,0.09481496567128914,0.5714285714285714,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER UINMF,O2O,mfascicularis to drerio,0.08963047146463465,1,mfascicularis,drerio,Heart_mf_dr,LIGER UINMF O2O
+LIGER,HE,hsapiens to xtropicalis,0.08954078048683335,0.42857142857142855,hsapiens,xtropicalis,Heart_hs_xl,LIGER HE
+scVI,SH,mmusculus to mfascicularis,0.08807274192969763,1,mmusculus,mfascicularis,Heart_mf_mm,scVI SH
+LIGER UINMF,SH,mfascicularis to xtropicalis,0.08702492352129897,1,mfascicularis,xtropicalis,Heart_mf_xl,LIGER UINMF SH
+LIGER,O2O,drerio to xtropicalis,0.08414993143139439,0.27586206896551724,drerio,xtropicalis,Embryo_dr_xt,LIGER O2O
+LIGER UINMF,SH,mmusculus to xtropicalis,0.08414859050029766,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER,SH,hsapiens to xtropicalis,0.08413668227572366,0.2857142857142857,hsapiens,xtropicalis,Heart_hs_xl,LIGER SH
+LIGER UINMF,SH,mmusculus to mfascicularis,0.0838959790145888,1,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER UINMF,SH,mfascicularis to mmusculus,0.08348292491470619,1,mfascicularis,mmusculus,Heart_hs_mf_mm,LIGER UINMF SH
+LIGER,HE,mmusculus to mfascicularis,0.08336218578448198,0.6666666666666666,mmusculus,mfascicularis,Heart_hs_mf_mm,LIGER HE
+LIGER,O2O,mmusculus to hsapiens,0.0807372627931664,0.2727272727272727,mmusculus,hsapiens,Heart_hs_mm,LIGER O2O
+LIGER UINMF,SH,mmusculus to mfascicularis,0.08026032412706478,0.8333333333333334,mmusculus,mfascicularis,Heart_mf_mm,LIGER UINMF SH
+LIGER,HE,drerio to xtropicalis,0.07965419992424322,0.2857142857142857,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,SH,drerio to xtropicalis,0.07903607218979862,0.2857142857142857,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,O2O,drerio to xtropicalis,0.07768898531261485,0.2857142857142857,drerio,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER UINMF,O2O,mfascicularis to mmusculus,0.07505904669200417,1,mfascicularis,mmusculus,Heart_hs_mf_mm,LIGER UINMF O2O
+LIGER UINMF,HE,mfascicularis to drerio,0.07361582452952625,1,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER,SH,mmusculus to mfascicularis,0.07287687534757528,0.5,mmusculus,mfascicularis,Heart_hs_mf_mm,LIGER SH
+LIGER,O2O,mmusculus to mfascicularis,0.06905852304766896,0.5,mmusculus,mfascicularis,Heart_hs_mf_mm,LIGER O2O
+LIGER UINMF,HE,xtropicalis to mfascicularis,0.06576105636121563,0.8,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF HE
+Scanorama,HE,mfascicularis to drerio,0.06449024835558283,1,mfascicularis,drerio,Heart_mf_dr,Scanorama HE
+LIGER,O2O,mmusculus to mfascicularis,0.05979320811495697,0.5,mmusculus,mfascicularis,Heart_mf_mm,LIGER O2O
+LIGER UINMF,HE,xtropicalis to mmusculus,0.05960736926413004,1,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER UINMF,O2O,mfascicularis to mmusculus,0.05762265136133639,0.8333333333333334,mfascicularis,mmusculus,Heart_mf_mm,LIGER UINMF O2O
+LIGER UINMF,HE,xtropicalis to mfascicularis,0.05721824873682424,1,xtropicalis,mfascicularis,Heart_mf_xl,LIGER UINMF HE
+LIGER UINMF,O2O,mfascicularis to xtropicalis,0.05693835493401533,1,mfascicularis,xtropicalis,Heart_mf_xl,LIGER UINMF O2O
+LIGER,O2O,drerio to hsapiens,0.05589375674220579,0.5714285714285714,drerio,hsapiens,Heart_hs_dr,LIGER O2O
+LIGER UINMF,HE,xtropicalis to mfascicularis,0.05580166535259073,1,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER UINMF,O2O,drerio to mfascicularis,0.05543548380406184,1,drerio,mfascicularis,Heart_mf_dr,LIGER UINMF O2O
+LIGER UINMF,O2O,xtropicalis to mfascicularis,0.05253407618352507,0.8,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl,LIGER UINMF O2O
+LIGER,HE,drerio to mmusculus,0.05206015694861309,0.25,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER UINMF,O2O,mmusculus to mfascicularis,0.0518634157316585,1,mmusculus,mfascicularis,Heart_mf_mm,LIGER UINMF O2O
+LIGER,O2O,mfascicularis to mmusculus,0.04888012247754323,0.5,mfascicularis,mmusculus,Heart_hs_mf_mm,LIGER O2O
+LIGER,O2O,drerio to mmusculus,0.04849800626788851,0.25,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER UINMF,HE,drerio to mmusculus,0.04845204064598218,0.875,drerio,mmusculus,Heart_mm_dr,LIGER UINMF HE
+LIGER,HE,drerio to mfascicularis,0.04742950199482579,0.4,drerio,mfascicularis,Heart_mf_dr,LIGER HE
+LIGER UINMF,SH,mmusculus to drerio,0.04707601848355063,0.625,mmusculus,drerio,Heart_mm_dr,LIGER UINMF SH
+LIGER,HE,mmusculus to mfascicularis,0.04648039508420015,0.3333333333333333,mmusculus,mfascicularis,Heart_mf_mm,LIGER HE
+LIGER UINMF,HE,mmusculus to xtropicalis,0.04596441900578086,0.8571428571428571,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER,HE,mfascicularis to mmusculus,0.04593119054571627,0.8333333333333334,mfascicularis,mmusculus,Heart_mf_mm,LIGER HE
+Scanorama,SH,mfascicularis to drerio,0.04368236746917338,1,mfascicularis,drerio,Heart_mf_dr,Scanorama SH
+Scanorama,HE,hsapiens to drerio,0.0435722137494508,0.2857142857142857,hsapiens,drerio,Heart_hs_dr,Scanorama HE
+LIGER UINMF,O2O,mmusculus to mfascicularis,0.04353415210215848,1,mmusculus,mfascicularis,Heart_hs_mf_mm,LIGER UINMF O2O
+LIGER,HE,xtropicalis to mmusculus,0.04289272907099695,0.5714285714285714,xtropicalis,mmusculus,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,mfascicularis to hsapiens,0.04259309942416783,0.3333333333333333,mfascicularis,hsapiens,Heart_hs_mf,LIGER HE
+LIGER UINMF,HE,drerio to mfascicularis,0.04100546555291554,0.6,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF HE
+LIGER,SH,mmusculus to mfascicularis,0.04043735940732103,0.3333333333333333,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,LIGER SH
+LIGER UINMF,HE,mmusculus to hsapiens,0.04008400924412868,0.5,mmusculus,hsapiens,Pancreas_hs_mm,LIGER UINMF HE
+LIGER,SH,hsapiens to mfascicularis,0.03987290858876476,0.3333333333333333,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,LIGER SH
+LIGER,O2O,xtropicalis to hsapiens,0.03946135489182063,0.5714285714285714,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER UINMF,O2O,xtropicalis to mfascicularis,0.03716137920202824,0.6,xtropicalis,mfascicularis,Heart_mf_xl,LIGER UINMF O2O
+LIGER,SH,mfascicularis to drerio,0.03462089612409918,0.6,mfascicularis,drerio,Heart_mf_dr,LIGER SH
+LIGER UINMF,HE,mfascicularis to xtropicalis,0.03325350619902399,1,mfascicularis,xtropicalis,Heart_mf_xl,LIGER UINMF HE
+LIGER,O2O,mfascicularis to mmusculus,0.03321433092997967,0.8333333333333334,mfascicularis,mmusculus,Heart_mf_mm,LIGER O2O
+LIGER,SH,drerio to mfascicularis,0.03155573782434366,0.4,drerio,mfascicularis,Heart_mf_dr,LIGER SH
+LIGER,SH,xtropicalis to hsapiens,0.029404194254793,0.5714285714285714,xtropicalis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER UINMF,SH,mmusculus to mfascicularis,0.02936630042568481,1,mmusculus,mfascicularis,Heart_hs_mf_mm,LIGER UINMF SH
+LIGER,HE,drerio to mmusculus,0.02931676398621478,0.25,drerio,mmusculus,Heart_mm_dr,LIGER HE
+Harmony,SH,mfascicularis to drerio,0.02791862418496373,1,mfascicularis,drerio,Heart_mf_dr,Harmony SH
+LIGER,SH,drerio to mmusculus,0.02611954790289532,0.25,drerio,mmusculus,Heart_mm_dr,LIGER SH
+LIGER,HE,mfascicularis to drerio,0.02571942212606997,0.6,mfascicularis,drerio,Heart_mf_dr,LIGER HE
+LIGER,HE,xtropicalis to hsapiens,0.02301564517870599,0.42857142857142855,xtropicalis,hsapiens,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,xtropicalis to mmusculus,0.0184550683206173,0.5714285714285714,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,O2O,mmusculus to drerio,0.01745321150472621,0.5,mmusculus,drerio,Heart_mm_dr,LIGER O2O
+LIGER,SH,mfascicularis to mmusculus,0.01431305473197781,0.3333333333333333,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,LIGER SH
+LIGER UINMF,SH,drerio to mmusculus,0.01314501932016043,0.875,drerio,mmusculus,Heart_mm_dr,LIGER UINMF SH
+LIGER,SH,drerio to mmusculus,0.01311962655645084,0.25,drerio,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,O2O,hsapiens to mmusculus,0.01295520760539696,0.5,hsapiens,mmusculus,Pancreas_hs_mm,LIGER O2O
+LIGER,O2O,mfascicularis to drerio,0.01253648978976236,0.6,mfascicularis,drerio,Heart_mf_dr,LIGER O2O
+LIGER,SH,mmusculus to mfascicularis,0.00725814922553027,0.3333333333333333,mmusculus,mfascicularis,Heart_mf_mm,LIGER SH
+fastMNN,HE,mfascicularis to drerio,0.00664511702624131,1,mfascicularis,drerio,Heart_mf_dr,fastMNN HE
+LIGER,SH,mfascicularis to xtropicalis,0.00245487608646353,0.4,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,LIGER SH
+Harmony,O2O,hsapiens to drerio,0.00136619435335015,0.5714285714285714,hsapiens,drerio,Heart_hs_dr,Harmony O2O
+LIGER,HE,mmusculus to drerio,6.8572962575145e-4,0.625,mmusculus,drerio,Heart_mm_dr,LIGER HE
+LIGER,HE,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_mf_xl,LIGER HE
+LIGER,SH,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_mf_xl,LIGER SH
+LIGER,O2O,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_mf_xl,LIGER O2O
+LIGER,O2O,drerio to mfascicularis,0,0.2,drerio,mfascicularis,Heart_mf_dr,LIGER O2O
+LIGER,O2O,hsapiens to xtropicalis,0,0.14285714285714285,hsapiens,xtropicalis,Heart_hs_xl,LIGER O2O
+LIGER,HE,hsapiens to drerio,0,0.14285714285714285,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mfascicularis to drerio,0,0.2,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mmusculus to drerio,0,0.125,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mfascicularis to hsapiens,0,0.16666666666666666,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,hsapiens to mfascicularis,0,0.16666666666666666,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mmusculus to hsapiens,0,0.09090909090909093,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,hsapiens to mmusculus,0,0.09090909090909093,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,hsapiens to xtropicalis,0,0.14285714285714285,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mmusculus to mfascicularis,0,0.16666666666666666,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mfascicularis to mmusculus,0,0.16666666666666666,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,HE,mmusculus to xtropicalis,0,0.14285714285714285,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,SH,hsapiens to drerio,0,0.14285714285714285,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mfascicularis to drerio,0,0.2,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mmusculus to drerio,0,0.125,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mfascicularis to hsapiens,0,0.16666666666666666,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,hsapiens to mfascicularis,0,0.16666666666666666,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mmusculus to hsapiens,0,0.09090909090909093,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,hsapiens to mmusculus,0,0.09090909090909093,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,hsapiens to xtropicalis,0,0.14285714285714285,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mmusculus to mfascicularis,0,0.16666666666666666,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mfascicularis to mmusculus,0,0.16666666666666666,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,mmusculus to xtropicalis,0,0.14285714285714285,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,O2O,hsapiens to drerio,0,0.14285714285714285,hsapiens,drerio,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mfascicularis to drerio,0,0.2,mfascicularis,drerio,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mmusculus to drerio,0,0.125,mmusculus,drerio,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mfascicularis to hsapiens,0,0.16666666666666666,mfascicularis,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,hsapiens to mfascicularis,0,0.16666666666666666,hsapiens,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mmusculus to hsapiens,0,0.09090909090909093,mmusculus,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,hsapiens to mmusculus,0,0.09090909090909093,hsapiens,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,hsapiens to xtropicalis,0,0.14285714285714285,hsapiens,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mmusculus to mfascicularis,0,0.16666666666666666,mmusculus,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mfascicularis to mmusculus,0,0.16666666666666666,mfascicularis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,mmusculus to xtropicalis,0,0.14285714285714285,mmusculus,xtropicalis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,HE,mfascicularis to hsapiens,0,0.16666666666666666,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,hsapiens to mfascicularis,0,0.16666666666666666,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,mmusculus to hsapiens,0,0.09090909090909093,mmusculus,hsapiens,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,hsapiens to mmusculus,0,0.09090909090909093,hsapiens,mmusculus,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,hsapiens to xtropicalis,0,0.14285714285714285,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,mmusculus to mfascicularis,0,0.16666666666666666,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,mfascicularis to mmusculus,0,0.16666666666666666,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,HE,mmusculus to xtropicalis,0,0.14285714285714285,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,LIGER HE
+LIGER,O2O,mfascicularis to hsapiens,0,0.16666666666666666,mfascicularis,hsapiens,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,hsapiens to mfascicularis,0,0.16666666666666666,hsapiens,mfascicularis,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,mmusculus to hsapiens,0,0.09090909090909093,mmusculus,hsapiens,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,hsapiens to mmusculus,0,0.09090909090909093,hsapiens,mmusculus,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,hsapiens to xtropicalis,0,0.14285714285714285,hsapiens,xtropicalis,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,mmusculus to mfascicularis,0,0.16666666666666666,mmusculus,mfascicularis,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,mfascicularis to mmusculus,0,0.16666666666666666,mfascicularis,mmusculus,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,mfascicularis to xtropicalis,0,0.2,mfascicularis,xtropicalis,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,O2O,mmusculus to xtropicalis,0,0.14285714285714285,mmusculus,xtropicalis,Heart_hs_mf_mm_xl,LIGER O2O
+LIGER,HE,mmusculus to hsapiens,0,0.1,mmusculus,hsapiens,Pancreas_hs_mm,LIGER HE
+LIGER,SH,mmusculus to hsapiens,0,0.1,mmusculus,hsapiens,Pancreas_hs_mm,LIGER SH
+LIGER,O2O,mmusculus to hsapiens,0,0.1,mmusculus,hsapiens,Pancreas_hs_mm,LIGER O2O
+LIGER,SH,mmusculus to drerio,-9.7127058861912e-4,0.5,mmusculus,drerio,Heart_mm_dr,LIGER SH
+LIGER,HE,drerio to hsapiens,-0.00461976501218763,0.2857142857142857,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER HE
+fastMNN,SH,mfascicularis to drerio,-0.00535240043635161,1,mfascicularis,drerio,Heart_mf_dr,fastMNN SH
+LIGER,O2O,drerio to hsapiens,-0.00608902284102144,0.2857142857142857,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,O2O,xtropicalis to mmusculus,-0.00644783404380208,0.5714285714285714,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,HE,xtropicalis to mfascicularis,-0.00950622071883604,0.6,xtropicalis,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,SH,drerio to hsapiens,-0.01002334395939672,0.2857142857142857,drerio,hsapiens,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,SH,xtropicalis to mmusculus,-0.01811355593109602,0.5714285714285714,xtropicalis,mmusculus,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER,O2O,xtropicalis to mfascicularis,-0.02268858956361253,0.4,xtropicalis,mfascicularis,Heart_mf_xl,LIGER O2O
+LIGER,SH,mfascicularis to mmusculus,-0.02594873862545173,0.8333333333333334,mfascicularis,mmusculus,Heart_mf_mm,LIGER SH
+LIGER,HE,xtropicalis to mfascicularis,-0.03010954390673248,0.4,xtropicalis,mfascicularis,Heart_mf_xl,LIGER HE
+LIGER UINMF,SH,drerio to mfascicularis,-0.03288198484394757,0.6,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER UINMF SH
+LIGER,O2O,drerio to mmusculus,-0.05755593481989163,0.5,drerio,mmusculus,Heart_mm_dr,LIGER O2O
+LIGER,SH,xtropicalis to mfascicularis,-0.05788146938759971,0.4,xtropicalis,mfascicularis,Heart_mf_xl,LIGER SH
+LIGER,HE,drerio to mfascicularis,-0.05900997837473592,0.4,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER HE
+LIGER,O2O,drerio to mfascicularis,-0.06269846781011287,0.4,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER O2O
+LIGER,SH,drerio to mfascicularis,-0.06787787911521623,0.4,drerio,mfascicularis,Heart_hs_mf_mm_xl_dr,LIGER SH
+LIGER UINMF,O2O,drerio to mmusculus,-0.07369936835539165,0.875,drerio,mmusculus,Heart_mm_dr,LIGER UINMF O2O
