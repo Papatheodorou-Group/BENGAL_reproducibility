@@ -1,4 +1,4 @@
-name: seurat
+name: BENGAL_reprod
 channels:
   - bioconda
   - conda-forge
@@ -586,4 +586,3 @@ dependencies:
   - zipp=3.8.0=pyhd8ed1ab_0
   - zlib=1.2.12=h166bdaf_1
   - zstd=1.5.2=h8a70e8d_2
-prefix: /nfs/research/icortes/ysong/anaconda3/envs/seurat
