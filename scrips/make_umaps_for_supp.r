@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 library(tidyverse)
 library(SeuratDisk)
 library(Seurat)
