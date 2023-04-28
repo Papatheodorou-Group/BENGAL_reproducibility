@@ -8,7 +8,7 @@ We provide the jupyter notebooks and scripts to reproduce the benchmarking resul
 
 The starting materials would be the outputs by the BENGAL Nextflow pipeline. The same notebooks could be used for other benchmarking runs, while here we also provide combined results in .tsv format from the study.
 
-[Check out the BENGAL preprint](https://www.biorxiv.org/content/10.1101/2022.09.27.509674v1)
+[Check out the BENGAL preprint](https://www.biorxiv.org/content/10.1101/2022.09.27.509674)
 
 [Go to BENGAL pipeline main repo](https://github.com/Functional-Genomics/BENGAL)
 
