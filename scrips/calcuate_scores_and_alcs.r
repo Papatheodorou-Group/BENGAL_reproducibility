@@ -43,6 +43,7 @@ mutate(avg_score_scaled_rank = dense_rank(desc(avg_score)))
 integrated_metrics = merge(batch_metrics, bio_metrics, by = 'type', suffixes = c("_batch", "_bio")) %>% 
 mutate(integrated_score = avg_score_batch*0.4 + avg_score_bio*0.6) 
 
+# then go to notebooks/fig2_7_tasks_scores.ipynb
 
 ### ALCS: compare per-species before integration and after integration
 
@@ -50,20 +51,16 @@ mutate(integrated_score = avg_score_batch*0.4 + avg_score_bio*0.6)
 # sccaf is the concatenated file across all <method>/cross-species/SCCAF_projection/**SCCAF_accuracy_summary.csv
 # per_species is the concatenated file across all species in per-species/**SCCAF_accuracy_summary_<species>.csv
 
-sccaf_acc = sccaf %>% 
-select(test_acc, type_label, from_species, integration_method, input_file) %>% unique() %>% 
-filter(type_label == 'original') %>%
-group_by(input_file) %>% 
-mutate(mean_acc = mean(test_acc)) %>%  ## mean accuracy of two species
-select(-c(from_species, test_acc)) %>% unique() %>% 
-ungroup() %>% 
-mutate(type = paste(integration_method, homology_method))
-
 per_species_acc = per_species %>% select(test_acc, from_species) %>% unique()
 
 colnames(per_species_acc) = c("acc_prior", "from_species")
 
-sccaf_results = sccaf_acc %>% 
+sccaf_results = sccaf  %>% 
+select(test_acc, type_label, from_species, integration_method, homology_method, input_file) %>% unique() %>% 
+filter(type_label == 'original') %>%
 merge(per_species_acc, by = 'from_species') %>% 
-mutate(acc_loss = acc_prior - test_acc) %>% 
-arrange(desc(acc_loss)) 
+mutate(acc_loss = acc_prior - test_acc) %>% # compare per-species test acc before integration and after integration
+arrange(desc(acc_loss)) %>% 
+mutate(type = paste(integration_method, homology_method))  
+
+# then go to notebooks/ALCS_analysis.ipynb
